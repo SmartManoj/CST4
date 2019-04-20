@@ -3990,7 +3990,7 @@
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
 					"settings":
 					{
-						"buffer_size": 378,
+						"buffer_size": 405,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -4012,10 +4012,7 @@
 					}
 				},
 				{
-					"contents": "# git ls-files --others --exclude-from=.git/info/exclude\n# Lines that start with '#' are comments.\n# For a project mostly in C, the following would be a good set of\n# exclude patterns (uncomment them if you want to use them):\n# *.[oa]\n# *~\n",
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.git/info/exclude",
-					"file_size": 240,
-					"file_write_time": 132002185009732527,
 					"settings":
 					{
 						"buffer_size": 240,
@@ -6922,15 +6919,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 378,
+								"buffer_size": 405,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										42,
-										42
+										78,
+										78
 									]
 								],
 								"settings":
@@ -7626,16 +7623,16 @@
 			"select_project":
 			{
 				"height": 500.0,
-				"last_filter": "",
+				"last_filter": "b",
 				"selected_items":
 				[
 					[
-						"",
+						"b",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
-						"b",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
+						"",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
 					],
 					[
 						"d",
