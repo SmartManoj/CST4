@@ -3990,7 +3990,7 @@
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
 					"settings":
 					{
-						"buffer_size": 414,
+						"buffer_size": 441,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -6460,6 +6460,7 @@
 			],
 			"file_history":
 			[
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.gitignore",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/L.txt",
 				"/C/Users/Smart/Downloads/Telegram Desktop/demo.py",
 				"/D/1.Manoj/4.Study/4.Codes/tele.py",
@@ -6586,8 +6587,7 @@
 				"/D/1.Manoj/4.Study/4.Codes/LoginForm.java",
 				"/D/1.Manoj/4.Study/4.Codes/B/db.java",
 				"/C/Users/Smart/Downloads/Telegram Desktop/SignUp.java",
-				"/C/Users/Smart/Downloads/Telegram Desktop/ip 2018-19",
-				"/F/Prog/atd/tlog.html"
+				"/C/Users/Smart/Downloads/Telegram Desktop/ip 2018-19"
 			],
 			"find":
 			{
@@ -6919,15 +6919,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 414,
+								"buffer_size": 441,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										159,
-										159
+										134,
+										134
 									]
 								],
 								"settings":
