@@ -1,0 +1,14 @@
+{
+    "shell_cmd": "py ${packages}\\Custom\\php_run_browser.py",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "shell":false, 
+    "selector":"embedding.php,text.html.basic",
+    "variants":[
+    	{
+    		"name":"cmd",
+		    "shell":false, 
+		    "selector":"embedding.php",
+    		"shell_cmd": "I:\\xampp\\PHP\\php $file"
+    	}
+    ]
+}

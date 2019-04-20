@@ -1,0 +1,120 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"keep": true,
+					"operator": "subtract",
+					"pattern": "/*",
+					"use_regex": false
+				},
+				"command": "text_pastry_modify_selection",
+				"pattern": "/*"
+			},
+			"key": "523048e7f5ca9550505f2d8ea6d587e7",
+			"label": "/*"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"keep": true,
+					"operator": null,
+					"pattern": "*/",
+					"use_regex": false
+				},
+				"command": "text_pastry_modify_selection",
+				"pattern": "*/"
+			},
+			"key": "c4c9bdd47ee05028cb84873da0ebf2b5",
+			"label": "*/"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "file",
+					"keep": true,
+					"operator": "add",
+					"pattern": "\\*/",
+					"use_regex": false
+				},
+				"command": "text_pastry_modify_selection",
+				"pattern": "\\*/"
+			},
+			"key": "e49a5136fdef209a7c9cf704632d2131",
+			"label": "\\*/"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "selection",
+					"keep": true,
+					"operator": null,
+					"pattern": "\\*/.",
+					"use_regex": false
+				},
+				"command": "text_pastry_modify_selection",
+				"pattern": "\\*/."
+			},
+			"key": "ea78ebcc452cc9d418b7f29f5d96cc12",
+			"label": "\\*/."
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "file",
+					"keep": true,
+					"operator": "add",
+					"pattern": "*",
+					"use_regex": false
+				},
+				"command": "text_pastry_modify_selection",
+				"pattern": "*"
+			},
+			"key": "3389dae361af79b04c9c8e7057f60cc6",
+			"label": "*"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"context": "file",
+					"keep": true,
+					"operator": "add",
+					"pattern": "D",
+					"use_regex": false
+				},
+				"command": "text_pastry_modify_selection",
+				"pattern": "D"
+			},
+			"key": "f623e75af30e62bbd73d6df5b50bb7b5",
+			"label": "D"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"context": "file",
+			"keep": true,
+			"operator": "add",
+			"pattern": "D",
+			"use_regex": false
+		},
+		"command": "text_pastry_modify_selection",
+		"pattern": "D"
+	}
+}

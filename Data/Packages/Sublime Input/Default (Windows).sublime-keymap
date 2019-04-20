@@ -1,0 +1,8 @@
+[
+    { 
+        "keys": ["ctrl+alt+c"], "command": "sublime_input"
+    },
+    { 
+        "keys": ["ctrl+shift+c"], "command": "cancel_sublime_input"
+    }
+]

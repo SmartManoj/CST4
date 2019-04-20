@@ -1,0 +1,20 @@
+{
+    "shell_cmd": "mingw32-g++ $file -o $file_base_name -lbgi -lgdi32 && $file_base_name",
+    // "cmd": ["mingw32-g++",   "$file", "-o", "$file_base_name.exe", "&&", "start", "cmd","/c","$file_base_name & pause"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    // "working_dir": "C:\\MinGW\\bin",
+    "selector": "source.c++ ,source.c",
+    "shell": true,
+    "variants":[
+    	{
+    		"name":"cmd",
+    		 "shell_cmd": "mingw32-c++ $file -o $file_base_name -lbgi -lgdi32 && start cmd /c \"$file_base_name & pause\"",
+
+    		 "cmd": ["mingw32-c++",   "$file", "-o", "$file_base_name.exe", "&&", "start", "cmd","/c","$file_base_name & pause"],
+		    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+		    // "working_dir": "C:\\MinGW\\bin",
+		    "selector": "source.c++",
+		    "shell": true,
+    	}
+    ]
+}

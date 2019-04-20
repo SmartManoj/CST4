@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"create_window_at_startup": false,
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"ANSIescape",
+		"Pretty JSON",
+		"RawLineEdit",
+		"ShowLineEndings",
+		"sublime-text-2-buildview",
+		"SublimeREPL",
+		"Vintage"
+	],
+	"show_encoding": true,
+	"update_check": false,
+	"word_wrap": true
+}
