@@ -3359,19 +3359,6 @@
 			{
 				"args":
 				{
-					"text": "3"
-				},
-				"command": "text_pastry_step",
-				"text": "3"
-			},
-			"key": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
-			"label": "3"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"repeat": "31",
 					"text": "1"
 				},
@@ -6688,19 +6675,6 @@
 			{
 				"args":
 				{
-					"clipboard": true
-				},
-				"command": "text_pastry_insert_text",
-				"text": "\\p"
-			},
-			"key": "ceb8141b2b1d05fb9539bc1381b58745",
-			"label": "\\p"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"repeat": "25",
 					"text": "http://gndec.ac.in/~inderjeetsinghit/bea_notes/bea_theory/Chapter01.ppt"
 				},
@@ -7046,19 +7020,6 @@
 			{
 				"args":
 				{
-					"text": "1"
-				},
-				"command": "text_pastry_step",
-				"text": "1"
-			},
-			"key": "c4ca4238a0b923820dcc509a6f75849b",
-			"label": "1"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "4"
 				},
 				"command": "text_pastry_step",
@@ -7148,15 +7109,68 @@
 			},
 			"key": "1679091c5a880faf6fb5e6087eb1b2dc",
 			"label": "6"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "3"
+				},
+				"command": "text_pastry_step",
+				"text": "3"
+			},
+			"key": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
+			"label": "3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "7",
+					"text": "d= "
+				},
+				"command": "text_pastry_auto_step",
+				"text": "s d=  x7"
+			},
+			"key": "48067b749cdb612f355051f6004d63d2",
+			"label": "s d=  x7"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"clipboard": true
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\p"
+			},
+			"key": "ceb8141b2b1d05fb9539bc1381b58745",
+			"label": "\\p"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "1"
+			},
+			"key": "c4ca4238a0b923820dcc509a6f75849b",
+			"label": "1"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "6"
+			"text": "1"
 		},
 		"command": "text_pastry_step",
-		"text": "6"
+		"text": "1"
 	}
 }
