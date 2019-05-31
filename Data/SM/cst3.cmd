@@ -2,10 +2,10 @@
 rem exit
 rem heroku accounts:set p
 call a.cmd
-git rm -r --cached Data\Backup
-git rm -r --cached Data\Cache
 git init
 git add .
+git rm -r --cached Data\Backup
+git rm -r --cached Data\Cache
 git commit -m 'Cool'
 exit
 rem git push --set-upstream https://github.com/SmartManoj/CST3 master
