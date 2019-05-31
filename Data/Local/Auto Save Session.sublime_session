@@ -4602,7 +4602,7 @@
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
 					"settings":
 					{
-						"buffer_size": 409,
+						"buffer_size": 447,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -7487,7 +7487,7 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 4,
 					"sheets":
 					[
 						{
@@ -7605,7 +7605,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -7614,15 +7614,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 409,
+								"buffer_size": 447,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										11,
-										11
+										10,
+										10
 									]
 								],
 								"settings":
@@ -7633,7 +7633,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
