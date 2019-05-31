@@ -1,6 +1,5 @@
 @echo off
 
-cd ..\..
 call a.cmd
 rem subl .git\info\exclude
 rem exit
