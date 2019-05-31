@@ -7487,7 +7487,7 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 4,
 					"sheets":
 					[
 						{
@@ -7605,7 +7605,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -7621,8 +7621,8 @@
 								"selection":
 								[
 									[
-										11,
-										11
+										20,
+										20
 									]
 								],
 								"settings":
@@ -7633,7 +7633,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{

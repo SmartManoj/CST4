@@ -1,7 +1,7 @@
 @echo off
 
-call a.cmd
 cd ..\..
+call a.cmd
 rem subl .git\info\exclude
 rem exit
 rem heroku accounts:set p
