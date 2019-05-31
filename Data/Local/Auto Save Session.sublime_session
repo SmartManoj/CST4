@@ -4601,7 +4601,7 @@
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
 					"settings":
 					{
-						"buffer_size": 454,
+						"buffer_size": 481,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -7181,6 +7181,7 @@
 			],
 			"file_history":
 			[
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.git/info/exitclude",
 				"/D/Work/gt.bat",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/SM/cst3.cmd",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data",
@@ -7307,8 +7308,7 @@
 				"/D/1.Manoj/4.Study/4.Codes/tele.py",
 				"/D/1.Manoj/4.Study/4.Codes/report.py",
 				"/D/1.Manoj/4.Study/4.Codes/101/Txts/card",
-				"/D/1.Manoj/4.Study/4.Codes/p5.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Txts/pwd"
+				"/D/1.Manoj/4.Study/4.Codes/p5.py"
 			],
 			"find":
 			{
@@ -7581,8 +7581,12 @@
 								"selection":
 								[
 									[
-										70,
-										70
+										15,
+										26
+									],
+									[
+										46,
+										56
 									]
 								],
 								"settings":
@@ -7602,15 +7606,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 454,
+								"buffer_size": 481,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										25,
-										25
+										140,
+										140
 									]
 								],
 								"settings":
