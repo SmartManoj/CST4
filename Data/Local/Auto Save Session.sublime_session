@@ -4601,7 +4601,7 @@
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
 					"settings":
 					{
-						"buffer_size": 424,
+						"buffer_size": 417,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -7617,15 +7617,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 424,
+								"buffer_size": 417,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										34,
-										34
+										132,
+										132
 									]
 								],
 								"settings":

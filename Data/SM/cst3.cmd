@@ -1,13 +1,12 @@
 @echo off
 cd ..\..
-rem subl .git\info\exitclude
+rem subl .git\info\exclude
 rem exit
 rem heroku accounts:set p
 call a.cmd
 git init
 git add .
 git commit -m 'Cool'
-exit
 rem git push --set-upstream https://github.com/SmartManoj/CST3 master
 rem git push origin master --force
 rem git remote add origin https://github.com/SmartManoj/CST3.git
