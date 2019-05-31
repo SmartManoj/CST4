@@ -1,9 +1,10 @@
 @echo off
+
+call a.cmd
 cd ..\..
 rem subl .git\info\exclude
 rem exit
 rem heroku accounts:set p
-call a.cmd
 git init
 git add .
 git commit -m 'Cool'

@@ -4593,7 +4593,8 @@
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
 					"settings":
 					{
-						"buffer_size": 70,
+						"buffer_size": 61,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
@@ -4601,7 +4602,7 @@
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
 					"settings":
 					{
-						"buffer_size": 417,
+						"buffer_size": 418,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -7486,7 +7487,7 @@
 			"groups":
 			[
 				{
-					"selected": 4,
+					"selected": 3,
 					"sheets":
 					[
 						{
@@ -7585,47 +7586,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 70,
+								"buffer_size": 61,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										15,
-										26
-									],
-									[
-										46,
-										56
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 417,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										132,
-										132
+										0,
+										0
 									]
 								],
 								"settings":
@@ -7637,6 +7606,34 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 418,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11,
+										11
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -7664,7 +7661,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
