@@ -895,7 +895,8 @@
     	[
     		{ "command": "open_url", "args": {"url": "http://bit.ly/sm3st3"}, "caption": "SmartManoj v6" ,"mnemonic": "M"},
     		{ "command": "open_url", "args": {"url": "https://github.com/SmartManoj/CST3"}, "caption": "CST3 Beta" ,"mnemonic": "B"},
-    		{ "command": "open_url", "args": {"url": "http://t.me/SmartManoj"}, "caption": "Telegram","mnemonic": "T" }
+            { "command": "open_url", "args": {"url": "http://t.me/SmartManoj"}, "caption": "Telegram","mnemonic": "T" },
+    		{ "command": "open", "args": {"url": "http://t.me/SmartManoj"}, "caption": "Edit Menu","mnemonic": "T" }
     	]
     },
     {
@@ -917,5 +918,13 @@
     		{ "command": "open_url", "args": {"url": "https://play.google.com/store/apps/details?id=com.sololearn"}, "caption": "Sololearn" ,"mnemonic": "S"},
     		{ "command": "open_url", "args": {"url": "http://t.me/SmartManoj"}, "caption": "Contact","mnemonic": "C"}
     	]
-    }
+    },
+    {
+        "caption": "Read_Me",
+        "mnemonic": "C",
+        "id": "CST3",
+        "command": "open_file", "args": {"file": "$packages\\..\\SM\\cst3.cmd"}, 
+
+       
+    },
 ]

@@ -1,5 +1,8 @@
 [
-   
+      { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+   { "keys": ["ctrl+alt+t"], "command": "open_terminal" },
+   { "keys": ["ctrl+shift+alt+t"], "command": "open_terminal_project_folder" }
+,
    {
       "keys":[
          "shift+alt+up"
@@ -18,6 +21,12 @@
          "forward":true
       }
    },
+   { 
+        "keys": ["ctrl+alt+b"], "command": "sublime_input"
+    },
+    { 
+        "keys": ["ctrl+alt+c"], "command": "cancel_sublime_input"
+    },
    {
       "keys":[
          "ctrl+shift+c"

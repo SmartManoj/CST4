@@ -5869,20 +5869,6 @@
 			{
 				"args":
 				{
-					"repeat": "4",
-					"text": "1"
-				},
-				"command": "text_pastry_auto_step",
-				"text": "s 1 x4"
-			},
-			"key": "d979a4e16dcf7a0039bd564d11a61808",
-			"label": "s 1 x4"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"repeat": "9",
 					"text": "1"
 				},
@@ -7061,19 +7047,6 @@
 			{
 				"args":
 				{
-					"text": "0"
-				},
-				"command": "text_pastry_step",
-				"text": "0"
-			},
-			"key": "cfcd208495d565ef66e7dff9f98764da",
-			"label": "0"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "WeChat  WhatsApp  Telegram  Viber ",
 					"threshold": 3
 				},
@@ -7162,15 +7135,43 @@
 			},
 			"key": "c4ca4238a0b923820dcc509a6f75849b",
 			"label": "1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0"
+				},
+				"command": "text_pastry_step",
+				"text": "0"
+			},
+			"key": "cfcd208495d565ef66e7dff9f98764da",
+			"label": "0"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "4",
+					"text": "1"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "s 1 x4"
+			},
+			"key": "d979a4e16dcf7a0039bd564d11a61808",
+			"label": "s 1 x4"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
+			"repeat": "4",
 			"text": "1"
 		},
-		"command": "text_pastry_step",
-		"text": "1"
+		"command": "text_pastry_auto_step",
+		"text": "s 1 x4"
 	}
 }

@@ -1,0 +1,3 @@
+Snippets
+pyautogui hotkey v2 - pya
+select every line  regex - everyn

@@ -83,7 +83,7 @@
     {
         "syntaxes": "html,blade,asp,xml", // Syntax names which must process HTML formatter
         "format_on_save": false, // Format on save. Either a boolean (true/false) or a string regexp tested on filename. Example : "^((?!.min.|vendor).)*$"
-        "formatter_version": "regexp", // Which formatter to use. Current options are "bs4" and "regexp". If an error occurs while loading the bs4 formatter, the regexp formatter will automatically be used
+        "formatter_version": "bs4", // Which formatter to use. Current options are "bs4" and "regexp". If an error occurs while loading the bs4 formatter, the regexp formatter will automatically be used
         "indent_size": 4, // indentation size
         "indent_char": " ", // Indentation character
         "indent_with_tabs": false, // Indent with one tab (overrides indent_size and indent_char options)

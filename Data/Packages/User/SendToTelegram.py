@@ -38,12 +38,14 @@ def r():
 		a=a.split('\\')
 		b='\\'.join(a[4:])
 		a="{}:\\{}".format(a[3][0],b)
-	print('TG=r"{}"'.format(a),file=open('config.py','a'))
+	print('3',a)
+	print('TG=r"{}"'.format(a),file=open(__file__+'\..\config.py','a'))
 import os
-print(os.getcwd())
+print("42",os.getcwd(),)
 try:
-	from config import *
+	from .config import *
 	TG
+	print('3',TG)
 except Exception as e:
 	r()
 
@@ -53,11 +55,13 @@ import sublime_plugin
 import os
 
 class SendToTelegram(sublime_plugin.TextCommand):
+	print("TG2",TG)
 	def run(self, edit):
 		fileToOpen = self.view.file_name()
 		if self.view.is_dirty():
 				print("File %s is dirty. Saving..." % (fileToOpen,))
 				self.view.window().run_command("save")
+
 
 		a=('{} -sendpath "{}"'.format(TG,fileToOpen))
 		print(a)
