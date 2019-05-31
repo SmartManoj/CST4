@@ -1,10 +1,10 @@
 @echo off
 cd ..\..
-rem subl .git\info\exitclude
+subl .git\info\exitclude
 rem exit
 rem heroku accounts:set p
 call a.cmd
-
+git rm -r --cached some-directory
 git init
 git add .
 git commit -m 'Cool'
