@@ -2,13 +2,14 @@
 	<content><![CDATA[
 from pyautogui import *
 def h(a):
-	v=(('#','win+'),
-	('^','ctrl+'),	
-	('+','shift+'),	
-	('!','alt+'),)
-	('`,'tab+'),)
-	for i,j in v:a=a.replace(i,j)
-	hotkey(*a.strip('+').split('+'))
+    v=(('#','win~'),
+    ('^','ctrl~'),    
+    ('+','shift~'),    
+    ('!','alt~'),
+    ('`','tab~'))
+    for i,j in v:a=a.replace(i,j)
+    hotkey(*a.strip('~').split('~'))
+
 
 
 ]]></content>

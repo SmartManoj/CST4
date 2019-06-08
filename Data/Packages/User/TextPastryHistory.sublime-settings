@@ -7128,19 +7128,6 @@
 			{
 				"args":
 				{
-					"text": "1"
-				},
-				"command": "text_pastry_step",
-				"text": "1"
-			},
-			"key": "c4ca4238a0b923820dcc509a6f75849b",
-			"label": "1"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "0"
 				},
 				"command": "text_pastry_step",
@@ -7162,16 +7149,28 @@
 			},
 			"key": "d979a4e16dcf7a0039bd564d11a61808",
 			"label": "s 1 x4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "1"
+			},
+			"key": "c4ca4238a0b923820dcc509a6f75849b",
+			"label": "1"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"repeat": "4",
 			"text": "1"
 		},
-		"command": "text_pastry_auto_step",
-		"text": "s 1 x4"
+		"command": "text_pastry_step",
+		"text": "1"
 	}
 }

@@ -1,9 +1,15 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium",
+		"/D/Gits/SmartUserScripts",
+		"/D/Gits/AutoL4L",
+		"/D/Gits/SmartPy",
+		"/D/AutoL4L-master",
+		"/C/Users/Smart/Downloads/Telegram Desktop/BOMBitUP_v4.01.1_source_from_JADX",
+		"/D/Userscripts",
 		"/D/Work",
 		"/D/Work/Hotel",
-		"/D/AutoL4L-master",
 		"/C/Users/Smart/Desktop/1",
 		"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/flask_admin",
 		"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/flask_wtf",
@@ -20,7 +26,7 @@
 		"/F/Prog"
 	],
 	"last_version": 3207,
-	"last_window_id": 69,
+	"last_window_id": 92,
 	"log_indexing": false,
 	"settings":
 	{
@@ -31,6 +37,42 @@
 			{
 				"selected_items":
 				[
+					[
+						"fun",
+						"function"
+					],
+					[
+						"va",
+						"val"
+					],
+					[
+						"max",
+						"max_seat"
+					],
+					[
+						"window",
+						"window_handles"
+					],
+					[
+						"re",
+						"requests"
+					],
+					[
+						"over",
+						"overflow-x\tproperty"
+					],
+					[
+						"min",
+						"min-width\tproperty"
+					],
+					[
+						"ge",
+						"gen_data"
+					],
+					[
+						"th",
+						"thtml"
+					],
 					[
 						"pa",
 						"paxC"
@@ -158,10 +200,6 @@
 					[
 						"tn33b",
 						"TN39BW7533"
-					],
-					[
-						"re",
-						"Return"
 					],
 					[
 						"page",
@@ -480,10 +518,6 @@
 						"tgtoken"
 					],
 					[
-						"va",
-						"value"
-					],
-					[
 						"sm",
 						"Smartcodegen"
 					],
@@ -514,34 +548,6 @@
 					[
 						"jso",
 						"json_string"
-					],
-					[
-						"list",
-						"list_dict"
-					],
-					[
-						"li",
-						"list_dict"
-					],
-					[
-						"js",
-						"json_string"
-					],
-					[
-						"Be",
-						"beautifulSoup"
-					],
-					[
-						"def",
-						"defaultdict"
-					],
-					[
-						"B",
-						"BeautifulSoup"
-					],
-					[
-						"ty",
-						"try\tTry/Except"
 					]
 				]
 			},
@@ -576,7 +582,7 @@
 					],
 					[
 						"Packages/AutoHotkey/AutoHotkey.sublime-build",
-						""
+						"cmd"
 					]
 				],
 				[
@@ -2372,8 +2378,16 @@
 				"selected_items":
 				[
 					[
+						"snipp",
+						"Snippet: everyn"
+					],
+					[
 						"rn",
 						"File: Rename"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
 					],
 					[
 						"move",
@@ -2518,10 +2532,6 @@
 					[
 						"vie",
 						"View In Browser"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"mave",
@@ -2878,10 +2888,6 @@
 					[
 						"rena",
 						"File: Rename"
-					],
-					[
-						"pret",
-						"Pretty JSON: Format (Pretty Print) JSON"
 					]
 				],
 				"width": 500.0
@@ -2891,6 +2897,9 @@
 				"height": 226.0,
 				"history":
 				[
+					"sublime.log_input(False)",
+					"sublime.log_input(0)",
+					"sublime.log_input(True)",
 					"sublime.log_commands(True)",
 					"view.run_command('move',{\"by\": \"characters\", \"forward\": True})",
 					"view.run_command('move',{\"by\": \"characters\", \"forward\": False})",
@@ -3015,10 +3024,7 @@
 					"sublime.log_commands(True)",
 					"a",
 					"as",
-					"sublime.log_commands(True)",
-					"cwd",
-					"working_dir",
-					"working"
+					"sublime.log_commands(True)"
 				]
 			},
 			"distraction_free":
@@ -3032,30 +3038,107 @@
 			},
 			"file_history":
 			[
-				"/D/Work/t4.py",
-				"/E/Dad/Sivaram/4.xlsx",
-				"/D/Work/templates/hotel/task.html",
-				"/C/Users/Smart/Downloads/Telegram Desktop/first (3).py",
-				"/D/Work/templates/index.html",
-				"/D/Work/t.py",
-				"/D/Work/t2",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.git/info/exitclude",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/hello_st3.c",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/hello_st3.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/Hello_St3.java",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
 				"/D/Work/gt.bat",
-				"/D/Work/l.bat",
-				"/D/Work/templates/hotel/index.html",
-				"/D/Work/templates/hotel/t.py",
-				"/D/Work/hotel_route.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/SM/cst3.cmd",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Build/mWeb.sublime-build",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Custom/php_run_browser.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest",
+				"/D",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/http:/bit.ly/sm3st3",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Context.sublime-menu",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Terminal (Windows).sublime-settings",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Terminal.sublime-settings",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Default (Linux).sublime-keymap",
+				"/D/Work/t2.py",
+				"/D/Work/templates/hotel/task.html",
+				"/D/Work/t3.py",
 				"/D/Work/app.py",
+				"/D/Work/templates/hotel/index.html",
+				"/D/Work/templates/hotel/header.html",
+				"/D/Work/templates/hotel/t.html",
+				"/C/Users/Smart/Downloads/Telegram Desktop/r1.html",
+				"/D/Work/t.py",
+				"/D/Work/temp/SOME_VARIABLE = 1",
+				"/C/Users/Smart/Downloads/Telegram Desktop/assign.html",
+				"/D/Work/templates/hotel/tables.html",
+				"/C/Users/Smart/Downloads/a.csv",
+				"/C/Users/Smart/.gitconfig",
+				"/D/Work/templates/hotel/nav.html",
+				"/C/Users/Smart/Desktop/wsrv2.py",
+				"/C/Users/Smart/Downloads/Telegram Desktop/r3.html",
+				"/C/Users/Smart/Downloads/Telegram Desktop/r2.html",
+				"/D/Gits/SmartPy/selq.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/lib/site-packages/selenium/webdriver/remote/webdriver.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/common/alert.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/support/expected_conditions.py",
+				"/D/Gits/SmartPy/sel-.py",
+				"/D/1.Manoj/4.Study/4.Codes/p2.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/requests/__init__.py",
+				"/C/Users/Smart/Downloads/Telegram Desktop/C0821b.java",
+				"/D/Work/static/hotel/js/j1.js",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/common/exceptions.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/__init__.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/lib/site-packages/selenium/webdriver/remote/errorhandler.py",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/sel.bat",
+				"/D/Gits/SmartPy/seq.py",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/sel/selk2.ahk",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/sel/selk.ahk",
+				"/D/Gits/SmartPy/selk.ahk",
+				"/D/Gits/AutoL4L/sel-auto.ahk",
+				"/D/Gits/AutoL4L/sel-auto.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/smart.py",
+				"/D/Work/templates/hotel/assign.html",
+				"/D/Work/t5.py",
+				"/D/Work/hotel_route.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/L.txt",
+				"/D/Work/fs.py",
+				"/D/Work/static/hotel/css/c1.css",
+				"/D/Work/app0.py",
+				"/D/Work/static/plugins/datepicker/locales/bootstrap-datepicker.sk.js",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Snippets/everyn.sublime-snippet",
+				"/C/Users/Smart/Downloads/Telegram Desktop/b (3).py",
+				"/D/Work/templates/hotel/tables_l.html",
+				"/D/Work/__init__.py",
+				"/C/Users/Smart/Desktop/wsr.py",
+				"/D/Work/t4.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/C/Users/Smart/Downloads/Telegram Desktop/res_may_19_sara.py",
+				"/D/Work/templates/index.html",
+				"/C/Users/Smart/Downloads/Telegram Desktop/t.py",
+				"/D/Work/requirements.txt",
+				"/D/Work/static/css/alt/AdminLTE-without-plugins.css",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/config.py",
+				"/D/Work/dom.cmd",
+				"/C/Users/Smart/Desktop/heroku_acnts.py",
+				"/E/.knownPackages",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/SendToTelegram.py",
+				"/E/Dad/hpxl.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/lib/zipfile.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/config.py",
+				"/E/Dad/Sivaram/4.xlsx",
+				"/C/Users/Smart/Downloads/Telegram Desktop/first (3).py",
+				"/D/Work/t2",
+				"/D/Work/l.bat",
+				"/D/Work/templates/hotel/t.py",
 				"/D/1.Manoj/a.cs",
 				"/C/Users/Smart/Desktop/VCGPA_CSE.txt",
 				"/C/Users/Smart/Desktop/CGPA.csv",
-				"/D/Work/app0.py",
 				"/D/Work/roostertech/gt.bat",
 				"/D/1.Manoj/4.Study/4.Codes/c.py",
 				"/D/1.Manoj/4.Study/4.Codes/101/Txts/qsearch.txt",
 				"/C/Users/Smart/Downloads/Telegram Desktop/timesheet v2.py",
 				"/D/1.Manoj/4.Study/4.Codes/h4.html",
 				"/D/1.Manoj/4.Study/4.Codes/h3.html",
-				"/C/Users/Smart/Downloads/Telegram Desktop/r2.html",
 				"/D/1.Manoj/4.Study/4.Codes/v.html",
 				"/C/Users/Smart/Downloads/Telegram Desktop/h3 (2).html",
 				"/D/1.Manoj/4.Study/4.Codes/h6.html",
@@ -3069,7 +3152,6 @@
 				"/D/1.Manoj/4.Study/4.Codes/h5.html",
 				"/D/1.Manoj/4.Study/4.Codes/p.py",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Build/mC.sublime-build",
-				"/C/Users/Smart/Downloads/Telegram Desktop/r1.html",
 				"/C/Users/Smart/Downloads/Telegram Desktop/h4.html",
 				"/C/Users/Smart/Downloads/Telegram Desktop/h (3).html",
 				"/D/1.Manoj/4.Study/4.Codes/h.html",
@@ -3081,85 +3163,9 @@
 				"/D/1.Manoj/4.Study/4.Codes/p4.py",
 				"/D/1.Manoj/4.Study/4.Codes/101/Py/GScripts/sheets.py",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/update.cmd",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.gitignore",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/L.txt",
 				"/C/Users/Smart/Downloads/Telegram Desktop/demo.py",
-				"/D/1.Manoj/4.Study/4.Codes/tele.py",
-				"/D/1.Manoj/4.Study/4.Codes/report.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Txts/card",
-				"/D/1.Manoj/4.Study/4.Codes/p5.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Txts/pwd",
-				"/C/Users/Smart/Downloads/Telegram Desktop/hpxl.py",
-				"/D/1.Manoj/4.Study/4.Codes/b.cmd",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Terminal/Context.sublime-menu",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/View In Browser/View In Browser.sublime-settings",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Terminal/Terminal.sublime-settings",
-				"/D/1.Manoj/4.Study/4.Codes/q2.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/p (11).py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp_sum.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp2.py",
-				"/D/SmartBot/my_env/SmartBot/hp.py",
-				"/D/1.Manoj/4.Study/4.Codes/p2.py",
-				"/D/1.Manoj/4.Study/4.Codes/p3.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp.yaml",
-				"/D/1.Manoj/4.Study/4.Codes/p6.py",
-				"/D/1.Manoj/4.Study/4.Codes/q.py",
-				"/D/1.Manoj/4.Study/4.Codes/j.java",
-				"/E/Dad/date.dt",
-				"/C/Users/Smart/Downloads/Telegram Desktop/2_newton_divided_diff.py",
-				"/C/SM/TG/tds.py",
-				"/E/Dad/JUN",
-				"/E/Dad/p",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp_bill.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/sort (2).html",
-				"/D/1.Manoj/2.Soft-war/2.Batch-files/AutoHotkey.ahk",
-				"/C/Users/Smart/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
-				"/D/1.Manoj/4.Study/4.Codes/jiofi.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Txts/UID/e-uid.txt",
-				"/C/Users/Smart/Downloads/Telegram Desktop/ckbox.py",
-				"/C/Users/Smart/Desktop/p.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/Sub/subt-rename.py",
-				"/C/SM/TG/config.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/pydocxts.py",
-				"/C/Users/Smart/Desktop/mentor.json",
-				"/C/Users/Smart/Downloads/Telegram Desktop/numbertoword.py",
-				"/C/SM/TG/v.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/q.py",
-				"/C/SM/TG/z.py",
-				"/D/SM/TG",
-				"/D/SM/TG/z.py",
-				"/D/SM/TG/tds.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Build/mWeb.sublime-build",
-				"/D/SM/TG/v.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/301/fres.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/auto (2).py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/fimg (3).py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/fimg (4).py",
-				"/D/1.Manoj/4.Study/4.Codes/r",
-				"/D/SmartBot/my_env/SmartBot/auto.py",
-				"/C/Users/Smart/Desktop/convert.in",
-				"/D/MessageSourcecode/WebSite2/Default.aspx",
-				"/D/MessageSourcecode/WebSite2/Default.aspx.cs",
-				"/C/Users/Smart/Desktop/d.cs",
-				"/C/Users/Smart/Desktop/convert.py",
-				"/C/Users/Smart/Desktop/convert.out",
-				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Tools/scripts/google.py",
-				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Tools/scripts/win_add2path.py",
-				"/D/Drona2/8Feb/Drona_V1.0/Drona.WebApi/Drona.WebApi.csproj",
-				"/D/1.Manoj/4.Study/4.Codes/j.py",
-				"/D/SmartBot/my_env/SmartBot/coe.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
-				"/C/Users/Smart/Downloads/Telegram Desktop/cat_dog.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/test.html",
-				"/C/Users/Smart/AppData/Roaming/AnyDesk/user.conf",
-				"/D/Tom/telegram.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/Flask-Admin-Dashboard-master/app.py",
-				"/D/1.Manoj/4.Study/4.Codes/config.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/L4L/config.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/Untitled(1).ipynb",
-				"/C/Users/Smart/Downloads/Telegram Desktop/Flask-Admin-Dashboard-master/static/css/bootstrap.css"
+				"/D/1.Manoj/4.Study/4.Codes/tele.py"
 			],
 			"find":
 			{
@@ -3170,6 +3176,7 @@
 				"height": 155.0,
 				"where_history":
 				[
+					"<open folders>"
 				]
 			},
 			"find_state":
@@ -3177,45 +3184,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"default",
+					"packages",
+					"Packages",
+					"packages",
+					"pref",
+					"pac",
+					"pa",
+					"$pa",
+					"pref",
+					"dot",
+					"foo",
+					"save",
+					"color4",
+					"color0",
+					".i1",
+					"top",
+					"save",
+					"datetime1",
+					"datetime",
+					"line-",
+					"line",
+					"style",
+					"div",
+					"menu",
+					"i1",
+					"span",
+					"special",
+					"Special_Instruction_Code",
+					"code",
+					"seats1",
+					"type",
+					"M3-T123",
+					"disabled",
+					"choose",
+					"<select",
+					"select",
+					"Select",
+					"select",
+					"Select",
+					"select",
+					"formSelect",
+					"material_select",
+					"Select",
+					"select",
+					"type",
+					"carousel-item",
+					"Dorsett",
+					"Toyoto",
+					"toy",
+					"toyota",
+					"toyote",
+					"seats",
+					"max_seat",
+					"trip_number",
+					"hotel/index.html",
+					"sheets",
+					"reset",
+					"time",
+					"sheets",
+					"save",
+					"||",
+					"cmd",
+					"line",
+					"switch_to",
+					"is_al",
+					"^\\s+",
+					"\\s+",
+					"df",
+					"m3430a",
+					"import t",
+					"i",
+					"df",
+					"img",
+					"(.*(\\n|$)){3}",
+					"(.*(\\n|$)){2}",
+					"url",
+					"table",
+					"td",
+					"mli",
+					"color0",
+					"drop-hover",
+					"DR01",
+					"table",
+					".c",
+					"overflow-x",
+					"table",
+					"nowrap",
+					"table",
+					"\\.il",
+					".il",
+					"mli",
+					"spaceman",
+					"td",
+					"span {",
+					"span",
+					"relative",
+					"Components",
+					"number",
+					"date",
+					"form",
+					"loading",
+					"create",
+					"loading",
+					"t",
+					"reset",
+					"minus",
+					"enable",
+					"ack1",
+					"r(0)",
+					"ack",
+					"started",
+					"data-total",
+					"total",
+					"this.value",
+					"check",
+					"class=paxC",
+					"paxC",
+					"#paxC",
+					"#paxc",
+					"id=paxC",
+					"id",
+					"id=paxC",
+					"paxC",
+					"paxc",
+					"print",
 					"{tt*c}",
 					"ee",
-					"{{",
-					"paxC\\.",
-					"paxC",
-					"index",
-					"ahk2",
-					"ahk1",
-					"ahk",
-					"Start",
-					"Silka",
-					"materialize",
-					"{%",
-					"https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js",
-					"slider",
-					"card",
-					"start",
-					"edit",
-					"r(",
-					"se",
-					"e.parentElement",
-					"enable",
-					"start",
-					"add",
-					"edit",
-					"pulse",
-					"124",
-					"center",
-					"float",
-					"container",
-					"pink",
-					"btn",
-					"min",
-					"mon",
-					"width",
-					"right",
-					"s\\d+",
-					"s\\d",
-					"route"
+					"{{"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -3223,6 +3319,8 @@
 				"regex": true,
 				"replace_history":
 				[
+					"set_vehicle",
+					"seats",
 					"paxC[i]\\."
 				],
 				"reverse": false,
@@ -3254,7 +3352,7 @@
 			},
 			"output.exec":
 			{
-				"height": 350.0
+				"height": 240.0
 			},
 			"output.find_results":
 			{
@@ -3285,44 +3383,152 @@
 				"selected_items":
 				[
 					[
-						"t3",
-						"t3.py"
-					],
-					[
-						"t2",
-						"t2.py"
+						"gt",
+						"gt.bat"
 					],
 					[
 						"t",
 						"t.py"
 					],
 					[
-						"task",
-						"D:\\Work\\templates\\hotel\\task.html"
+						"t2",
+						"t2.py"
 					],
 					[
-						"gt",
-						"gt.bat"
+						"t.",
+						"t.py"
+					],
+					[
+						"",
+						"templates\\hotel\\index.html"
 					],
 					[
 						"ap",
 						"app.py"
 					],
 					[
-						"ta",
+						"tas",
 						"templates\\hotel\\task.html"
 					],
 					[
-						"tas",
+						"app",
+						"app.py"
+					],
+					[
+						"ass",
+						"templates\\hotel\\assign.html"
+					],
+					[
+						"index",
+						"templates\\hotel\\index.html"
+					],
+					[
+						"he",
+						"templates\\hotel\\header.html"
+					],
+					[
+						"nav",
+						"templates\\hotel\\nav.html"
+					],
+					[
+						"t.h",
+						"templates\\hotel\\t.html"
+					],
+					[
+						"h.ht",
+						"templates\\hotel\\t.html"
+					],
+					[
+						"ind",
+						"templates\\hotel\\index.html"
+					],
+					[
+						"hea",
+						"templates\\hotel\\header.html"
+					],
+					[
+						"in",
+						"templates\\hotel\\index.html"
+					],
+					[
+						"task",
+						"templates\\hotel\\task.html"
+					],
+					[
+						"tht",
+						"templates\\hotel\\t.html"
+					],
+					[
+						"inde",
+						"templates\\hotel\\index.html"
+					],
+					[
+						"t3",
+						"t3.py"
+					],
+					[
+						"tables",
+						"templates\\hotel\\tables.html"
+					],
+					[
+						"hotel as",
+						"templates\\hotel\\assign.html"
+					],
+					[
+						"tab",
+						"templates\\hotel\\tables.html"
+					],
+					[
+						"hot",
+						"hotel_route.py"
+					],
+					[
+						"t5",
+						"t5.py"
+					],
+					[
+						"tds",
+						"static\\plugins\\datepicker\\locales\\bootstrap-datepicker.sk.js"
+					],
+					[
+						"c1",
+						"static\\hotel\\css\\c1.css"
+					],
+					[
+						"h",
+						"hotel_route.py"
+					],
+					[
+						"hotel",
+						"hotel_route.py"
+					],
+					[
+						"her",
+						"hotel_route.py"
+					],
+					[
+						"t4",
+						"t4.py"
+					],
+					[
+						"ro",
+						"hotel_route.py"
+					],
+					[
+						"hote",
+						"templates\\hotel\\task.html"
+					],
+					[
+						"heo",
+						"hotel_route.py"
+					],
+					[
+						"ta",
 						"templates\\hotel\\task.html"
 					],
 					[
 						"html",
 						"templates\\index.html"
-					],
-					[
-						"app",
-						"app.py"
 					],
 					[
 						"g",
@@ -3335,10 +3541,6 @@
 					[
 						"h2",
 						"templates\\hotel\\h2.html"
-					],
-					[
-						"inde",
-						"templates\\hotel\\index.html"
 					],
 					[
 						"l",
@@ -3393,10 +3595,6 @@
 						"4.Codes\\q3.py"
 					],
 					[
-						"h",
-						"4.Codes\\h.html"
-					],
-					[
 						"car",
 						"4.Codes\\101\\Txts\\card"
 					],
@@ -3423,10 +3621,6 @@
 					[
 						"pwd",
 						"4.Codes\\101\\Txts\\pwd"
-					],
-					[
-						"",
-						"C:\\Users\\Smart\\Downloads\\Telegram Desktop\\hpxl.py"
 					],
 					[
 						"tel",
@@ -3459,10 +3653,6 @@
 					[
 						"p4",
 						"4.Codes\\p4.py"
-					],
-					[
-						"tds",
-						"Startup\\tds.ahk"
 					],
 					[
 						"ah",
@@ -3689,10 +3879,6 @@
 						"2.Batch-files\\ssk.bat"
 					],
 					[
-						"h.ht",
-						"4.Codes\\h.html"
-					],
-					[
 						"ht",
 						"4.Codes\\h.html"
 					],
@@ -3707,94 +3893,6 @@
 					[
 						"pyau",
 						"4.Codes\\101\\Py\\301\\pyauto.py"
-					],
-					[
-						"ahk2",
-						"2.Batch-files\\ahk2.ahk"
-					],
-					[
-						"lo",
-						"C:\\Users\\Smart\\Downloads\\Telegram Desktop\\login.py"
-					],
-					[
-						"1",
-						"1"
-					],
-					[
-						"dbo",
-						"4.Codes\\dbox.py"
-					],
-					[
-						"dob",
-						"4.Codes\\101\\KEC\\res\\dobf.py"
-					],
-					[
-						"tn",
-						"4.Codes\\101\\Py\\BT\\TNRes\\tnres.py"
-					],
-					[
-						"pya",
-						"4.Codes\\101\\Py\\301\\pyauto.py"
-					],
-					[
-						"tnr",
-						"4.Codes\\101\\Py\\BT\\TNRes\\tnres.py"
-					],
-					[
-						"ty",
-						"TG\\tdsv5.py"
-					],
-					[
-						"amu",
-						"4.Codes\\101\\Py\\BT\\Amulyam\\amu-bal.py"
-					],
-					[
-						"card",
-						"4.Codes\\101\\Txts\\card"
-					],
-					[
-						"h.",
-						"4.Codes\\h.html"
-					],
-					[
-						"tds.a",
-						"TG\\tds.ahk"
-					],
-					[
-						"a.hk",
-						"2.Batch-files\\ahk3.ahk"
-					],
-					[
-						"tg",
-						"4.Codes\\tgs.py"
-					],
-					[
-						"a.re",
-						"2.Batch-files\\Context menu\\AddToOpenAsAdmin.reg.reg"
-					],
-					[
-						"z",
-						"4.Codes\\z"
-					],
-					[
-						"sel",
-						"2.Batch-files\\sel\\selk.ahk"
-					],
-					[
-						"autop",
-						"4.Codes\\101\\Py\\301\\pyauto.py"
-					],
-					[
-						"dra",
-						"4.Codes\\101\\Txts\\UID\\drac.txt"
-					],
-					[
-						"tgs",
-						"4.Codes\\tgs.py"
-					],
-					[
-						"ca",
-						"4.Codes\\101\\Txts\\card"
 					]
 				],
 				"width": 0.0
@@ -3807,10 +3905,34 @@
 				[
 					[
 						"",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
 						"b",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
+					],
+					[
+						"C",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
+					],
+					[
+						"m",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
+					],
+					[
+						"ma",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
+					],
+					[
+						"dr",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-project"
+					],
+					[
+						"g",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\HongKong.sublime-project"
+					],
+					[
+						"bo",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
@@ -3818,16 +3940,8 @@
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
 					],
 					[
-						"m",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
-					],
-					[
 						"d",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-project"
-					],
-					[
-						"dr",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona2.sublime-project"
 					],
 					[
 						" ",
@@ -3878,16 +3992,8 @@
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
-						"bo",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Subl\\Bot.sublime-project"
-					],
-					[
 						"boi",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Bot.sublime-project"
-					],
-					[
-						"ma",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Manoj.sublime-project"
 					],
 					[
 						"bt",
@@ -3902,7 +4008,7 @@
 			},
 			"select_symbol":
 			{
-				"height": 165.0,
+				"height": 330.0,
 				"last_filter": "",
 				"selected_items":
 				[
@@ -3940,6 +4046,42 @@
 			{
 				"selected_items":
 				[
+					[
+						"fun",
+						"function"
+					],
+					[
+						"va",
+						"val"
+					],
+					[
+						"max",
+						"max_seat"
+					],
+					[
+						"window",
+						"window_handles"
+					],
+					[
+						"re",
+						"requests"
+					],
+					[
+						"over",
+						"overflow-x\tproperty"
+					],
+					[
+						"min",
+						"min-width\tproperty"
+					],
+					[
+						"ge",
+						"gen_data"
+					],
+					[
+						"th",
+						"thtml"
+					],
 					[
 						"pa",
 						"paxC"
@@ -4067,10 +4209,6 @@
 					[
 						"tn33b",
 						"TN39BW7533"
-					],
-					[
-						"re",
-						"Return"
 					],
 					[
 						"page",
@@ -4389,10 +4527,6 @@
 						"tgtoken"
 					],
 					[
-						"va",
-						"value"
-					],
-					[
 						"sm",
 						"Smartcodegen"
 					],
@@ -4423,106 +4557,42 @@
 					[
 						"jso",
 						"json_string"
-					],
-					[
-						"list",
-						"list_dict"
-					],
-					[
-						"li",
-						"list_dict"
-					],
-					[
-						"js",
-						"json_string"
-					],
-					[
-						"Be",
-						"beautifulSoup"
-					],
-					[
-						"def",
-						"defaultdict"
-					],
-					[
-						"B",
-						"BeautifulSoup"
-					],
-					[
-						"ty",
-						"try\tTry/Except"
 					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/D/Work/static/css/alt/AdminLTE-without-plugins.css",
+					"file": "/D/Work/app.py",
 					"settings":
 					{
-						"buffer_size": 90048,
+						"buffer_size": 3868,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/Work/t2.py",
+					"file": "/D/Work/templates/hotel/mindex.html",
 					"settings":
 					{
-						"buffer_size": 733,
+						"buffer_size": 1673,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/Work/t3.py",
+					"file": "/D/Work/templates/hotel/nav.html",
 					"settings":
 					{
-						"buffer_size": 143,
+						"buffer_size": 389,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/Work/t4.py",
+					"file": "/D/Work/templates/hotel/assign.html",
 					"settings":
 					{
-						"buffer_size": 236,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/SendToTelegram.py",
-					"settings":
-					{
-						"buffer_size": 1690,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/config.py",
-					"settings":
-					{
-						"buffer_size": 0,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Work/templates/hotel/task.html",
-					"settings":
-					{
-						"buffer_size": 8258,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/Work/t.py",
-					"settings":
-					{
-						"buffer_size": 383,
+						"buffer_size": 11128,
 						"line_ending": "Windows"
 					}
 				},
@@ -4530,56 +4600,47 @@
 					"file": "/D/Work/gt.bat",
 					"settings":
 					{
-						"buffer_size": 516,
+						"buffer_size": 573,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/Work/app.py",
+					"file": "/C/Users/Smart/.gitconfig",
 					"settings":
 					{
-						"buffer_size": 33114,
+						"buffer_size": 242,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/Work/templates/hotel/login.html",
+					"settings":
+					{
+						"buffer_size": 4149,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Work/templates/hotel/task.html",
+					"settings":
+					{
+						"buffer_size": 12848,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "<div class=\"row\">\n        <div class=\"col s12 m4\">\n          <div class=\"card\">\n            <div class=\"card-image\">\n \n    <div class=\"carousel-fixed-item center\">\n      \n      <a class=\"btn waves-effect white grey-text darken-text-2\">button</a>\n    </div>\n    <div class=\"carousel-item red white-text\" href=\"#one!\">\n      \n      <h2>First Panel</h2>\n\n      <p class=\"white-text\">This is your first panel</p>\n    </div>\n\n    <div class=\"carousel-item amber white-text\" href=\"#two!\">\n      <h2>Second Panel</h2>\n      <p class=\"white-text\">This is your second panel</p>\n    </div>\n    <div class=\"carousel-item green white-text\" href=\"#three!\">\n      <h2>Third Panel</h2>\n      <p class=\"white-text\">This is your third panel</p>\n    </div>\n    <div class=\"carousel-item blue white-text\" href=\"#four!\">\n      <h2>Fourth Panel</h2>\n      <p class=\"white-text\">This is your fourth panel</p>\n    </div>\n  </div>\n            </div>\n            <div class=\"card-content\">\n              <p>I am a very simple card. I am good at containing small bits of information.\n              I am convenient because I require little markup to use effectively.</p>\n            </div>\n            <div class=\"card-action\">\n              <a href=\"#\">This is a link</a>\n            </div>\n          </div>\n        </div>\n      </div>\n<div class=\"card-image\">\n<div class=\"carousel carousel-slider left\" data-indicators=\"true\">\n    <div class=\"carousel-fixed-item center\">\n      \n      <a class=\"btn waves-effect white grey-text darken-text-2\">button</a>\n    </div>\n    <div class=\"carousel-item red white-text\" href=\"#one!\">\n      \n      <h2>First Panel</h2>\n\n      <p class=\"white-text\">This is your first panel</p>\n    </div>\n\n    <div class=\"carousel-item amber white-text\" href=\"#two!\">\n      <h2>Second Panel</h2>\n      <p class=\"white-text\">This is your second panel</p>\n    </div>\n    <div class=\"carousel-item green white-text\" href=\"#three!\">\n      <h2>Third Panel</h2>\n      <p class=\"white-text\">This is your third panel</p>\n    </div>\n    <div class=\"carousel-item blue white-text\" href=\"#four!\">\n      <h2>Fourth Panel</h2>\n      <p class=\"white-text\">This is your fourth panel</p>\n    </div>\n  </div>\n             </div>   \n<br>\n\n",
+					"file": "/D/Work/templates/hotel/index.html",
 					"settings":
 					{
-						"buffer_size": 2219,
-						"line_ending": "Windows",
-						"name": "<div class=\"row\">"
-					}
-				},
-				{
-					"file": "/D/Work/dom.cmd",
-					"settings":
-					{
-						"buffer_size": 26,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Smart/Desktop/heroku_acnts.py",
-					"settings":
-					{
-						"buffer_size": 536,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "",
-					"settings":
-					{
-						"buffer_size": 0,
+						"buffer_size": 9280,
 						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "",
+			"build_system": "Packages/AutoHotkey/AutoHotkey.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -4611,7 +4672,7 @@
 					],
 					[
 						"Packages/AutoHotkey/AutoHotkey.sublime-build",
-						""
+						"cmd"
 					]
 				],
 				[
@@ -6407,8 +6468,20 @@
 				"selected_items":
 				[
 					[
+						"mov",
+						"File: Move"
+					],
+					[
 						"rn",
 						"File: Rename"
+					],
+					[
+						"snipp",
+						"Snippet: everyn"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
 					],
 					[
 						"move",
@@ -6553,10 +6626,6 @@
 					[
 						"vie",
 						"View In Browser"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
 					],
 					[
 						"mave",
@@ -6909,14 +6978,6 @@
 					[
 						"i",
 						"Package Control: Install Package"
-					],
-					[
-						"rena",
-						"File: Rename"
-					],
-					[
-						"pret",
-						"Pretty JSON: Format (Pretty Print) JSON"
 					]
 				],
 				"width": 500.0
@@ -6926,6 +6987,9 @@
 				"height": 226.0,
 				"history":
 				[
+					"sublime.log_input(False)",
+					"sublime.log_input(0)",
+					"sublime.log_input(True)",
 					"sublime.log_commands(True)",
 					"view.run_command('move',{\"by\": \"characters\", \"forward\": True})",
 					"view.run_command('move',{\"by\": \"characters\", \"forward\": False})",
@@ -7050,10 +7114,7 @@
 					"sublime.log_commands(True)",
 					"a",
 					"as",
-					"sublime.log_commands(True)",
-					"cwd",
-					"working_dir",
-					"working"
+					"sublime.log_commands(True)"
 				]
 			},
 			"distraction_free":
@@ -7067,36 +7128,123 @@
 			},
 			"expanded_folders":
 			[
-				"/D/Work"
+				"/D/Work",
+				"/D/Work/static",
+				"/D/Work/templates",
+				"/D/Work/templates/hotel"
 			],
 			"file_history":
 			[
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/config.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/config.py",
-				"/D/Work/t4.py",
-				"/E/Dad/Sivaram/4.xlsx",
-				"/D/Work/templates/hotel/task.html",
-				"/C/Users/Smart/Downloads/Telegram Desktop/first (3).py",
-				"/D/Work/templates/index.html",
-				"/D/Work/t.py",
-				"/D/Work/t2",
+				"/D/Work/templates/hotel/assign.html",
+				"/D/Work/templates/hotel/mindex.html",
+				"/C/Users/Smart/Downloads/Telegram Desktop/image_slider (2).html",
 				"/D/Work/gt.bat",
-				"/D/Work/l.bat",
-				"/D/Work/templates/hotel/index.html",
-				"/D/Work/templates/hotel/t.py",
-				"/D/Work/hotel_route.py",
+				"/D/Work/mindex.html",
+				"/C/Users/Smart/Desktop/Rooster/wsrv2.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/hello_st3.c",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/sel.bat",
 				"/D/Work/app.py",
+				"/D/Work/templates/hotel/index.html",
+				"/D/Work/templates/hotel/header.html",
+				"/D/Work/templates/hotel/t.html",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data",
+				"/C/Users/Smart/Downloads/Telegram Desktop/assign (2).html",
+				"/D/Work/templates/hotel/nav.html",
+				"/C/Users/Smart/Downloads/Telegram Desktop/h3 (3).html",
+				"/D/Work/t.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
+				"/C/Users/Smart/Downloads/Telegram Desktop/timesheet v4.py",
+				"/C/Users/Smart/Desktop/wsrv2.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Terminal/Context.sublime-menu",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.git/info/exitclude",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/hello_st3.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/Hello_St3.java",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/SM/cst3.cmd",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Build/mWeb.sublime-build",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Custom/php_run_browser.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest",
+				"/D",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/http:/bit.ly/sm3st3",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Context.sublime-menu",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Terminal (Windows).sublime-settings",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Terminal.sublime-settings",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Default (Linux).sublime-keymap",
+				"/D/Work/t2.py",
+				"/D/Work/templates/hotel/task.html",
+				"/D/Work/t3.py",
+				"/C/Users/Smart/Downloads/Telegram Desktop/r1.html",
+				"/D/Work/temp/SOME_VARIABLE = 1",
+				"/C/Users/Smart/Downloads/Telegram Desktop/assign.html",
+				"/D/Work/templates/hotel/tables.html",
+				"/C/Users/Smart/Downloads/a.csv",
+				"/C/Users/Smart/.gitconfig",
+				"/C/Users/Smart/Downloads/Telegram Desktop/r3.html",
+				"/C/Users/Smart/Downloads/Telegram Desktop/r2.html",
+				"/D/Gits/SmartPy/selq.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/lib/site-packages/selenium/webdriver/remote/webdriver.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/common/alert.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/support/expected_conditions.py",
+				"/D/Gits/SmartPy/sel-.py",
+				"/D/1.Manoj/4.Study/4.Codes/p2.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/requests/__init__.py",
+				"/C/Users/Smart/Downloads/Telegram Desktop/C0821b.java",
+				"/D/Work/static/hotel/js/j1.js",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/common/exceptions.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/__init__.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/lib/site-packages/selenium/webdriver/remote/errorhandler.py",
+				"/D/Gits/SmartPy/seq.py",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/sel/selk2.ahk",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/sel/selk.ahk",
+				"/D/Gits/SmartPy/selk.ahk",
+				"/D/Gits/AutoL4L/sel-auto.ahk",
+				"/D/Gits/AutoL4L/sel-auto.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/smart.py",
+				"/D/Work/t5.py",
+				"/D/Work/hotel_route.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/L.txt",
+				"/D/Work/fs.py",
+				"/D/Work/static/hotel/css/c1.css",
+				"/D/Work/app0.py",
+				"/D/Work/static/plugins/datepicker/locales/bootstrap-datepicker.sk.js",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Snippets/everyn.sublime-snippet",
+				"/C/Users/Smart/Downloads/Telegram Desktop/b (3).py",
+				"/D/Work/templates/hotel/tables_l.html",
+				"/D/Work/__init__.py",
+				"/C/Users/Smart/Desktop/wsr.py",
+				"/D/Work/t4.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/C/Users/Smart/Downloads/Telegram Desktop/res_may_19_sara.py",
+				"/D/Work/templates/index.html",
+				"/C/Users/Smart/Downloads/Telegram Desktop/t.py",
+				"/D/Work/requirements.txt",
+				"/D/Work/static/css/alt/AdminLTE-without-plugins.css",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/config.py",
+				"/D/Work/dom.cmd",
+				"/C/Users/Smart/Desktop/heroku_acnts.py",
+				"/E/.knownPackages",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/SendToTelegram.py",
+				"/E/Dad/hpxl.py",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/lib/zipfile.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/config.py",
+				"/E/Dad/Sivaram/4.xlsx",
+				"/C/Users/Smart/Downloads/Telegram Desktop/first (3).py",
+				"/D/Work/t2",
+				"/D/Work/l.bat",
+				"/D/Work/templates/hotel/t.py",
 				"/D/1.Manoj/a.cs",
 				"/C/Users/Smart/Desktop/VCGPA_CSE.txt",
 				"/C/Users/Smart/Desktop/CGPA.csv",
-				"/D/Work/app0.py",
 				"/D/Work/roostertech/gt.bat",
 				"/D/1.Manoj/4.Study/4.Codes/c.py",
 				"/D/1.Manoj/4.Study/4.Codes/101/Txts/qsearch.txt",
 				"/C/Users/Smart/Downloads/Telegram Desktop/timesheet v2.py",
 				"/D/1.Manoj/4.Study/4.Codes/h4.html",
 				"/D/1.Manoj/4.Study/4.Codes/h3.html",
-				"/C/Users/Smart/Downloads/Telegram Desktop/r2.html",
 				"/D/1.Manoj/4.Study/4.Codes/v.html",
 				"/C/Users/Smart/Downloads/Telegram Desktop/h3 (2).html",
 				"/D/1.Manoj/4.Study/4.Codes/h6.html",
@@ -7110,95 +7258,11 @@
 				"/D/1.Manoj/4.Study/4.Codes/h5.html",
 				"/D/1.Manoj/4.Study/4.Codes/p.py",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Build/mC.sublime-build",
-				"/C/Users/Smart/Downloads/Telegram Desktop/r1.html",
 				"/C/Users/Smart/Downloads/Telegram Desktop/h4.html",
 				"/C/Users/Smart/Downloads/Telegram Desktop/h (3).html",
 				"/D/1.Manoj/4.Study/4.Codes/h.html",
 				"/D/1.Manoj/4.Study/4.Codes/q3.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Txts/knab",
-				"/D/1.Manoj/4.Study/4.Codes/index.html",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.git/info/exclude",
-				"/C/Users/Smart/Downloads/Telegram Desktop/sms.php",
-				"/D/1.Manoj/4.Study/4.Codes/p4.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/GScripts/sheets.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/update.cmd",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.gitignore",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/L.txt",
-				"/C/Users/Smart/Downloads/Telegram Desktop/demo.py",
-				"/D/1.Manoj/4.Study/4.Codes/tele.py",
-				"/D/1.Manoj/4.Study/4.Codes/report.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Txts/card",
-				"/D/1.Manoj/4.Study/4.Codes/p5.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Txts/pwd",
-				"/C/Users/Smart/Downloads/Telegram Desktop/hpxl.py",
-				"/D/1.Manoj/4.Study/4.Codes/b.cmd",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Terminal/Context.sublime-menu",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/View In Browser/View In Browser.sublime-settings",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Terminal/Terminal.sublime-settings",
-				"/D/1.Manoj/4.Study/4.Codes/q2.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/p (11).py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp_sum.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp2.py",
-				"/D/SmartBot/my_env/SmartBot/hp.py",
-				"/D/1.Manoj/4.Study/4.Codes/p2.py",
-				"/D/1.Manoj/4.Study/4.Codes/p3.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp.yaml",
-				"/D/1.Manoj/4.Study/4.Codes/p6.py",
-				"/D/1.Manoj/4.Study/4.Codes/q.py",
-				"/D/1.Manoj/4.Study/4.Codes/j.java",
-				"/E/Dad/date.dt",
-				"/C/Users/Smart/Downloads/Telegram Desktop/2_newton_divided_diff.py",
-				"/C/SM/TG/tds.py",
-				"/E/Dad/JUN",
-				"/E/Dad/p",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp_bill.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/sort (2).html",
-				"/D/1.Manoj/2.Soft-war/2.Batch-files/AutoHotkey.ahk",
-				"/C/Users/Smart/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
-				"/D/1.Manoj/4.Study/4.Codes/jiofi.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Txts/UID/e-uid.txt",
-				"/C/Users/Smart/Downloads/Telegram Desktop/ckbox.py",
-				"/C/Users/Smart/Desktop/p.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/Sub/subt-rename.py",
-				"/C/SM/TG/config.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/pydocxts.py",
-				"/C/Users/Smart/Desktop/mentor.json",
-				"/C/Users/Smart/Downloads/Telegram Desktop/numbertoword.py",
-				"/C/SM/TG/v.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/q.py",
-				"/C/SM/TG/z.py",
-				"/D/SM/TG",
-				"/D/SM/TG/z.py",
-				"/D/SM/TG/tds.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Build/mWeb.sublime-build",
-				"/D/SM/TG/v.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/301/fres.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/auto (2).py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/fimg (3).py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/fimg (4).py",
-				"/D/1.Manoj/4.Study/4.Codes/r",
-				"/D/SmartBot/my_env/SmartBot/auto.py",
-				"/C/Users/Smart/Desktop/convert.in",
-				"/D/MessageSourcecode/WebSite2/Default.aspx",
-				"/D/MessageSourcecode/WebSite2/Default.aspx.cs",
-				"/C/Users/Smart/Desktop/d.cs",
-				"/C/Users/Smart/Desktop/convert.py",
-				"/C/Users/Smart/Desktop/convert.out",
-				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Tools/scripts/google.py",
-				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Tools/scripts/win_add2path.py",
-				"/D/Drona2/8Feb/Drona_V1.0/Drona.WebApi/Drona.WebApi.csproj",
-				"/D/1.Manoj/4.Study/4.Codes/j.py",
-				"/D/SmartBot/my_env/SmartBot/coe.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
-				"/C/Users/Smart/Downloads/Telegram Desktop/cat_dog.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/test.html",
-				"/C/Users/Smart/AppData/Roaming/AnyDesk/user.conf",
-				"/D/Tom/telegram.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/Flask-Admin-Dashboard-master/app.py",
-				"/D/1.Manoj/4.Study/4.Codes/config.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/L4L/config.py"
+				"/D/1.Manoj/4.Study/4.Codes/101/Txts/knab"
 			],
 			"find":
 			{
@@ -7209,6 +7273,7 @@
 				"height": 155.0,
 				"where_history":
 				[
+					"<open folders>"
 				]
 			},
 			"find_state":
@@ -7216,45 +7281,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"{tt*c}",
-					"ee",
-					"{{",
-					"paxC\\.",
-					"paxC",
-					"index",
-					"ahk2",
-					"ahk1",
-					"ahk",
-					"Start",
-					"Silka",
-					"materialize",
-					"{%",
-					"https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js",
-					"slider",
-					"card",
-					"start",
-					"edit",
-					"r(",
-					"se",
-					"e.parentElement",
-					"enable",
-					"start",
-					"add",
-					"edit",
-					"pulse",
-					"124",
-					"center",
-					"float",
+					"seats",
+					"sheets",
+					"favicon",
+					"fav",
 					"container",
-					"pink",
-					"btn",
-					"min",
-					"mon",
-					"width",
-					"right",
-					"s\\d+",
-					"s\\d",
-					"route"
+					"align",
+					"hotel",
+					"default",
+					"packages",
+					"Packages",
+					"packages",
+					"pref",
+					"pac",
+					"pa",
+					"$pa",
+					"pref",
+					"dot",
+					"foo",
+					"save",
+					"color4",
+					"color0",
+					".i1",
+					"top",
+					"save",
+					"datetime1",
+					"datetime",
+					"line-",
+					"line",
+					"style",
+					"div",
+					"menu",
+					"i1",
+					"span",
+					"special",
+					"Special_Instruction_Code",
+					"code",
+					"seats1",
+					"type",
+					"M3-T123",
+					"disabled",
+					"choose",
+					"<select",
+					"select",
+					"Select",
+					"select",
+					"Select",
+					"select",
+					"formSelect",
+					"material_select",
+					"Select",
+					"select",
+					"type",
+					"carousel-item",
+					"Dorsett",
+					"Toyoto",
+					"toy",
+					"toyota",
+					"toyote",
+					"seats",
+					"max_seat",
+					"trip_number",
+					"hotel/index.html",
+					"sheets",
+					"reset",
+					"time",
+					"sheets",
+					"save",
+					"||",
+					"cmd",
+					"line",
+					"switch_to",
+					"is_al",
+					"^\\s+",
+					"\\s+",
+					"df",
+					"m3430a",
+					"import t",
+					"i",
+					"df",
+					"img",
+					"(.*(\\n|$)){3}",
+					"(.*(\\n|$)){2}",
+					"url",
+					"table",
+					"td",
+					"mli",
+					"color0",
+					"drop-hover",
+					"DR01",
+					"table",
+					".c",
+					"overflow-x",
+					"table",
+					"nowrap",
+					"table",
+					"\\.il",
+					".il",
+					"mli",
+					"spaceman",
+					"td",
+					"span {",
+					"span",
+					"relative",
+					"Components",
+					"number",
+					"date",
+					"form",
+					"loading",
+					"create",
+					"loading",
+					"t",
+					"reset",
+					"minus",
+					"enable",
+					"ack1",
+					"r(0)",
+					"ack",
+					"started",
+					"data-total",
+					"total",
+					"this.value",
+					"check",
+					"class=paxC",
+					"paxC",
+					"#paxC",
+					"#paxc",
+					"id=paxC",
+					"id"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -7262,6 +7416,8 @@
 				"regex": true,
 				"replace_history":
 				[
+					"set_vehicle",
+					"seats",
 					"paxC[i]\\."
 				],
 				"reverse": false,
@@ -7278,82 +7434,25 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/D/Work/static/css/alt/AdminLTE-without-plugins.css",
+							"file": "/D/Work/app.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 90048,
+								"buffer_size": 3868,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										467,
-										467
+										926,
+										926
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 11,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/Work/t2.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 733,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										513,
-										513
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/Work/t3.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 143,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										143,
-										143
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -7363,57 +7462,116 @@
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "/D/Work/t4.py",
+							"buffer": 1,
+							"file": "/D/Work/templates/hotel/mindex.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 236,
+								"buffer_size": 1673,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										236,
-										236
+										633,
+										633
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 324.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 4,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/SendToTelegram.py",
+							"buffer": 2,
+							"file": "/D/Work/templates/hotel/nav.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1690,
+								"buffer_size": 389,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1159,
-										1159
+										381,
+										381
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 901.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/Work/templates/hotel/assign.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11128,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3217,
+										3232
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1748.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/Work/gt.bat",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 573,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										270,
+										270
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 54.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -7421,11 +7579,41 @@
 						},
 						{
 							"buffer": 5,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/config.py",
+							"file": "/C/Users/Smart/.gitconfig",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 242,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										51,
+										51
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Git Formats/Git Config.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/Work/templates/hotel/login.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4149,
 								"regions":
 								{
 								},
@@ -7438,30 +7626,32 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1674.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
-							"buffer": 6,
+							"buffer": 7,
 							"file": "/D/Work/templates/hotel/task.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 8258,
+								"buffer_size": 12848,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										568,
-										568
+										283,
+										283
 									]
 								],
 								"settings":
@@ -7474,209 +7664,37 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/D/Work/t.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 383,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
 							"stack_index": 5,
 							"type": "text"
 						},
 						{
 							"buffer": 8,
-							"file": "/D/Work/gt.bat",
+							"file": "/D/Work/templates/hotel/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 516,
+								"buffer_size": 9280,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										351,
-										351
+										1745,
+										1745
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 54.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"file": "/D/Work/app.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 33114,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1,
-										1
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 10,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2219,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1365,
-										1371
-									]
-								],
-								"settings":
-								{
-									"auto_name": "<div class=\"row\">",
-									"default_dir": "D:\\Work\\templates\\hotel",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
 									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 810.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 9,
-							"type": "text"
-						},
-						{
-							"buffer": 11,
-							"file": "/D/Work/dom.cmd",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 26,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 10,
-							"type": "text"
-						},
-						{
-							"buffer": 12,
-							"file": "/C/Users/Smart/Desktop/heroku_acnts.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 536,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										536,
-										536
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 12,
-							"type": "text"
-						},
-						{
-							"buffer": 13,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"auto_name": "",
-									"default_dir": "D:\\Drona\\Work\\Drona",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 13,
+							"stack_index": 8,
 							"type": "text"
 						}
 					]
@@ -7727,7 +7745,7 @@
 			},
 			"output.exec":
 			{
-				"height": 350.0
+				"height": 240.0
 			},
 			"output.find_results":
 			{
@@ -7746,7 +7764,7 @@
 				"height": 335.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,685,104,104,760",
+			"position": "0,2,3,-32000,-32000,-1,-1,659,78,78,734",
 			"project": "HongKong.sublime-project",
 			"replace":
 			{
@@ -7760,44 +7778,168 @@
 				"selected_items":
 				[
 					[
-						"t3",
-						"t3.py"
-					],
-					[
-						"t2",
-						"t2.py"
-					],
-					[
-						"t",
-						"t.py"
-					],
-					[
-						"task",
-						"D:\\Work\\templates\\hotel\\task.html"
-					],
-					[
 						"gt",
 						"gt.bat"
 					],
 					[
-						"ap",
-						"app.py"
+						"git",
+						"C:\\Users\\Smart\\.gitconfig"
 					],
 					[
-						"ta",
+						"tak",
 						"templates\\hotel\\task.html"
+					],
+					[
+						"na",
+						"templates\\hotel\\nav.html"
+					],
+					[
+						"ass",
+						"templates\\hotel\\assign.html"
 					],
 					[
 						"tas",
 						"templates\\hotel\\task.html"
 					],
 					[
-						"html",
-						"templates\\index.html"
+						"in",
+						"templates\\hotel\\index.html"
+					],
+					[
+						"mi",
+						"templates\\hotel\\mindex.html"
 					],
 					[
 						"app",
 						"app.py"
+					],
+					[
+						"nav",
+						"templates\\hotel\\nav.html"
+					],
+					[
+						"t",
+						"t.py"
+					],
+					[
+						"t2",
+						"t2.py"
+					],
+					[
+						"t.",
+						"t.py"
+					],
+					[
+						"",
+						"templates\\hotel\\index.html"
+					],
+					[
+						"ap",
+						"app.py"
+					],
+					[
+						"index",
+						"templates\\hotel\\index.html"
+					],
+					[
+						"he",
+						"templates\\hotel\\header.html"
+					],
+					[
+						"t.h",
+						"templates\\hotel\\t.html"
+					],
+					[
+						"h.ht",
+						"templates\\hotel\\t.html"
+					],
+					[
+						"ind",
+						"templates\\hotel\\index.html"
+					],
+					[
+						"hea",
+						"templates\\hotel\\header.html"
+					],
+					[
+						"task",
+						"templates\\hotel\\task.html"
+					],
+					[
+						"tht",
+						"templates\\hotel\\t.html"
+					],
+					[
+						"inde",
+						"templates\\hotel\\index.html"
+					],
+					[
+						"t3",
+						"t3.py"
+					],
+					[
+						"tables",
+						"templates\\hotel\\tables.html"
+					],
+					[
+						"hotel as",
+						"templates\\hotel\\assign.html"
+					],
+					[
+						"tab",
+						"templates\\hotel\\tables.html"
+					],
+					[
+						"hot",
+						"hotel_route.py"
+					],
+					[
+						"t5",
+						"t5.py"
+					],
+					[
+						"tds",
+						"static\\plugins\\datepicker\\locales\\bootstrap-datepicker.sk.js"
+					],
+					[
+						"c1",
+						"static\\hotel\\css\\c1.css"
+					],
+					[
+						"h",
+						"hotel_route.py"
+					],
+					[
+						"hotel",
+						"hotel_route.py"
+					],
+					[
+						"her",
+						"hotel_route.py"
+					],
+					[
+						"t4",
+						"t4.py"
+					],
+					[
+						"ro",
+						"hotel_route.py"
+					],
+					[
+						"hote",
+						"templates\\hotel\\task.html"
+					],
+					[
+						"heo",
+						"hotel_route.py"
+					],
+					[
+						"ta",
+						"templates\\hotel\\task.html"
+					],
+					[
+						"html",
+						"templates\\index.html"
 					],
 					[
 						"g",
@@ -7810,10 +7952,6 @@
 					[
 						"h2",
 						"templates\\hotel\\h2.html"
-					],
-					[
-						"inde",
-						"templates\\hotel\\index.html"
 					],
 					[
 						"l",
@@ -7868,10 +8006,6 @@
 						"4.Codes\\q3.py"
 					],
 					[
-						"h",
-						"4.Codes\\h.html"
-					],
-					[
 						"car",
 						"4.Codes\\101\\Txts\\card"
 					],
@@ -7898,10 +8032,6 @@
 					[
 						"pwd",
 						"4.Codes\\101\\Txts\\pwd"
-					],
-					[
-						"",
-						"C:\\Users\\Smart\\Downloads\\Telegram Desktop\\hpxl.py"
 					],
 					[
 						"tel",
@@ -7934,10 +8064,6 @@
 					[
 						"p4",
 						"4.Codes\\p4.py"
-					],
-					[
-						"tds",
-						"Startup\\tds.ahk"
 					],
 					[
 						"ah",
@@ -8162,114 +8288,6 @@
 					[
 						"ssk",
 						"2.Batch-files\\ssk.bat"
-					],
-					[
-						"h.ht",
-						"4.Codes\\h.html"
-					],
-					[
-						"ht",
-						"4.Codes\\h.html"
-					],
-					[
-						"auto",
-						"2.Batch-files\\AutoHotkey.ahk"
-					],
-					[
-						"ssr",
-						"2.Batch-files\\ssr.bat"
-					],
-					[
-						"pyau",
-						"4.Codes\\101\\Py\\301\\pyauto.py"
-					],
-					[
-						"ahk2",
-						"2.Batch-files\\ahk2.ahk"
-					],
-					[
-						"lo",
-						"C:\\Users\\Smart\\Downloads\\Telegram Desktop\\login.py"
-					],
-					[
-						"1",
-						"1"
-					],
-					[
-						"dbo",
-						"4.Codes\\dbox.py"
-					],
-					[
-						"dob",
-						"4.Codes\\101\\KEC\\res\\dobf.py"
-					],
-					[
-						"tn",
-						"4.Codes\\101\\Py\\BT\\TNRes\\tnres.py"
-					],
-					[
-						"pya",
-						"4.Codes\\101\\Py\\301\\pyauto.py"
-					],
-					[
-						"tnr",
-						"4.Codes\\101\\Py\\BT\\TNRes\\tnres.py"
-					],
-					[
-						"ty",
-						"TG\\tdsv5.py"
-					],
-					[
-						"amu",
-						"4.Codes\\101\\Py\\BT\\Amulyam\\amu-bal.py"
-					],
-					[
-						"card",
-						"4.Codes\\101\\Txts\\card"
-					],
-					[
-						"h.",
-						"4.Codes\\h.html"
-					],
-					[
-						"tds.a",
-						"TG\\tds.ahk"
-					],
-					[
-						"a.hk",
-						"2.Batch-files\\ahk3.ahk"
-					],
-					[
-						"tg",
-						"4.Codes\\tgs.py"
-					],
-					[
-						"a.re",
-						"2.Batch-files\\Context menu\\AddToOpenAsAdmin.reg.reg"
-					],
-					[
-						"z",
-						"4.Codes\\z"
-					],
-					[
-						"sel",
-						"2.Batch-files\\sel\\selk.ahk"
-					],
-					[
-						"autop",
-						"4.Codes\\101\\Py\\301\\pyauto.py"
-					],
-					[
-						"dra",
-						"4.Codes\\101\\Txts\\UID\\drac.txt"
-					],
-					[
-						"tgs",
-						"4.Codes\\tgs.py"
-					],
-					[
-						"ca",
-						"4.Codes\\101\\Txts\\card"
 					]
 				],
 				"width": 0.0
@@ -8282,10 +8300,34 @@
 				[
 					[
 						"",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\HongKong.sublime-project"
 					],
 					[
 						"b",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
+					],
+					[
+						"C",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
+					],
+					[
+						"m",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
+					],
+					[
+						"ma",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
+					],
+					[
+						"dr",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-project"
+					],
+					[
+						"g",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\HongKong.sublime-project"
+					],
+					[
+						"bo",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
@@ -8293,16 +8335,8 @@
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
 					],
 					[
-						"m",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
-					],
-					[
 						"d",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-project"
-					],
-					[
-						"dr",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona2.sublime-project"
 					],
 					[
 						" ",
@@ -8353,16 +8387,8 @@
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
-						"bo",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Subl\\Bot.sublime-project"
-					],
-					[
 						"boi",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Bot.sublime-project"
-					],
-					[
-						"ma",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Manoj.sublime-project"
 					],
 					[
 						"bt",
@@ -8377,7 +8403,7 @@
 			},
 			"select_symbol":
 			{
-				"height": 165.0,
+				"height": 330.0,
 				"last_filter": "",
 				"selected_items":
 				[
@@ -8409,7 +8435,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 66,
+			"window_id": 85,
 			"workspace_name": "/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/HongKong.sublime-workspace"
 		}
 	],
@@ -8418,8 +8444,8 @@
 		"recent_workspaces":
 		[
 			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/HongKong.sublime-workspace",
-			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Manoj.sublime-workspace",
 			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Bot.sublime-workspace",
+			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Manoj.sublime-workspace",
 			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Drona.sublime-workspace",
 			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Nava.sublime-workspace"
 		]
