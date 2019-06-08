@@ -940,7 +940,11 @@
         "caption": "Read_Me",
         "mnemonic": "C",
         "id": "CST3",
-        "command": "open_file", "args": {"file": "$packages\\..\\SM\\Features.md"}, 
+         "children":
+        [
+            {"caption": "Features","command": "open_file", "args": {"file": "$packages\\..\\SM\\Features.md"}},
+            {"caption": "Context Menu","command": "open_file", "args": {"file": "$packages\\..\\SM\\owst3.bat"}},
+        ]
 
        
     },
