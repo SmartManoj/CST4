@@ -4710,7 +4710,8 @@
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
 					"settings":
 					{
-						"buffer_size": 381,
+						"buffer_size": 444,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
@@ -4718,7 +4719,7 @@
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
 					"settings":
 					{
-						"buffer_size": 68,
+						"buffer_size": 69,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -4727,7 +4728,7 @@
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.gitignore",
 					"settings":
 					{
-						"buffer_size": 275,
+						"buffer_size": 12,
 						"line_ending": "Windows"
 					}
 				},
@@ -7657,7 +7658,7 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 2,
 					"sheets":
 					[
 						{
@@ -7724,47 +7725,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 381,
+								"buffer_size": 444,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										74,
-										74
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 68,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										26,
-										26
-									],
-									[
-										55,
-										55
+										105,
+										105
 									]
 								],
 								"settings":
@@ -7779,20 +7748,48 @@
 							"type": "text"
 						},
 						{
-							"buffer": 4,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.gitignore",
+							"buffer": 3,
+							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 275,
+								"buffer_size": 69,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										62,
-										62
+										55,
+										45
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12,
+										12
 									]
 								],
 								"settings":
