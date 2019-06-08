@@ -4715,15 +4715,6 @@
 					}
 				},
 				{
-					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
-					"settings":
-					{
-						"buffer_size": 69,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.gitignore",
 					"settings":
 					{
@@ -4749,10 +4740,10 @@
 					}
 				},
 				{
-					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/owst3.bat",
+					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
 					"settings":
 					{
-						"buffer_size": 2646,
+						"buffer_size": 444,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -7253,13 +7244,13 @@
 			],
 			"file_history":
 			[
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/owst3.bat",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/owst3.cmd",
 				"/D/1.Manoj/4.Study/4.Codes/p.py",
 				"/C/Users/Smart/Downloads/Telegram Desktop/h (7).html",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Features.md",
 				"/D/1.Manoj/4.Study/4.Codes/j.java",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/hello_st3.py",
@@ -7675,7 +7666,7 @@
 			"groups":
 			[
 				{
-					"selected": 7,
+					"selected": 6,
 					"sheets":
 					[
 						{
@@ -7704,7 +7695,7 @@
 								"translation.y": 1.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
@@ -7734,7 +7725,7 @@
 								"translation.y": 1751.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
@@ -7763,39 +7754,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
 							"buffer": 3,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 69,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										55,
-										45
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
 							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.gitignore",
 							"semi_transient": false,
 							"settings":
@@ -7807,8 +7770,8 @@
 								"selection":
 								[
 									[
-										12,
-										12
+										25,
+										25
 									]
 								],
 								"settings":
@@ -7819,11 +7782,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
-							"buffer": 5,
+							"buffer": 4,
 							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Features.md",
 							"semi_transient": false,
 							"settings":
@@ -7851,7 +7814,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 6,
+							"buffer": 5,
 							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
 							"semi_transient": false,
 							"settings":
@@ -7881,20 +7844,24 @@
 							"type": "text"
 						},
 						{
-							"buffer": 7,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/owst3.bat",
+							"buffer": 6,
+							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2646,
+								"buffer_size": 444,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2646,
-										2646
+										82,
+										82
+									],
+									[
+										113,
+										113
 									]
 								],
 								"settings":
@@ -7902,7 +7869,7 @@
 									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 891.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -7975,7 +7942,7 @@
 				"height": 335.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,685,104,104,760",
+			"position": "0,2,3,-1,-1,-1,-1,685,104,104,760",
 			"project": "Manoj.sublime-project",
 			"replace":
 			{
