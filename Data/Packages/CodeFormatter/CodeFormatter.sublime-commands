@@ -1,6 +1,5 @@
-[
-	{
-		"caption": "CodeFormatter: Format Code",
+[	{
+		"caption": "CodeFormatter: Format Code1",
 		"command": "code_formatter"
 	},
         {

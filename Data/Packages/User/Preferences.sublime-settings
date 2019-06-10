@@ -1,7 +1,7 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"create_window_at_startup": false,
-	"font_size": 13,
+	"font_size": 15,
 	"ignored_packages":
 	[
 		"ANSIescape",

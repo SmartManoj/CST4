@@ -944,6 +944,7 @@
         [
             {"caption": "Features","command": "open_file", "args": {"file": "$packages\\..\\SM\\Features.md"}},
             {"caption": "Context Menu","command": "open_file", "args": {"file": "$packages\\..\\SM\\owst3.bat"}},
+            {"caption": "Quick","command": "open_file", "args": {"file": "$packages\\..\\SM\\Quick.md"}},
         ]
 
        
