@@ -2,7 +2,7 @@
 rem exit
 rem heroku accounts:set p
 call a.cmd
-git init
+rem git init
 git add .
 rem git rm -r --cached Data/Backup
 rem git rm -r --cached 	Data/Cache
