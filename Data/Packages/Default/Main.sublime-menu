@@ -898,7 +898,7 @@
     		{ "command": "open_url", "args": {"url": "https://github.com/SmartManoj/CST3"}, "caption": "CST3 v-7" ,"mnemonic": "B"},
             { "command": "open_url", "args": {"url": "http://t.me/SmartManoj"}, "caption": "Telegram","mnemonic": "T" },
     		{ "command": "open_file", "args": {"file": "${packages}/Default/Main.sublime-menu"}, "caption": "Edit Menu","mnemonic": "T" },
-            {"command": "open_file", "caption": "Update","args": {"file": "$packages\\..\\SM\\update.cmd"}},
+            {"command": "open_file", "caption": "Update","args": {"file": "$packages\\..\\SM\\update.py"}},
             {"command": "open_file", "caption": "Internal","args": {"file": "$packages\\..\\SM\\cst3.cmd"}}
     	]
     },
@@ -945,6 +945,7 @@
             {"caption": "Features","command": "open_file", "args": {"file": "$packages\\..\\SM\\Features.md"}},
             {"caption": "Context Menu","command": "open_file", "args": {"file": "$packages\\..\\SM\\owst3.bat"}},
             {"caption": "Quick","command": "open_file", "args": {"file": "$packages\\..\\SM\\Quick.md"}},
+            {"caption": "ST3_helper","command": "open_file", "args": {"file": "$packages\\..\\SM\\st3_helper.py"}},
         ]
 
        

@@ -3,5 +3,16 @@ import sublime_plugin
 
 
 class PythonShellToCodeCommand(sublime_plugin.TextCommand):
+	def ruby(self,a):
+		b=[]
+		for i in a.splitlines():
+			j=i.lstrip('>.')
+			if i!=j:
+				b.append(j[1:])
+			else:
+				b.append('# '+i)
+		return "\n".join(b)
 	def run(self, edit):
-		self.view.insert(edit, 0, "Hello, World!")
+		r=sublime.Region(0, self.view.size())
+		content=self.view.substr(r)
+		self.view.replace(edit,r,self.ruby(content))

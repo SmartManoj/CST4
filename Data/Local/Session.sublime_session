@@ -4173,570 +4173,541 @@
 				"selected_items":
 				[
 					[
-						"pi",
-						"piu\tpipu"
+						"prg",
+						"prgrm"
 					],
 					[
-						"his",
-						"history_idx"
+						"va",
+						"value_to_find"
 					],
 					[
-						"ev",
-						"event"
-					],
-					[
-						"date",
-						"daterange2"
-					],
-					[
-						"my",
-						"mythread"
-					],
-					[
-						"myt",
-						"mythreads"
-					],
-					[
-						"in",
-						"innerHTML"
-					],
-					[
-						"send",
-						"send-sms"
-					],
-					[
-						"re",
-						"response"
-					],
-					[
-						"way",
-						"way2pwd"
-					],
-					[
-						"url",
-						"urllib"
-					],
-					[
-						"im",
-						"import"
-					],
-					[
-						"pri",
-						"print"
-					],
-					[
-						"pr",
-						"pr\tprint"
-					],
-					[
-						"sp",
-						"spellNumber"
-					],
-					[
-						"if",
-						"ifmain\tif __name__ == '__main__'"
-					],
-					[
-						"exc",
-						"except"
-					],
-					[
-						"gpa",
-						"gpa2"
-					],
-					[
-						"t",
-						"try\tTry/Except"
-					],
-					[
-						"imc",
-						"imc2"
-					],
-					[
-						"com",
-						"com"
-					],
-					[
-						"doc",
-						"doc_ref"
-					],
-					[
-						"time",
-						"timedelta"
-					],
-					[
-						"tod",
-						"today_dt"
-					],
-					[
-						"tdo",
-						"today1"
+						"val",
+						"value_to_find"
 					],
 					[
 						"mon",
-						"monthsl2"
+						"month_name"
 					],
 					[
-						"ex",
-						"exception"
+						"remo",
+						"removeElement"
 					],
 					[
-						"C66",
-						"15CSR066"
+						"ever",
+						"every"
 					],
 					[
-						"tts",
-						"ttsl"
+						"char",
+						"charAt"
 					],
 					[
-						"str",
-						"strip"
+						"py",
+						"pyautogui"
 					],
 					[
-						"is",
-						"isdigit"
+						"tnaf",
+						"TN36AF9104"
 					],
 					[
-						"tex",
-						"text3"
+						"pr",
+						"print"
 					],
 					[
-						"new",
-						"new_users"
+						"pat",
+						"path2"
 					],
 					[
-						"name",
-						"name2"
+						"clas",
+						"ClassName"
 					],
 					[
-						"en",
-						"encoded_text"
-					],
-					[
-						"t5",
-						"TN56_4645"
-					],
-					[
-						"__",
-						"__name__"
-					],
-					[
-						"bw",
-						"TN39BW7934"
-					],
-					[
-						"emo",
-						"emos_h2"
-					],
-					[
-						"upr",
-						"urlparse"
-					],
-					[
-						"emo_",
-						"emo_hm"
-					],
-					[
-						"T",
-						"Truecaller"
-					],
-					[
-						"met",
-						"meta\tTag"
-					],
-					[
-						"tidma",
-						"tidma"
-					],
-					[
-						"ap",
-						"api_wa"
-					],
-					[
-						"spl",
-						"split"
-					],
-					[
-						"hp",
-						"hp_timeout"
-					],
-					[
-						"cse",
-						"cse_tid"
-					],
-					[
-						"kec",
-						"kec_bg"
-					],
-					[
-						"ke",
-						"kec_bg3"
-					],
-					[
-						"msg",
-						"msgf"
-					],
-					[
-						"wish",
-						"wish3"
-					],
-					[
-						"wa",
-						"way2pwd"
-					],
-					[
-						"pa",
-						"password"
-					],
-					[
-						"r",
-						"response"
-					],
-					[
-						"kalaivani",
-						"kalaivanik"
-					],
-					[
-						"c",
-						"continue"
-					],
-					[
-						"chat",
-						"chat_id"
-					],
-					[
-						"par",
-						"params"
-					],
-					[
-						"max",
-						"maxsplit"
-					],
-					[
-						"z",
-						"z"
-					],
-					[
-						"today",
-						"today_dy"
-					],
-					[
-						"Na",
-						"Nandhini"
-					],
-					[
-						"P",
-						"PROJ"
-					],
-					[
-						"text",
-						"text2"
-					],
-					[
-						"fee",
-						"feesf2"
-					],
-					[
-						"prin",
-						"print_exc"
-					],
-					[
-						"E",
-						"Exception"
-					],
-					[
-						"i",
-						"import"
-					],
-					[
-						"fr",
-						"for\tFor Loop"
-					],
-					[
-						"gender",
-						"genderize"
-					],
-					[
-						"to",
-						"today_"
-					],
-					[
-						"dob",
-						"dobl3"
-					],
-					[
-						"gend",
-						"genderize"
-					],
-					[
-						"HEL",
-						"help_"
-					],
-					[
-						"RET",
-						"return"
-					],
-					[
-						"def",
-						"defaultdict"
-					],
-					[
-						"for",
-						"format"
-					],
-					[
-						"api",
-						"apiwa"
-					],
-					[
-						"em",
-						"emo_hm"
+						"cli",
+						"clickId"
 					],
 					[
 						"st",
-						"status_code"
+						"style\tTag"
 					],
 					[
-						"14CS",
-						"14csl260"
+						"last",
+						"last_date"
 					],
 					[
-						"b",
-						"BeautifulSoup"
+						"las",
+						"last_date2"
 					],
 					[
-						"es",
-						"elist"
-					],
-					[
-						"kec_",
-						"kec_stud"
-					],
-					[
-						"toda",
-						"today_"
-					],
-					[
-						"15csr",
-						"15csr094"
+						"la",
+						"last_date2"
 					],
 					[
 						"split",
 						"splitlines"
 					],
 					[
-						"g",
-						"group"
+						"da",
+						"datetime"
 					],
 					[
-						"manoj",
-						"MANOJKUMAR"
+						"dae",
+						"Date"
 					],
 					[
-						"req",
-						"requests"
+						"siva",
+						"Sivaram"
 					],
 					[
-						"dep",
-						"depts"
+						"Mor",
+						"Movers"
 					],
 					[
-						"mts",
-						"MTS"
+						"tnbw",
+						"TN39BW7533"
 					],
 					[
-						"hea",
-						"headers"
+						"tnbj",
+						"TN39BJ4093"
 					],
 					[
-						"wh",
-						"wherey"
+						"margin",
+						"margin-top\tproperty"
+					],
+					[
+						"text",
+						"text-align\tproperty"
+					],
+					[
+						"MAR",
+						"margin\tproperty"
+					],
+					[
+						"rta",
+						"rTableHeading"
+					],
+					[
+						"rt",
+						"rTableCell"
+					],
+					[
+						"rTableHe",
+						"rTableHeading"
 					],
 					[
 						"try",
 						"try\tTry/Except"
 					],
 					[
-						"pas",
-						"passwd"
+						"tn",
+						"TNCAN"
 					],
 					[
-						"js",
-						"jession_id"
+						"tnj3",
+						"TN39BJ4093"
 					],
 					[
-						"sms",
-						"sms_sent_page"
+						"tnc",
+						"TN33C7392"
 					],
 					[
-						"rep",
-						"replace"
+						"tyr",
+						"try\tTry/Except"
 					],
 					[
-						"de",
-						"delete_message"
+						"Fa",
+						"FactorialExample"
 					],
 					[
-						"dle",
-						"delete_message"
+						"tw",
+						"TDW1963"
 					],
 					[
-						"int",
-						"4294226700Intercom"
+						"tn09",
+						"TN33AW6409"
 					],
 					[
-						"interc",
-						"4294226600Intercom"
+						"tn33b",
+						"TN39BW7533"
 					],
 					[
-						"inter",
-						"9750048615Intercom"
+						"re",
+						"Return"
 					],
 					[
-						"mobi",
-						"inMobile"
+						"page",
+						"page2"
 					],
 					[
-						"of",
-						"9843437392Office"
-					],
-					[
-						"Off",
-						"9488693609Office"
-					],
-					[
-						"Of",
-						"9942013143Office"
-					],
-					[
-						"off",
-						"8675014214Office"
-					],
-					[
-						"Int",
-						"4294226581Intercom"
-					],
-					[
-						"sang",
-						"sangeetham"
-					],
-					[
-						"tamilra",
-						"Tamilarasan"
-					],
-					[
-						"tid",
-						"tidme"
-					],
-					[
-						"as",
-						"as_new_user"
-					],
-					[
-						"Sma",
-						"SmartBot"
-					],
-					[
-						"smart",
-						"SmartManoj"
-					],
-					[
-						"cs",
-						"cse_tid"
-					],
-					[
-						"ms",
-						"msgf"
-					],
-					[
-						"ec",
-						"except"
-					],
-					[
-						"dat",
-						"date_generated"
-					],
-					[
-						"res",
-						"response"
-					],
-					[
-						"detecte",
-						"detect_intent_texts"
-					],
-					[
-						"se",
-						"SELECT"
+						"if",
+						"ifmain\tif __name__ == '__main__'"
 					],
 					[
 						"e",
-						"execute"
+						"except"
 					],
 					[
-						"hsp",
-						"hp_rsp2"
+						"exc",
+						"except"
 					],
 					[
-						"hprs",
-						"hp_rsp2"
+						"ex",
+						"except"
 					],
 					[
-						"co",
-						"console"
+						"dia",
+						"dialogs"
+					],
+					[
+						"get",
+						"get_all_chats"
+					],
+					[
+						"fi",
+						"fi\tfrom"
+					],
+					[
+						"aw",
+						"awb2"
+					],
+					[
+						"Con",
+						"Control"
+					],
+					[
+						"f",
+						"for\tFor Loop"
+					],
+					[
+						"ca",
+						"CapsLock"
+					],
+					[
+						"s",
+						"subprocess"
+					],
+					[
+						"t",
+						"t_username"
+					],
+					[
+						"cl",
+						"close"
+					],
+					[
+						"time",
+						"timeout"
+					],
+					[
+						"tn39",
+						"TN39AA9739"
+					],
+					[
+						"inli",
+						"inline-block\tdisplay"
+					],
+					[
+						"fo",
+						"for\tFor Loop"
+					],
+					[
+						"bw",
+						"TN39BW7934"
+					],
+					[
+						"Pg",
+						"PgDn"
+					],
+					[
+						"sa",
+						"startswith"
+					],
+					[
+						"Del",
+						"Delete"
+					],
+					[
+						"sea",
+						"season1"
+					],
+					[
+						"t4",
+						"TN56_4645"
+					],
+					[
+						"w",
+						"TN28W3326"
+					],
+					[
+						"NumpadE",
+						"NumpadEnter"
+					],
+					[
+						"TN39BJ",
+						"TN39BJ5996"
+					],
+					[
+						"TN39",
+						"TN39BW7533"
+					],
+					[
+						"BJ",
+						"TN39BJ4093"
+					],
+					[
+						"c",
+						"TN39C7392"
+					],
+					[
+						"wid",
+						"width\tproperty"
+					],
+					[
+						"te",
+						"template\tTag"
+					],
+					[
+						"i",
+						"i"
+					],
+					[
+						"messa",
+						"message_id"
+					],
+					[
+						"dat",
+						"daterange"
+					],
+					[
+						"tn56",
+						"TN56_4645"
+					],
+					[
+						"td",
+						"TDW_1963"
+					],
+					[
+						"t56",
+						"TN56_4645"
+					],
+					[
+						"ne",
+						"new_chat_member"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"cha",
+						"chat_id"
+					],
+					[
+						"onkey",
+						"onkeyup\tAttr"
+					],
+					[
+						"al",
+						"align-content\tproperty"
+					],
+					[
+						"cit",
+						"city"
+					],
+					[
+						"prex",
+						"proxies"
+					],
+					[
+						"str",
+						"string.h\tstandard header"
+					],
+					[
+						"cm",
+						"comb"
+					],
+					[
+						"me",
+						"meta\tTag"
+					],
+					[
+						"for",
+						"foreach\tforeach …"
+					],
+					[
+						"prin",
+						"print_r"
+					],
+					[
+						"print",
+						"print2"
+					],
+					[
+						"se",
+						"send_contact"
+					],
+					[
+						"k",
+						"key"
+					],
+					[
+						"doc",
+						"document"
+					],
+					[
+						"par",
+						"paragraph"
+					],
+					[
+						"para",
+						"paragraph"
+					],
+					[
+						"wor",
+						"word_count"
+					],
+					[
+						"sen",
+						"sentences"
+					],
+					[
+						"pri",
+						"printf\tprintf …"
+					],
+					[
+						"pa",
+						"paragraph"
+					],
+					[
+						"retur",
+						"returnDoc"
+					],
+					[
+						"prod",
+						"product_discount"
+					],
+					[
+						"parse",
+						"parsed"
+					],
+					[
+						"urlne",
+						"url_new"
+					],
+					[
+						"quer",
+						"query_new"
+					],
+					[
+						"pars",
+						"parsed"
+					],
+					[
+						"date",
+						"datetime〔module〕"
+					],
+					[
+						"ma",
+						"max〔function〕"
+					],
+					[
+						"im",
+						"import"
+					],
+					[
+						"wind",
+						"window_changed"
+					],
+					[
+						"win",
+						"window_changed"
+					],
+					[
+						"url",
+						"url2"
+					],
+					[
+						"png",
+						"png_arr"
+					],
+					[
+						"di",
+						"display\tproperty"
+					],
+					[
+						"textar",
+						"textarea1"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"p",
+						"php\t<?php … ?>"
+					],
+					[
+						"token",
+						"tgtoken"
+					],
+					[
+						"sm",
+						"Smartcodegen"
+					],
+					[
+						"Hi",
+						"Copy-To-Clipboard-For-Syntax-Highlighter"
+					],
+					[
+						"cod",
+						"codecopy"
+					],
+					[
+						"us",
+						"UseErrorLevel"
+					],
+					[
+						"fr",
+						"frange"
+					],
+					[
+						"dob",
+						"dobl2"
+					],
+					[
+						"a",
+						"audio"
+					],
+					[
+						"jso",
+						"json_string"
+					],
+					[
+						"list",
+						"list_dict"
 					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Plugins/PythonShellToCode.py",
-					"settings":
-					{
-						"buffer_size": 166,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Commands/Custom.sublime-commands",
-					"settings":
-					{
-						"buffer_size": 76,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/config.py",
-					"settings":
-					{
-						"buffer_size": 10028,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/t.py",
-					"settings":
-					{
-						"buffer_size": 2269,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Features.md",
-					"settings":
-					{
-						"buffer_size": 1623,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "Packages/User/Build/mPy.sublime-build",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/AutoHotkey/AutoHotkey.sublime-build",
+							""
+						],
+						[
+							"Packages/AutoHotkey/AutoHotkey.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/AutoHotkey/AutoHotkey.sublime-build",
+						""
+					]
+				],
 				[
 					[
 						[
@@ -4750,6 +4721,38 @@
 					],
 					[
 						"Packages/AutoHotkey/AutoHotkey.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/Build/mC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mC.sublime-build",
+							"cmd"
+						],
+						[
+							"Packages/User/Build/mMingwC++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mMingwC++.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/Build/mC.sublime-build",
 						""
 					]
 				],
@@ -4808,6 +4811,70 @@
 							"Run"
 						],
 						[
+							"Packages/User/Build/mC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mC.sublime-build",
+							"cmd"
+						],
+						[
+							"Packages/User/Build/mMingwC++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mMingwC++.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/Build/mC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++14.sublime-build",
+							""
+						],
+						[
+							"Packages/User/MingwC++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/MingwC++.sublime-build",
+							"cmd"
+						],
+						[
+							"Packages/User/myC++.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/MingwC++.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
 							"Packages/User/C++14.sublime-build",
 							""
 						],
@@ -4817,7 +4884,135 @@
 						]
 					],
 					[
-						"Packages/User/C++14.sublime-build",
+						"Packages/User/myC++.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++14.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myC++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myTC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/myTC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/MingwC++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/MingwC++.sublime-build",
+							"cmd"
+						],
+						[
+							"Packages/User/myC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myC.sublime-build",
+							"cmd"
+						],
+						[
+							"Packages/User/myTC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/myC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/MingwC++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myC.sublime-build",
+							"cmd"
+						],
+						[
+							"Packages/User/myTC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/MingwC++.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/mC++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/mC++14.sublime-build",
+							""
+						],
+						[
+							"Packages/User/mMingwC++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/mMingwC++.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/mC++.sublime-build",
 						""
 					]
 				],
@@ -4846,6 +5041,42 @@
 						[
 							"Packages/User/mMingwC++.sublime-build",
 							"cmd"
+						]
+					],
+					[
+						"Packages/User/mC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/mC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/mC.sublime-build",
+							"cmd"
+						],
+						[
+							"Packages/User/mMingwC++.sublime-build",
+							""
+						],
+						[
+							"Packages/User/mMingwC++.sublime-build",
+							"cmd"
+						],
+						[
+							"Packages/User/mTC.sublime-build",
+							""
 						]
 					],
 					[
@@ -4918,7 +5149,87 @@
 					],
 					[
 						"Packages/User/myC.sublime-build",
-						"cmd"
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/myC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myC.sublime-build",
+							"myC"
+						]
+					],
+					[
+						"Packages/User/myC.sublime-build",
+						"myC"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/myC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myC.sublime-build",
+							"myC"
+						],
+						[
+							"Packages/User/myTC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/myC.sublime-build",
+						"myC"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/myC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myC.sublime-build",
+							"myC"
+						],
+						[
+							"Packages/User/mycs.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/myC.sublime-build",
+						"myC"
 					]
 				],
 				[
@@ -4972,6 +5283,34 @@
 							""
 						],
 						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myJava.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myJava.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/myJava.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
 							"Packages/User/Build/mJava.sublime-build",
 							""
 						],
@@ -4982,6 +5321,30 @@
 					],
 					[
 						"Packages/User/Build/mJava.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/mJava.sublime-build",
+							""
+						],
+						[
+							"Packages/User/mJava.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/mJava.sublime-build",
 						""
 					]
 				],
@@ -5126,6 +5489,30 @@
 						[
 							"Packages/User/myJava.sublime-build",
 							"cmd"
+						]
+					],
+					[
+						"Packages/User/myJava.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myJava.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myJava.sublime-build",
+							"cmd"
 						],
 						[
 							"Packages/User/myJava.sublime-build",
@@ -5134,6 +5521,42 @@
 						[
 							"Packages/User/myJava.sublime-build",
 							"classpath"
+						]
+					],
+					[
+						"Packages/User/myJava.sublime-build",
+						"classpath"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myJava.sublime-build",
+							""
+						],
+						[
+							"Packages/User/myJava.sublime-build",
+							"cmd"
+						],
+						[
+							"Packages/User/myJava.sublime-build",
+							"applet"
+						],
+						[
+							"Packages/User/myJava.sublime-build",
+							"classpath"
+						],
+						[
+							"Packages/User/myTC.sublime-build",
+							""
 						]
 					],
 					[
@@ -5191,6 +5614,30 @@
 					[
 						"Packages/Kotlin/Kotlin.sublime-build",
 						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Kotlin/Kotlin.sublime-build",
+							""
+						],
+						[
+							"Packages/Kotlin/Kotlin.sublime-build",
+							"Compile"
+						],
+						[
+							"Packages/Kotlin/Kotlin.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/mKt.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/mKt.sublime-build",
+						""
 					]
 				],
 				[
@@ -5305,7 +5752,7 @@
 						]
 					],
 					[
-						"Packages/User/py.sublime-build",
+						"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
 						""
 					]
 				],
@@ -5326,38 +5773,6 @@
 						[
 							"Packages/User/Build/mPy.sublime-build",
 							"cmd"
-						]
-					],
-					[
-						"Packages/User/Build/mPy.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/Build/mPy.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mPy.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/Build/mSsql.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mSsql.sublime-build",
-							"Sqlite"
 						]
 					],
 					[
@@ -5410,6 +5825,42 @@
 						[
 							"Packages/User/mPy.sublime-build",
 							"cmd <"
+						]
+					],
+					[
+						"Packages/User/mPy.sublime-build",
+						"cmd <"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/mPy.sublime-build",
+							""
+						],
+						[
+							"Packages/User/mPy.sublime-build",
+							"cmd"
+						],
+						[
+							"Packages/User/mPy.sublime-build",
+							"cmd <"
+						],
+						[
+							"Packages/User/mSsql.sublime-build",
+							""
+						],
+						[
+							"Packages/User/mSsql.sublime-build",
+							"Sqlite"
 						]
 					],
 					[
@@ -5460,7 +5911,7 @@
 							"Syntax Check"
 						],
 						[
-							"Packages/User/my_bat.sublime-build",
+							"Packages/User/myTC.sublime-build",
 							""
 						],
 						[
@@ -5474,6 +5925,14 @@
 						[
 							"Packages/User/py.sublime-build",
 							"cmd <"
+						],
+						[
+							"Packages/User/sql.sublime-build",
+							""
+						],
+						[
+							"Packages/User/sql.sublime-build",
+							"Sqlite"
 						]
 					],
 					[
@@ -5492,7 +5951,7 @@
 							"Syntax Check"
 						],
 						[
-							"Packages/User/mycs.sublime-build",
+							"Packages/User/my_bat.sublime-build",
 							""
 						],
 						[
@@ -5748,22 +6207,6 @@
 				[
 					[
 						[
-							"Packages/ShellScript/ShellScript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mSh.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/ShellScript/ShellScript.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
 							"Packages/User/Build/mBat.sublime-build",
 							""
 						],
@@ -5774,6 +6217,58 @@
 					],
 					[
 						"Packages/User/Build/mBat.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/Build/mC.sublime-build",
+							"cmd"
+						],
+						[
+							"Packages/User/Build/mMingwC++.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/Build/mC.sublime-build",
+						"cmd"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/Build/mJS.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mWeb.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mWeb.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/Build/mWeb.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/Build/mWeb.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mWeb.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/Build/mWeb.sublime-build",
 						""
 					]
 				],
@@ -5796,6 +6291,38 @@
 				[
 					[
 						[
+							"Packages/User/mC.sublime-build",
+							"cmd"
+						],
+						[
+							"Packages/User/mMingwC++.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/mC.sublime-build",
+						"cmd"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/mCs.sublime-build",
+							""
+						],
+						[
+							"Packages/User/mT.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/mT.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
 							"Packages/User/mPHP.sublime-build",
 							""
 						],
@@ -5807,6 +6334,34 @@
 					[
 						"Packages/User/mPHP.sublime-build",
 						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/mPHP.sublime-build",
+							""
+						],
+						[
+							"Packages/User/mPHP.sublime-build",
+							"run-php"
+						]
+					],
+					[
+						"Packages/User/mPHP.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/mPy.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/mPy.sublime-build",
+						"cmd"
 					]
 				],
 				[
@@ -5928,6 +6483,30 @@
 						"Packages/User/Build/mKt.sublime-build",
 						""
 					]
+				],
+				[
+					[
+						[
+							"Packages/kotlin-sublime-package-master/Kotlin.sublime-build",
+							""
+						],
+						[
+							"Packages/kotlin-sublime-package-master/Kotlin.sublime-build",
+							"Compile"
+						],
+						[
+							"Packages/kotlin-sublime-package-master/Kotlin.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/mKt.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/mKt.sublime-build",
+						""
+					]
 				]
 			],
 			"build_varint": "",
@@ -5942,88 +6521,20 @@
 						"File: Rename"
 					],
 					[
-						"m",
-						"File: Move"
-					],
-					[
-						"move",
-						"File: Move"
-					],
-					[
-						"r",
-						"Reverse characters in selected section"
-					],
-					[
 						"du",
 						"File: Duplicate"
 					],
 					[
-						"re",
-						"File: Rename"
+						"prett",
+						"HTMLPrettify"
 					],
 					[
-						"prv",
-						"PackageResourceViewer: Open Resource"
+						"un",
+						"Permute Lines: Unique"
 					],
 					[
-						"ren",
-						"File: Rename"
-					],
-					[
-						"ran",
-						"Text Pastry: Generate a list of numbers from 1 to 100"
-					],
-					[
-						"dup",
+						"d",
 						"File: Duplicate"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"rem",
-						"Package Control: Remove Package"
-					],
-					[
-						"en",
-						"Package Control: Enable Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"dis",
-						"Package Control: Disable Package"
-					],
-					[
-						"pac",
-						"Package Control: Remove Package"
-					],
-					[
-						"mark",
-						"Markdown HTML Preview"
-					],
-					[
-						"pa",
-						"Package Control: Install Package"
-					],
-					[
-						"rev",
-						"Permute Lines: Reverse"
-					],
-					[
-						"rename",
-						"File: Rename"
-					],
-					[
-						"p",
-						"Package Control: Install Package"
-					],
-					[
-						"rot",
-						"Rot13 Selection"
 					],
 					[
 						"uni",
@@ -6034,76 +6545,372 @@
 						"PackageResourceViewer: Open Resource"
 					],
 					[
-						"rme",
-						"Package Control: Remove Package"
+						"Snippet: ",
+						"Snippet: Try/Except"
 					],
 					[
-						"emm",
-						"Set Syntax: Emmet"
+						"pac v",
+						"PackageResourceViewer: Open Resource"
 					],
 					[
-						"list",
-						"Package Control: List Packages"
+						"ren",
+						"File: Rename"
 					],
 					[
-						"paen",
-						"Package Control: Enable Package"
+						"r",
+						"Rot13 Selection"
 					],
 					[
-						"u",
+						"rev",
+						"Permute Lines: Reverse"
+					],
+					[
+						"text ",
+						"Text Pastry: Paste Lines"
+					],
+					[
+						"UQ",
 						"Permute Lines: Unique"
 					],
 					[
-						"un",
+						"RN",
+						"File: Rename"
+					],
+					[
+						"UN",
 						"Permute Lines: Unique"
 					],
 					[
-						"pai",
-						"Package Control: Install Package"
+						"yam",
+						"Set Syntax: YAML"
 					],
 					[
-						"sshtml",
-						"Set Syntax: HTML"
+						"ss",
+						"Set Syntax: YAML"
 					],
 					[
-						"set py",
-						"Set Syntax: Python"
-					],
-					[
-						"set htm",
-						"Set Syntax: HTML"
-					],
-					[
-						"re py",
-						"SublimeREPL: Python"
-					],
-					[
-						"dis bui",
-						"Disable/Enable buildview for this window"
-					],
-					[
-						"repl p",
-						"SublimeREPL: Python - IPython"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"buil di",
-						"Disable/Enable buildview for this window"
+						"ss ",
+						"Set Syntax: YAML"
 					],
 					[
 						"py",
 						"Set Syntax: Python"
 					],
 					[
-						"fn",
-						"File: New View into File"
+						"ss te",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"ss t",
+						"Set Syntax: Tcl"
+					],
+					[
+						"ss p",
+						"Set Syntax: Python"
+					],
+					[
+						"sql",
+						"Set Syntax: SQL"
+					],
+					[
+						"sste",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"ht",
+						"Set Syntax: HTML"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"h",
+						"Set Syntax: HTML"
+					],
+					[
+						"li",
+						"Package Control: List Packages"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ssh",
+						"Set Syntax: HTML"
+					],
+					[
+						"uniq",
+						"Permute Lines: Unique"
+					],
+					[
+						"rp",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"view",
+						"View In Browser"
+					],
+					[
+						"vie",
+						"View In Browser"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"mave",
+						"Maven: Test"
+					],
+					[
+						"kotlin",
+						"Package Control: Install Package"
+					],
+					[
+						"ss kt",
+						"Set Syntax: Kotlin"
+					],
+					[
+						"ss java",
+						"Set Syntax: Java"
+					],
+					[
+						"ss py",
+						"Set Syntax: Python"
+					],
+					[
+						"sy kt",
+						"Set Syntax: Kotlin"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"p",
+						"Package Control: Enable Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"remoc",
+						"Package Control: Remove Package"
+					],
+					[
+						"ro",
+						"Rot13 Selection"
+					],
+					[
+						"de",
+						"File: Delete"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"por",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"sspy",
+						"Set Syntax: Python"
+					],
+					[
+						"ssahk",
+						"Set Syntax: AutoHotkey"
+					],
+					[
+						"ssl",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"sslate",
+						"Set Syntax: LaTeX"
+					],
+					[
+						"set sy ahk",
+						"Set Syntax: AutoHotkey"
+					],
+					[
+						"upgr",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pac e",
+						"Package Control: Enable Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"fa vop ",
+						"Favorite Files: Open File(s)"
+					],
+					[
+						"s s bas",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"s s c",
+						"Set Syntax: C"
+					],
+					[
+						"set sy",
+						"Set Syntax: Diff"
+					],
+					[
+						"SYN TEXT",
+						"Set Syntax: reStructuredText"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"del",
+						"File: Delete"
+					],
+					[
+						"s py",
+						"Set Syntax: Python"
+					],
+					[
+						"s js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"s s py",
+						"Set Syntax: Python"
+					],
+					[
+						"sy c",
+						"Set Syntax: C"
+					],
+					[
+						"su re py",
+						"SublimeREPL: Python"
+					],
+					[
+						"di",
+						"Package Control: Disable Package"
+					],
+					[
+						"build vi",
+						"Disable/Enable buildview for this window"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"build s",
+						"Build: New Build System"
+					],
+					[
+						"PRV",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"po",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"set html",
+						"Set Syntax: HTML"
+					],
+					[
+						"set",
+						"Set Syntax: TeX"
+					],
+					[
+						"res",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pac",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"SET PY",
+						"Set Syntax: Python"
+					],
+					[
+						"SET TEX",
+						"Set Syntax: TeX"
+					],
+					[
+						"SET TEXT",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"SET ",
+						"Set Syntax: TeX"
+					],
+					[
+						"selectef",
+						"CoolFormat: Selected Format"
+					],
+					[
+						"quick",
+						"CoolFormat: Quick Format"
 					],
 					[
 						"set tex",
 						"Set Syntax: TeX"
+					],
+					[
+						"re",
+						"Set Syntax: Regular Expression"
+					],
+					[
+						"fn",
+						"File: New View into File"
 					],
 					[
 						"java",
@@ -6118,8 +6925,8 @@
 						"Set Syntax: JavaScript"
 					],
 					[
-						"set",
-						"Set Syntax: TeX"
+						"set py",
+						"Set Syntax: PHP"
 					],
 					[
 						"set ",
@@ -6131,14 +6938,6 @@
 					],
 					[
 						"htm",
-						"Set Syntax: HTML"
-					],
-					[
-						"js",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"set html",
 						"Set Syntax: HTML"
 					],
 					[
@@ -6198,20 +6997,12 @@
 						"Package Control: Enable Package"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"pip ",
 						"Package Control: Advanced Install Package"
 					],
 					[
 						"fav",
 						"Favorite Files: Add File(s)"
-					],
-					[
-						"ro",
-						"Rot13 Selection"
 					],
 					[
 						"sn",
@@ -6226,10 +7017,6 @@
 						"Snippet: uprint"
 					],
 					[
-						"mave",
-						"Maven: Run install"
-					],
-					[
 						"e",
 						"Emmet: Go to Matching Pair"
 					],
@@ -6240,176 +7027,80 @@
 					[
 						"rena",
 						"File: Rename"
-					],
-					[
-						"pret",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"format ja",
-						"CodeFormatter: Format as Javascript Syntax"
-					],
-					[
-						"format",
-						"CodeFormatter: Format Code"
-					],
-					[
-						"pac r v",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"Snippet: ",
-						"Snippet: uprint"
-					],
-					[
-						"pac\t",
-						"Package Control: Remove Package"
-					],
-					[
-						"package re",
-						"Package Control: List Packages"
-					],
-					[
-						"",
-						"Package Control: List Packages"
-					],
-					[
-						"Snippet: p\t",
-						"Snippet: Lorem ipsum"
-					],
-					[
-						"rp",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"low",
-						"Convert Case: Lower Case"
-					],
-					[
-						"cool",
-						"CoolFormat: Formatter Settings"
-					],
-					[
-						"rot1",
-						"Rot13 Selection"
-					],
-					[
-						"reverse",
-						"Reverse characters in selected section"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"tit",
-						"Convert Case: Title Case"
-					],
-					[
-						"sql",
-						"Build With: sql"
-					],
-					[
-						"fr",
-						"File: Rename"
-					],
-					[
-						"instlal",
-						"Package Control: Install Package"
-					],
-					[
-						"vie",
-						"View In Browser"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					],
-					[
-						"orac",
-						"Set Syntax: PL/SQL (Oracle)"
-					],
-					[
-						"instll",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
-						"Preferences: Browse Packages"
-					],
-					[
-						"sqlpl",
-						"Set Syntax: Oracle(SQL-PL-SQLPlus)"
-					],
-					[
-						"remove pa",
-						"Package Control: Remove Package"
-					],
-					[
-						"st set",
-						"ST: Setup Connections"
-					],
-					[
-						"instl",
-						"Package Control: Install Package"
-					],
-					[
-						"comm",
-						"Fold Comments"
-					],
-					[
-						"insta\t",
-						"Package Control: Install Package"
-					],
-					[
-						"indent",
-						"Indentation: Convert to Tabs"
-					],
-					[
-						"he",
-						"Hex Viewer: Toggle Hex View"
-					],
-					[
-						"\t",
-						"Package Control: Install Package"
 					]
 				],
 				"width": 500.0
 			},
 			"console":
 			{
-				"height": 352.0,
+				"height": 226.0,
 				"history":
 				[
+					"sublime.log_commands(True)",
+					"view.run_command('move',{\"by\": \"characters\", \"forward\": True})",
+					"view.run_command('move',{\"by\": \"characters\", \"forward\": False})",
+					"view.run_command('move',{\"by\": \"characters\", \"forward\": false})",
+					"view.run_command('move')",
+					"sublime.log_commands(True)",
+					"import sys,os",
+					"import sys",
+					"5",
+					"view.run_command('example')",
+					"sublime.log_commands(True)",
 					"5",
 					"sublime.log_commands(True)",
+					"5",
+					"view.run_command('arithmetic')",
+					"sublime.log_commands(True)",
+					"view.run_command('text_pastry_redo')",
+					"view.run_command('ruby')",
+					"view.run_command('example')",
+					"5",
+					"view.run_command('text_pastry_redo')",
+					"sublime.log_commands(True)",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(0)",
+					"sublime.log_commands(True)",
+					"open('.')",
+					"open  /D/1.Manoj/2.Soft-war/5.Rest/0.Codex",
+					"open",
+					"sublime.log_commands(True)",
+					"view.run_command('save','build')",
+					"sublime.log_commands(False)",
+					"sublime.log_commands(0)",
+					"sublime.log_commands(True-1)",
+					"sublime.log_commands(True)",
+					"view.run_command('save','build')",
+					"view.run_command(['save','build'])",
+					"view.run_command('save','build')",
+					"view.run_command('save & build')",
+					"view.run_command('save &'build)",
+					"view.run_command('save')",
+					"runcommand('save')",
+					"command('save')",
+					"save",
+					"sublime.log_commands(True)",
+					"3",
+					"sublime.log_commands(True)",
+					"sublime.load_resource(\"Packages/User/mAHK.sublime-build\")",
+					"sublime.log_commands(True)",
+					"view.run_command('copy_path')",
+					"view.run_command('copy_path', {\"event\": {\"x\": 207.5, \"y\": 327.5}})",
+					"copy_path({\"event\": {\"x\": 207.5, \"y\": 327.5}})",
+					"copy_path(\"event\": {\"x\": 207.5, \"y\": 327.5})",
+					"copy_path {\"event\": {\"x\": 207.5, \"y\": 327.5}}",
+					"sublime.log_commands(True)",
+					"view.run_command('example')",
 					"sublime.log_input(True)",
 					"sublime.log_commands(True)",
-					"move {\"by\": \"characters\", \"forward\": true}",
+					"view.run_command('example')",
+					"view.settings().get(\"syntax\")",
+					"self.view.settings().get(\"syntax\")",
 					"sublime.log_commands(True)",
-					"sys.path",
-					"import sys",
-					"import",
-					"os.getenv('path')",
-					"os.getenv()",
-					"import os",
-					"import",
-					"os",
-					"path",
-					"view.run_command(\"focus_group\")",
-					"show_panel {\"panel\": \"console\", \"toggle\": true}",
+					"view.run_command(\"e\")",
+					"view.run_command(\"exec_output_focus\")",
+					"view.run_command(\"ExecOutputFocus\")",
+					"view.run_command(\"example\")",
 					"sublime.log_commands(True)",
 					"import PyV8",
 					"sublime.log_commands(True)",
@@ -6472,15 +7163,12 @@
 					"sublime.log_commands(True)",
 					"cwd",
 					"working_dir",
-					"working",
-					"sublime.log_commands(True) ",
-					" sublime.log_commands(True) ",
-					"sublime.log_commands(True)"
+					"working"
 				]
 			},
 			"distraction_free":
 			{
-				"menu_visible": true,
+				"menu_visible": false,
 				"show_minimap": false,
 				"show_open_files": false,
 				"show_tabs": false,
@@ -6489,139 +7177,141 @@
 			},
 			"expanded_folders":
 			[
-				"/D/SmartBot/my_env/SmartBot",
-				"/D/SmartBot/my_env/SmartBot/scr"
+				"/D/1.Manoj/4.Study/4.Codes",
+				"/C/Users/Smart/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup",
+				"/C/SM",
+				"/C/SM/TG"
 			],
 			"file_history":
 			[
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/CodeFormatter/CodeFormatter.sublime-commands",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/AutoHotkey/AutoHotkey.sublime-build",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/AutoHotkey/Main.sublime-menu",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-commands",
-				"/D/SmartBot/my_env/SmartBot/config.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Ruby.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/pysynjs.py",
-				"/D/SmartBot/my_env/SmartBot/vg.py",
-				"/D/SmartBot/my_env/SmartBot/tc.py",
-				"/D/SmartBot/my_env/SmartBot/cf.py",
-				"/D/SmartBot/my_env/SmartBot/t.py",
-				"/D/SmartBot/my_env/SmartBot/pips.bat",
-				"/D/SmartBot/my_env/SmartBot/fac.py",
-				"/D/SmartBot/my_env/SmartBot/auto.py",
-				"/D/SmartBot/my_env/SmartBot/hpcl.py",
-				"/D/SmartBot/my_env/SmartBot/exlink.py",
-				"/D/SmartBot/my_env/SmartBot/f2.py",
-				"/D/SmartBot/my_env/SmartBot/t2.py",
-				"/D/SmartBot/my_env/SmartBot/cc.py",
-				"/D/SmartBot/my_env/SmartBot/gt.bat",
-				"/D/SmartBot/my_env/SmartBot/p.py",
-				"/D/SmartBot/my_env/SmartBot/cg.py",
-				"/D/SmartBot/my_env/SmartBot/telegram.py",
-				"/D/SmartBot/my_env/SmartBot/tid.py",
-				"/C/Users/Smart/Desktop/Rooster/wsrv2.py",
-				"/C/Users/Smart/Desktop/Rooster/WSR.xlsx",
-				"/E/Dad/Sum2/sum2.py",
-				"/D/SmartBot/my_env/SmartBot/n2w.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/hotel_route.py",
-				"/D/SmartBot/my_env/SmartBot/zt.py",
-				"/E/Dad/d.py",
-				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/requests/__init__.py",
-				"/D/SmartBot/my_env/SmartBot/ese.py",
-				"/D/Gits/SmartUserscripts/gt.cmd",
-				"/D/SmartBot/my_env/SmartBot/yt.py",
-				"/D/SmartBot/my_env/SmartBot/config2.py",
-				"/D/SmartBot/my_env/SmartBot/kec_mno.py",
-				"/D/SmartBot/my_env/SmartBot/cseb_mdet.py",
-				"/D/al.ahk",
-				"/D/z/t.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/h3.html",
-				"/D/SmartBot/my_env/SmartBot/coe.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/res_may_19_sara.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/im_CS_may_19_sara.csv",
-				"/C/Users/Smart/Downloads/Telegram Desktop/chk.py",
-				"/C/Users/Smart/Desktop/VCGPA_CSE.txt",
-				"/D/SmartBot/my_env/SmartBot/way2.py",
-				"/D/1.Manoj/2.Soft-war/2.Batch-files/tzt.py",
-				"/C/Users/Smart/Desktop/heroku_acnts.py",
-				"/D/SmartBot/my_env/SmartBot/dom.cmd",
-				"/C/Users/Smart/Desktop/www.smartmanoj.tk.zone",
-				"/C/Users/Smart/Downloads/Telegram Desktop/sam1.html",
-				"/D/SmartBot/my_env/SmartBot/switch.py",
-				"/D/SmartBot/my_env/SmartBot/gt2.cmd",
-				"/C/Users/Smart/Downloads/Telegram Desktop/abc.py",
-				"/D/SmartBot/my_env/SmartBot/requests.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/requests.py",
-				"/D/SmartBot/my_env/SmartBot/abc.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/r.py",
-				"/D/SmartBot/my_env/SmartBot/t.cmd",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Build/mPy.sublime-build",
-				"/C/Users/Smart/Downloads/Telegram Desktop/pyexcelsam.py",
-				"/D/SmartBot/my_env/SmartBot/kec_rn.py",
-				"/D/SmartBot/my_env/SmartBot/findname.py",
-				"/D/SmartBot/my_env/SmartBot/new.py",
-				"/D/SmartBot/my_env/SmartBot/new_rn.py",
-				"/D/SmartBot/my_env/SmartBot/get_gpa_csv.py",
-				"/D/SmartBot/my_env/SmartBot/z",
-				"/D/SmartBot/my_env/SmartBot/z.csv",
-				"/C/Users/Smart/Desktop/CGPA.csv",
-				"/C/Users/Smart/Downloads/Telegram Desktop/CS_may_19_sara.csv",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/D/SmartBot/my_env/SmartBot/b.cmd",
-				"/D/SmartBot/my_env/SmartBot/h.html",
-				"/C/Users/Smart/Downloads/Telegram Desktop/tres_dec_18.py",
-				"/D/SmartBot/my_env/SmartBot/fees.py",
-				"/D/SmartBot/my_env/SmartBot/bk.py",
-				"/E/Dad/date.dt",
-				"/E/Dad/Ganesh/v_Ganesh.yaml",
-				"/C/Users/Smart/Downloads/Telegram Desktop/photo_2019-04-18_19-39-40 (3).jpg",
-				"/C/Users/Smart/Desktop/h1.html",
-				"/D/SmartBot/my_env/SmartBot/logs.py",
-				"/D/SmartBot/my_env/SmartBot/gen.py",
-				"/C/Users/Smart/Desktop/f.pdf",
-				"/C/Users/Smart/Desktop/h.html",
-				"/C/Users/Smart/Desktop/1.pdf",
-				"/C/Users/Smart/Desktop/p.csv",
-				"/C/Users/Smart/Downloads/Compressed/Coding-20190418T051037Z-001/Coding/app.py",
-				"/D/SmartBot/my_env/SmartBot/helpf.py",
-				"/D/SmartBot/my_env/SmartBot/logs",
-				"/D/SmartBot/my_env/SmartBot/l.bat",
-				"/D/SmartBot/my_env/SmartBot/z2.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/photo_2019-04-18_19-39-40.jpg",
-				"/C/Users/Smart/Downloads/Telegram Desktop/zipitbot/telegram.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/zipitbot/post.py",
-				"/D/SmartBot/my_env/SmartBot/dobl.py",
-				"/C/Users/Smart/Desktop/1/[Content_Types].xml",
-				"/D/SmartBot/my_env/SmartBot/tt.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/KEC/CLG Fac/clg.py",
-				"/D/SmartBot/my_env/SmartBot/pyt.py",
-				"/D/SmartBot/my_env/SmartBot/requirements.txt",
-				"/D/SmartBot/my_env/SmartBot/tele.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/report1 (2).docx",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Python/Snippets/import.sublime-snippet",
-				"/D/SmartBot/my_env/SmartBot/p2.py",
-				"/D/SmartBot/my_env/SmartBot/kec_bg.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/hpxl.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/2.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/AA.py",
-				"/D/SmartBot/my_env/SmartBot/hp.py",
-				"/C/Users/Smart/Desktop/d2.sql",
-				"/C/Users/Smart/Desktop/d.sql",
-				"/C/Users/Smart/Desktop/d3.sql",
-				"/D/SmartBot/my_env/SmartBot/dobl2.py",
-				"/D/SmartBot/my_env/SmartBot/runtime.txt",
-				"/D/SmartBot/my_env/SmartBot/tmp.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Python/Snippets/print.sublime-snippet",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/L4L/t.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Plugins/PythonShellToCode.py",
+				"/D/1.Manoj/4.Study/4.Codes/p.py",
+				"/C/Users/Smart/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
+				"/C/SM/TG/v.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/update.py",
+				"/C/SM/TG/tds.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Features.md",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
+				"/C/SM/TG/z.py",
+				"/D/Gits/SmartPy/access_token",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Terminal/Side Bar.sublime-menu",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Side Bar Mount Point.sublime-menu",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Terminal/Main.sublime-menu",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Side Bar.sublime-menu",
-				"/C/Users/Smart/Downloads/Telegram Desktop/c (3).c",
+				"/D/1.Manoj/4.Study/4.Codes/c.c",
+				"/D/1.Manoj/4.Study/4.Codes/stack.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.gitignore",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/owst3.bat",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/owst3.cmd",
+				"/C/Users/Smart/Downloads/Telegram Desktop/h (7).html",
+				"/D/1.Manoj/4.Study/4.Codes/j.java",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/hello_st3.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/hello_st3.cs",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/hello_st3.c",
+				"/D/1.Manoj/4.Study/4.Codes/p2.py",
+				"/D/1.Manoj/4.Study/4.Codes/p3.py",
+				"/D/1.Manoj/4.Study/4.Codes/p4.py",
+				"/D/1.Manoj/4.Study/4.Codes/p5.py",
+				"/D/1.Manoj/4.Study/4.Codes/a.sql",
+				"/D/1.Manoj/4.Study/4.Codes/j.js",
+				"/D/1.Manoj/4.Study/4.Codes/q.py",
+				"/D/1.Manoj/4.Study/4.Codes/q3.py",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/AutoHotkey.ahk",
+				"/C/Users/Smart/Desktop/Rooster/wsrv2.py",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/HongKong.sublime-project",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hps.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp_sum.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp2.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp_bill.py",
+				"/E/Dad/d2.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Snippets/pyautogui.sublime-snippet",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/Smart/Downloads/Telegram Desktop/dd/hpcl.py",
+				"/C/Users/Smart/Downloads/Telegram Desktop/hpxl (2).py",
+				"/C/Users/Smart/Downloads/Telegram Desktop/hpxl.py",
+				"/C/Users/Smart/Desktop/p.py",
+				"/D/1.Manoj/4.Study/4.Codes/SmartManoj2.session",
+				"/E/Dad/Ganesh/v_Ganesh.yaml",
+				"/E/Dad/Manchester/v_Manchester.yaml",
+				"/D/1.Manoj/4.Study/4.Codes/Main.java",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/Sub/sub.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Features.md.txt",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/tkinter/__init__.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/config.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/tg.bat",
+				"/D/Gits/SmartPy/sel-.py",
+				"/D/Gits/AutoL4L/sel-l4l.py",
+				"/D/1.Manoj/4.Study/4.Codes/h.html",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/ahk3.ahk",
+				"/E/Dad/file_name_month_adder.py",
+				"/E/Dad/d.py",
+				"/C/Users/Smart/Downloads/Telegram Desktop/kri.bat",
+				"/C/Users/Smart/Downloads/Telegram Desktop/test.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Txts/vais",
+				"/C/Users/Smart/Downloads/Telegram Desktop/C0821b.java",
+				"/C/SM/TG/config.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/GScripts/sheets.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/GScripts/drive.py",
+				"/E/hpxl.py",
+				"/E/Dad/Sivaram/v_Sivaram.yaml",
+				"/C/Users/Smart/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/desktop.ini",
+				"/C/Users/Smart/AppData/Local/Programs/Python/Python37-32/Lib/smart.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/SendToTelegram.py",
+				"/C/Users/Smart/Downloads/Telegram Desktop/a.ahk",
+				"/D/1.Manoj/4.Study/4.Codes/h6.html",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Sublime Input/Default (Windows).sublime-keymap",
+				"/C/SM/TG/first.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Local/Session.sublime_session",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/Win 10 Install .NET Framework 3.5.cmd",
+				"/C/Users/Smart/Downloads/Telegram Desktop/SendToTelegram.py",
+				"/D/1.Manoj/4.Study/4.Codes/c.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Txts/qsearch.txt",
+				"/C/Users/Smart/Downloads/Telegram Desktop/timesheet v2.py",
+				"/D/1.Manoj/4.Study/4.Codes/h4.html",
+				"/D/1.Manoj/4.Study/4.Codes/h3.html",
+				"/C/Users/Smart/Downloads/Telegram Desktop/r2.html",
+				"/D/1.Manoj/4.Study/4.Codes/v.html",
+				"/C/Users/Smart/Downloads/Telegram Desktop/h3 (2).html",
+				"/D/1.Manoj/4.Study/4.Codes/h2.html",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp_rate.py",
+				"/D/1.Manoj/4.Study/4.Codes/h5.html",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Build/mC.sublime-build",
+				"/C/Users/Smart/Downloads/Telegram Desktop/r1.html",
+				"/C/Users/Smart/Downloads/Telegram Desktop/h4.html",
+				"/C/Users/Smart/Downloads/Telegram Desktop/h (3).html",
+				"/D/1.Manoj/4.Study/4.Codes/101/Txts/knab",
+				"/D/1.Manoj/4.Study/4.Codes/index.html",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.git/info/exclude",
+				"/C/Users/Smart/Downloads/Telegram Desktop/sms.php",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/update.cmd",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/L.txt",
+				"/C/Users/Smart/Downloads/Telegram Desktop/demo.py",
+				"/D/1.Manoj/4.Study/4.Codes/tele.py",
+				"/D/1.Manoj/4.Study/4.Codes/report.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Txts/card",
+				"/D/1.Manoj/4.Study/4.Codes/101/Txts/pwd",
+				"/D/1.Manoj/4.Study/4.Codes/b.cmd",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Terminal/Context.sublime-menu",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/View In Browser/View In Browser.sublime-settings",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Terminal/Terminal.sublime-settings",
+				"/D/1.Manoj/4.Study/4.Codes/q2.py",
+				"/C/Users/Smart/Downloads/Telegram Desktop/p (11).py",
+				"/D/SmartBot/my_env/SmartBot/hp.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp.yaml",
+				"/D/1.Manoj/4.Study/4.Codes/p6.py",
+				"/E/Dad/date.dt",
+				"/C/Users/Smart/Downloads/Telegram Desktop/2_newton_divided_diff.py",
+				"/E/Dad/JUN",
+				"/E/Dad/p",
+				"/C/Users/Smart/Downloads/Telegram Desktop/sort (2).html",
+				"/D/1.Manoj/4.Study/4.Codes/jiofi.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Txts/UID/e-uid.txt",
+				"/C/Users/Smart/Downloads/Telegram Desktop/ckbox.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/Sub/subt-rename.py",
 				"/C/Users/Smart/Downloads/Telegram Desktop/pydocxts.py",
-				"/D/Turn_Off_Windows_Defender.reg",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Backup/20190314190103/Terminal/.gitignore",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/update.cmd"
+				"/C/Users/Smart/Desktop/mentor.json",
+				"/C/Users/Smart/Downloads/Telegram Desktop/numbertoword.py",
+				"/C/Users/Smart/Downloads/Telegram Desktop/q.py",
+				"/D/SM/TG"
 			],
 			"find":
 			{
@@ -6629,280 +7319,282 @@
 			},
 			"find_in_files":
 			{
-				"height": 244.0,
+				"height": 155.0,
 				"where_history":
 				[
-					"<open folders>",
-					"D:\\z"
+					"C:\\SM\\TG",
+					"D:\\z,<open folders>,<open files>",
+					"D:\\z",
+					"C:\\Users\\Smart\\Downloads\\cintruder-v0.3"
 				]
 			},
 			"find_state":
 			{
-				"case_sensitive": true,
+				"case_sensitive": false,
 				"find_history":
 				[
-					"lst",
-					"nan",
-					"seri",
-					"ser",
-					"sar",
-					"(mapla+|mach(i|a)+|hy|h(a|o)?i+|ji+|hey+|b|hello|hlo+|d(e|a)+(i|y)+|aii+)$",
-					"dai",
-					"t",
-					"`",
-					"d(e|a)+(i|y)+",
-					"dei",
-					"dai",
-					"ena",
-					"\\d",
-					"\\d\\d",
-					"15",
-					"res",
-					"dipre",
-					"'d\\.",
-					"d\\.",
-					"gmail",
-					"D",
-					"where",
-					"d",
-					"hp_rspx",
-					"wher",
-					"hp_rsp3",
-					"tdy",
-					"set tdy",
-					"tcc",
-					"tc\\.",
-					"tc",
-					"th",
-					"mca",
-					"Aditya",
-					"N.Aditya",
-					"N.Aditya M.Tech",
-					"9788172879",
-					"athitya",
+					"commit",
+					"prgrm",
+					"prg",
+					"update",
+					"ahk",
+					"part2",
+					"ahk",
+					"sum",
+					"Name",
+					"v-7",
+					"cst3",
+					"v-",
+					"v.",
+					"v7",
+					"CST3",
+					"cst3",
+					"cst",
+					"cs",
+					"v6",
+					"edit",
+					"i",
+					"https",
+					"htpps",
+					"10 %\t",
+					"pyautogui",
+					"/me",
+					"f2s",
+					",",
+					"spc",
+					":o:",
+					"Advance",
+					"TG",
+					"TG=",
+					"call",
+					"array",
+					"MyThread",
+					"Puppy",
+					"xlsx",
+					"hd",
+					"TN60D8510",
+					"D8510",
+					"TN36AE9048",
+					"TN60D8510",
+					"TN31BV1122",
+					"TN60D8510",
+					"tear",
+					"menubar",
+					"a",
 					"n",
-					"ok",
-					"lst",
-					"☺️",
-					"emos",
-					"😄",
-					"emos",
-					"😄",
-					"lst2",
-					"history",
-					"wu'",
-					"history_idx",
-					"history",
-					"hist",
-					"'lst",
-					"zst",
-					"insert",
-					"hp_rspx",
-					"insert",
-					"auto",
-					"lst",
-					"'est",
-					"'Est",
-					"hp_rsp",
-					"!error",
-					"kms",
-					"https://t.me/SmartManojChannel/850",
-					"vg'",
-					"vg",
-					"30",
-					"vg",
-					"alert",
-					"Invalid",
-					"hw",
-					"gif",
-					"requests",
-					"ews",
-					"n",
-					"schoolname",
-					"ws",
-					"wb",
-					"gr",
-					"how",
-					"tens",
-					"spellNumber",
-					"nw.",
-					"n2w",
-					"18MER001",
-					"'18MER001': 'AAKASH_N',",
-					"18MER001",
-					"'18MER001': 'AAKASH_N',\n'18MER002': 'ABDUL_AZEEM_A',\n'18MER003': 'ABDUL_MAZEED_J',\n'18MER004': 'ABHINESH_S_B',",
-					"'18MER001': 'AAKASH_N',\n'18MER002': 'ABDUL_AZEEM_A',\n'18MER003': 'ABDUL_MAZEED_J',\n'18MER004': 'ABHINESH_S_B',\n'18MER005': 'ABISHEK_S',\n'18MER006': 'AJAY_KUMAR_R',\n'18MER007': 'AJAYSURIYA_S',\n'18MER008': 'AKILAN_K',",
-					"18MER001",
-					"'18MER001':'AAKASH  N',\n'18MER002':'ABDUL  AZEEM  A',\n'18MER003':'ABDUL  MAZEED  J',\n'18MER004':'ABHINESH  S  B',\n'18MER005':'ABISHEK  S',\n'18MER006':'AJAY  KUMAR  R',\n'18MER007':'AJAYSURIYA  S',\n'18MER008':'AKILAN  K',\n'18MER009':'ALDRIN  FELICE  DANIEL  G',\n'18MER010':'ARAVIND  S',\n'18MER012':'ARAVINTH  S  N',\n'18MER013':'ARBIN  SREE  S',",
-					"18MER001",
-					"18mer001",
-					"index",
-					"thread",
-					"15CSR226",
-					"cred",
-					"\\n",
-					"pres",
-					"name",
+					"delnew",
+					".",
+					"start",
+					"hacker",
+					"D01",
+					"            \n",
+					"span",
+					"start",
+					"span",
+					"width",
+					"d01",
+					"df",
+					"input",
+					"height",
+					"li",
+					"color",
+					"mli",
+					"D01",
+					"con",
+					"span",
+					"input",
+					"input[type=\"text\"]",
+					"input",
+					"tab",
+					"exp",
+					"table",
+					"hidem",
+					"input",
+					"height",
+					"js",
+					"cursor",
+					"hover",
+					"d==",
+					",",
+					"ch",
+					"c",
+					"snap",
+					"span",
+					".qty ",
+					"span",
+					"div",
+					"black",
+					"file",
+					"'1.doc'",
+					"653662703",
+					"msg",
+					"ChatForbidden",
+					"3",
+					"ChatForbidden",
+					"forbidden",
+					"chat",
+					"583$",
+					"583",
+					"-19",
+					"12-03",
+					"stockDate",
+					"01-04-2019",
+					"01",
+					"color",
+					"feb",
+					"month",
+					"win",
 					"','",
-					"cg",
-					"ns",
-					"120",
-					"rc",
-					"claimVisit ",
-					"claimsList",
-					"form",
-					"oh",
-					"print",
-					"w2.send",
-					"w2.se",
-					"hp",
-					"rt=",
-					"cols[4]",
-					"dg",
-					"manoj",
-					"AnyDesk ",
-					"cf",
-					"genck",
-					")\n",
-					"]+'\n",
-					"emos",
-					"☺️",
-					"emos",
-					"nand"
+					"press",
+					"\\w",
+					"d",
+					"p",
+					"1027",
+					"08-",
+					"08",
+					"1609",
+					"1433",
+					"1613",
+					"1909",
+					"249",
+					"1909",
+					"1027",
+					"a={}\nfirst_name='Rooster'\nlast_name='Home'\nphone= mno\na1=a.get(phone.strip('+'))",
+					"row"
 				],
-				"highlight": true,
+				"highlight": false,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
 					"",
-					"\"\"\"",
+					"::",
 					"",
-					":",
-					"\\n",
-					"1(WFH)",
-					"resc",
-					"Where",
-					"diesel",
-					"petrol",
-					"msz",
+					"v",
+					"",
 					"diesel",
 					"petrol",
 					"",
-					"In memory",
-					"telegram",
-					"http",
-					"\"\n",
-					"\\n",
-					" ",
-					"-testmode       \n-debug          \n-many           \n-key            \n-autostart      \n-fixprevious    \n-cleanup        \n-noupdate       \n-externalupdater\n-tosettings     \n-startintray    \n-sendpath       \n-workdir        \n--\"",
-					" ",
-					"END:VCARD#\nBEGIN:VCARD",
-					"END:VCARD\nBEGIN:VCARD",
-					"END",
-					"END:VCARD\nBEGIN:VCARD",
-					"None",
-					"\\t",
-					"\"",
-					"\\t",
-					"",
-					"f\"\\1\"",
-					"'",
-					"tv",
-					"tidLukMan",
-					"print",
-					"CSR0",
-					"",
-					"15",
-					" ",
-					"",
-					"/",
-					"",
-					"\\t",
-					",",
-					".",
-					"\"",
-					"",
-					": \"home",
-					"/",
-					"",
-					".\\10",
-					".\\10,",
-					".\\10",
-					" 0.00,",
-					"0.00,",
-					"0.00",
-					"",
-					"@T",
-					"@L",
-					" L",
-					"",
-					"''",
-					"'t'",
-					"",
-					"NIL",
-					"",
-					"NIL",
-					"",
-					": '",
-					": ",
-					" ",
-					"",
-					"[",
 					"]",
 					"[",
-					".",
+					"\"",
 					"",
-					"),",
-					"','",
-					"",
-					"round(stop - start,2)",
-					"",
-					"datec",
-					"",
-					"get_updates",
-					"None",
-					"IOT",
-					"Evng",
-					"Mrng",
-					"XMLWS",
-					"IT",
-					"'",
-					" : ",
-					"_",
-					"",
+					".append(",
 					"DIESEL",
 					"PETROL",
-					"\\1:",
-					"self.tok",
-					"(self.jsi)",
-					"self.tok",
-					"self.jsi",
+					"SignUp",
+					"CAN",
+					"```",
+					"a",
+					"DIESEL ",
+					"PETROL ",
 					"",
-					"headers",
-					"\"4294",
-					"\"",
-					"\"Office\": '\\1",
-					"Office\": \"\\1",
+					">",
 					"",
-					"\\1,",
-					"'\\1'",
-					"'\\0'",
-					"'\\1'",
+					"\\",
+					"diesel ",
+					"diesel",
+					"petrol ",
 					"",
-					" \\1\\n",
-					" \\1",
+					"%p%",
+					"tgs.py",
+					"\\t",
+					"TN56_4645",
+					"PETROL",
+					"DIESEL",
+					"PETROL,2T Oil(Rs.48)",
+					"PETROL",
+					"DIESEL",
+					"PETROL",
+					"PETROL,2T Oil(Rs.24)",
+					"],[",
+					"]",
+					"[",
+					"sname",
+					"diesel",
+					"petrol",
+					"/",
+					"",
+					"1",
+					".",
+					"/",
+					"\\n\\n",
+					" = ",
+					"0\\1",
+					"0\\1 ",
+					" \\1 ",
+					" + ",
+					"tname",
+					"DIESEL",
+					"PETROL",
+					"\\n",
+					"copy",
+					"default",
+					"ty",
+					"",
+					"&",
+					"/",
+					"(",
+					".",
+					"#",
+					"/",
+					"",
+					"&lt;",
+					"",
+					"\\\\",
+					"\\\\\\\\",
+					"\\\\",
+					"\\\\\\\\",
+					"\\\\",
+					"",
+					"sessionStorage",
+					"\\0",
+					"&lt;script>",
+					"15",
+					"SSS",
+					"",
+					",",
+					"",
+					", ",
+					",",
+					"",
+					"[\\\\d\\\\.]",
+					"[\\\\d.]",
+					"''",
+					"'')",
+					"''",
 					" ",
 					"",
-					"\\1<b>\\2</b>",
+					"\"",
+					"l.cmd",
 					"",
-					"hqual",
-					":0,",
-					":(\\1,),",
-					":(\\1),",
-					"0\\1",
-					"\\n",
+					"\\t\\1",
+					"",
+					"-",
+					"--",
+					"smartest",
+					"press",
+					"",
+					"2.00 - 5.00",
+					"30 - 1",
+					"30 -",
+					"",
+					"CHEM",
+					"CHEM\n",
+					"AUTO",
+					"CIVIL",
+					"MECH",
+					"MTS",
+					"MECH",
+					"",
+					"Duesday",
+					" ) ",
+					" ( ",
+					"#\\1\\t\\2\\t\\3",
+					"DIESEL",
+					"PETROL",
+					".pdf',",
 					"\\t"
 				],
 				"reverse": false,
@@ -6914,154 +7606,8 @@
 			"groups":
 			[
 				{
-					"selected": 1,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Plugins/PythonShellToCode.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 166,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										62,
-										45
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Commands/Custom.sublime-commands",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 76,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										17,
-										34
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/SmartBot/my_env/SmartBot/config.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 10028,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/SmartBot/my_env/SmartBot/t.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2269,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2247,
-										2247
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1648.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Features.md",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1623,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										7,
-										7
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -7071,7 +7617,7 @@
 			},
 			"input":
 			{
-				"height": 96.0
+				"height": 59.0
 			},
 			"layout":
 			{
@@ -7110,11 +7656,11 @@
 			},
 			"output.exec":
 			{
-				"height": 243.0
+				"height": 256.0
 			},
 			"output.find_results":
 			{
-				"height": 0.0
+				"height": 96.0
 			},
 			"output.hex_viewer_inspector":
 			{
@@ -7130,10 +7676,10 @@
 			},
 			"pinned_build_system": "",
 			"position": "0,2,3,-32000,-32000,-1,-1,685,104,104,760",
-			"project": "Bot.sublime-project",
+			"project": "Manoj.sublime-project",
 			"replace":
 			{
-				"height": 74.0
+				"height": 60.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -7144,515 +7690,515 @@
 				[
 					[
 						"t",
-						"t.py"
+						"4.Codes\\101\\Py\\BT\\L4L\\t.py"
 					],
 					[
-						"tid",
-						"tid.py"
-					],
-					[
-						"tel",
-						"telegram.py"
-					],
-					[
-						"conf",
-						"config.py"
-					],
-					[
-						"gt",
-						"gt.bat"
-					],
-					[
-						"tc",
-						"tc.py"
-					],
-					[
-						"pip",
-						"pips.bat"
-					],
-					[
-						"cc",
-						"cc.py"
-					],
-					[
-						"aut",
-						"auto.py"
-					],
-					[
-						"",
-						"auto.py"
-					],
-					[
-						"cg",
-						"cg.py"
-					],
-					[
-						"te",
-						"telegram.py"
-					],
-					[
-						"n",
-						"n2w.py"
-					],
-					[
-						"con",
-						"config.py"
-					],
-					[
-						"hpc",
-						"hpcl.py"
-					],
-					[
-						"co",
-						"config.py"
-					],
-					[
-						"zt",
-						"zt.py"
-					],
-					[
-						"hp",
-						"hpcl.py"
-					],
-					[
-						"a",
-						"auto.py"
-					],
-					[
-						"fa",
-						"fac.py"
-					],
-					[
-						"c",
-						"config.py"
-					],
-					[
-						"confi",
-						"config.py"
-					],
-					[
-						"hpcl",
-						"hpcl.py"
-					],
-					[
-						"auto",
-						"auto.py"
-					],
-					[
-						"vg",
-						"vg.py"
-					],
-					[
-						"ese",
-						"ese.py"
-					],
-					[
-						"auot",
-						"auto.py"
-					],
-					[
-						"p",
-						"p.py"
-					],
-					[
-						"yt",
-						"yt.py"
-					],
-					[
-						"ex",
-						"exlink.py"
-					],
-					[
-						"f2",
-						"f2.py"
-					],
-					[
-						"c2",
-						"config2.py"
-					],
-					[
-						"cf",
-						"cf.py"
-					],
-					[
-						"m",
-						"cseb_mdet.py"
+						"z.py",
+						"SM\\TG\\z.py"
 					],
 					[
 						"v",
-						"vg.py"
+						"SM\\TG\\v.py"
 					],
 					[
-						"sw",
-						"switch.py"
+						"tds",
+						"SM\\TG\\tds.py"
 					],
 					[
-						"gt2",
-						"gt2.cmd"
+						"ahk",
+						"Startup\\tds.ahk"
 					],
 					[
-						"dom",
-						"dom.cmd"
+						"p",
+						"4.Codes\\p.py"
 					],
 					[
-						"n2",
-						"n2w.py"
+						"c",
+						"4.Codes\\c.c"
 					],
 					[
-						"au",
-						"auto.py"
+						"P",
+						"4.Codes\\p.py"
 					],
 					[
-						"wa",
-						"way2.py"
-					],
-					[
-						"fac",
-						"fac.py"
-					],
-					[
-						"ap",
-						"auto.py"
-					],
-					[
-						"rn",
-						"kec_rn.py"
-					],
-					[
-						"coe",
-						"coe.py"
-					],
-					[
-						"new",
-						"new_rn.py"
-					],
-					[
-						"z",
-						"z"
-					],
-					[
-						"h",
-						"h.html"
-					],
-					[
-						"auo",
-						"auto.py"
-					],
-					[
-						"w",
-						"way2.py"
-					],
-					[
-						"bk",
-						"bk.py"
-					],
-					[
-						"fee",
-						"fees.py"
-					],
-					[
-						"ne",
-						"new_rn.py"
-					],
-					[
-						"b",
-						"b.cmd"
-					],
-					[
-						"t.",
-						"t.py"
-					],
-					[
-						"t.py",
-						"t.py"
-					],
-					[
-						"do",
-						"dom.cmd"
-					],
-					[
-						"log",
-						"logs.py"
-					],
-					[
-						"hel",
-						"helpf.py"
-					],
-					[
-						"logs",
-						"logs.py"
-					],
-					[
-						"z2",
-						"z2.py"
-					],
-					[
-						"z.",
-						"z2.py"
-					],
-					[
-						"l",
-						"l.bat"
-					],
-					[
-						"dob",
-						"dobl.py"
-					],
-					[
-						"tg",
-						"telegram.py"
-					],
-					[
-						"py",
-						"pyt.py"
-					],
-					[
-						"re",
-						"requirements.txt"
-					],
-					[
-						"r",
-						"requirements.txt"
-					],
-					[
-						"ge",
-						"gen.py"
-					],
-					[
-						"run",
-						"runtime.txt"
-					],
-					[
-						"tm",
-						"tmp.py"
-					],
-					[
-						"n2w",
-						"n2w.py"
-					],
-					[
-						"gen",
-						"gen.py"
-					],
-					[
-						"kec",
-						"kec_rn.py"
-					],
-					[
-						"t.c",
-						"t.cmd"
-					],
-					[
-						"dcm",
-						"dom.cmd"
-					],
-					[
-						"cn",
-						"config.py"
-					],
-					[
-						"d",
-						"dom.cmd"
-					],
-					[
-						"ba",
-						"gt.bat"
-					],
-					[
-						"bg",
-						"kec_bg.py"
-					],
-					[
-						"gt.",
-						"gt.bat"
-					],
-					[
-						"ca",
-						"kec_ac.py"
-					],
-					[
-						"he",
-						"helpf.py"
-					],
-					[
-						"ft",
-						"zft.py"
-					],
-					[
-						"tt",
-						"tt.py"
-					],
-					[
-						"b.",
-						"b.bat"
-					],
-					[
-						"ui",
-						"uid.py"
-					],
-					[
-						"f",
-						"f2.py"
-					],
-					[
-						"ti",
-						"tid_staff.py"
-					],
-					[
-						"ru",
-						"runtime.txt"
-					],
-					[
-						"k",
-						"kec_rn.py"
-					],
-					[
-						"bm",
-						"bm.py"
-					],
-					[
-						"e",
-						"exlink.py"
-					],
-					[
-						"gp",
-						"gp.txt"
-					],
-					[
-						"ke",
-						"kec_rn.py"
-					],
-					[
-						"gp2",
-						"gp2.txt"
+						"q3",
+						"4.Codes\\q3.py"
 					],
 					[
 						"q",
-						"qc.py"
+						"4.Codes\\q.py"
+					],
+					[
+						"p5",
+						"4.Codes\\p5.py"
+					],
+					[
+						"p4",
+						"4.Codes\\p4.py"
+					],
+					[
+						"p3",
+						"4.Codes\\p3.py"
+					],
+					[
+						"p2",
+						"4.Codes\\p2.py"
+					],
+					[
+						"aut",
+						"2.Batch-files\\AutoHotkey.ahk"
+					],
+					[
+						"js",
+						"4.Codes\\j.js"
+					],
+					[
+						"hp",
+						"4.Codes\\101\\Py\\BT\\Hp\\hp_bill.py"
+					],
+					[
+						"hong",
+						"2.Batch-files\\Sublz\\HongKong.sublime-project"
+					],
+					[
+						"ses",
+						"4.Codes\\SmartManoj2.session"
+					],
+					[
+						"j",
+						"4.Codes\\j.java"
+					],
+					[
+						"a",
+						"2.Batch-files\\ahk3.ahk"
+					],
+					[
+						"su",
+						"4.Codes\\101\\Py\\Sub\\sub.py"
+					],
+					[
+						"ma",
+						"4.Codes\\Main.java"
+					],
+					[
+						"sum",
+						"4.Codes\\101\\Py\\BT\\Hp\\hp_sum.py"
+					],
+					[
+						"j.",
+						"4.Codes\\j.java"
+					],
+					[
+						"vai",
+						"4.Codes\\101\\Txts\\vais"
+					],
+					[
+						"",
+						"Startup\\tds.ahk"
+					],
+					[
+						"c.c",
+						"4.Codes\\c.c"
+					],
+					[
+						"dri",
+						"4.Codes\\101\\Py\\GScripts\\drive.py"
+					],
+					[
+						"she",
+						"4.Codes\\101\\Py\\GScripts\\sheets.py"
+					],
+					[
+						"hpb",
+						"4.Codes\\101\\Py\\BT\\Hp\\hp_bill.py"
+					],
+					[
+						"ahk3",
+						"2.Batch-files\\ahk3.ahk"
+					],
+					[
+						"hps",
+						"4.Codes\\101\\Py\\BT\\Hp\\hp_sum.py"
+					],
+					[
+						"work",
+						"2.Batch-files\\Win 10 Install .NET Framework 3.5.cmd"
+					],
+					[
+						"c.",
+						"4.Codes\\c.c"
 					],
 					[
 						"qc",
-						"qc.py"
+						"4.Codes\\101\\Txts\\qsearch.txt"
 					],
 					[
-						"fe",
-						"fees.py"
-					],
-					[
-						"g",
-						"gt.bat"
-					],
-					[
-						"tele",
-						"tele.py"
-					],
-					[
-						"snt",
-						"snt"
+						"hpr",
+						"4.Codes\\101\\Py\\BT\\Hp\\hp_rate.py"
 					],
 					[
 						"p.py",
-						"tmp.py"
+						"4.Codes\\p.py"
 					],
 					[
-						"mno",
-						"kec_mno.py"
+						"h2",
+						"4.Codes\\h2.html"
 					],
 					[
-						"md",
-						"cseb_mdet.py"
+						"qs",
+						"4.Codes\\101\\Txts\\qsearch.txt"
 					],
 					[
-						"kec_rn",
-						"kec_rn.py"
+						"p.p",
+						"4.Codes\\p.py"
 					],
 					[
-						"dt",
-						"dtc.py"
+						"kna",
+						"4.Codes\\101\\Txts\\knab"
 					],
 					[
-						"est",
-						"est.py"
+						"h",
+						"4.Codes\\h.html"
 					],
 					[
-						"sc",
-						"scr\\scr.py"
+						"car",
+						"4.Codes\\101\\Txts\\card"
 					],
 					[
-						"tids",
-						"tid_staff.py"
+						"wor",
+						"4.Codes\\word.py"
 					],
 					[
-						"tre",
-						"telegram.py"
+						"b",
+						"4.Codes\\b.cmd"
 					],
 					[
-						"el",
-						"elist.py"
+						"b.c",
+						"4.Codes\\b.cmd"
 					],
 					[
-						"tmp",
-						"tmp.py"
+						"q2",
+						"4.Codes\\q2.py"
 					],
 					[
-						"tmp2",
-						"tmp2.py"
+						"pwd",
+						"4.Codes\\101\\Txts\\pwd"
 					],
 					[
-						"kec ca",
-						"kec_ac.py"
+						"tel",
+						"4.Codes\\tele.py"
 					],
 					[
-						"tidl",
-						"tidlist.py"
+						"pw",
+						"4.Codes\\101\\Txts\\pwd"
 					],
 					[
-						"help",
-						"helpf.py"
+						"kn",
+						"4.Codes\\101\\Txts\\knab"
 					],
 					[
-						"tod",
-						"todo.py"
+						"hp2",
+						"4.Codes\\101\\Py\\BT\\Hp\\hp2.py"
 					],
 					[
-						"cs",
-						"cseb_mdet.py"
+						"p6",
+						"4.Codes\\p6.py"
 					],
 					[
-						"de",
-						"cseb_mdet.py"
+						"ah",
+						"2.Batch-files\\AutoHotkey.ahk"
 					],
 					[
-						"eg",
-						"kec_gen.py"
+						"ji",
+						"4.Codes\\jiofi.py"
 					],
 					[
-						"wik",
-						"wiki.py"
+						"ui",
+						"4.Codes\\101\\Txts\\UID\\e-uid.txt"
 					],
 					[
-						"ac",
-						"kec_ac.py"
+						"tele",
+						"4.Codes\\tele.py"
 					],
 					[
-						"to",
-						"todo.py"
+						"cmd",
+						"4.Codes\\b.cmd"
 					],
 					[
-						"fac2",
-						"fac2.py"
+						"ren",
+						"4.Codes\\101\\Py\\Sub\\subt-rename.py"
 					],
 					[
-						"es",
-						"est.py"
+						"co",
+						"SM\\TG\\config.py"
 					],
 					[
-						"mn",
-						"kec_mno.py"
+						"z.",
+						"TG\\z.py"
 					],
 					[
-						"pan",
-						"panel.py"
+						"au",
+						"2.Batch-files\\AutoHotkey.ahk"
+					],
+					[
+						"fres",
+						"4.Codes\\101\\Py\\301\\fres.py"
+					],
+					[
+						"con",
+						"4.Codes\\101\\Py\\BT\\L4L\\config.py"
+					],
+					[
+						"conf",
+						"4.Codes\\config.py"
+					],
+					[
+						"fb",
+						"4.Codes\\101\\Py\\BT\\FB\\fb.py"
+					],
+					[
+						"gt",
+						"4.Codes\\101\\Py\\301\\gtcheck.py"
+					],
+					[
+						"p9",
+						"4.Codes\\p9.py"
+					],
+					[
+						"p8",
+						"4.Codes\\p8.py"
+					],
+					[
+						"p7",
+						"4.Codes\\p7.py"
+					],
+					[
+						"z.p",
+						"TG\\z.py"
+					],
+					[
+						"td",
+						"TG\\tds.py"
+					],
+					[
+						"py",
+						"4.Codes\\101\\Py\\301\\pyauto.py"
+					],
+					[
+						"jig",
+						"4.Codes\\jio_log"
+					],
+					[
+						"resetvars",
+						"2.Batch-files\\resetvars.vbs"
+					],
+					[
+						"zz",
+						"2.Batch-files\\zz.bat"
+					],
+					[
+						"jio",
+						"2.Batch-files\\jio_log"
+					],
+					[
+						"wu",
+						"2.Batch-files\\wu.bat"
+					],
+					[
+						"jiof",
+						"4.Codes\\jiofi.py"
+					],
+					[
+						"p.",
+						"4.Codes\\p.py"
+					],
+					[
+						"res",
+						"4.Codes\\101\\Py\\301\\fres.py"
+					],
+					[
+						"sub",
+						"4.Codes\\101\\Py\\Sub\\subt-rename.py"
+					],
+					[
+						"knb",
+						"4.Codes\\101\\Txts\\knab"
+					],
+					[
+						"dwp",
+						"4.Codes\\dwpe"
+					],
+					[
+						"dw",
+						"4.Codes\\dwp"
+					],
+					[
+						"tbo",
+						"4.Codes\\101\\Py\\Tbot\\tbot.py"
+					],
+					[
+						"tb",
+						"4.Codes\\101\\Py\\Tbot\\tbot.py"
+					],
+					[
+						"cg",
+						"4.Codes\\101\\KEC\\res\\old\\cgpa.py"
+					],
+					[
+						"ad",
+						"2.Batch-files\\adbb.bat"
+					],
+					[
+						"kec",
+						"4.Codes\\101\\KEC\\cal\\kec_ac.py"
+					],
+					[
+						"b.",
+						"4.Codes\\b.cmd"
+					],
+					[
+						"ba",
+						"4.Codes\\backup"
+					],
+					[
+						"auo",
+						"2.Batch-files\\AutoHotkey.ahk"
+					],
+					[
+						"user",
+						"2.Batch-files\\user_env_variables[Sun,-De- 0].reg"
+					],
+					[
+						"h.h",
+						"4.Codes\\h.html"
+					],
+					[
+						"adf",
+						"2.Batch-files\\adf.bat"
+					],
+					[
+						"AK3",
+						"2.Batch-files\\ahk3.ahk"
+					],
+					[
+						"AHK",
+						"2.Batch-files\\ahk2.ahk"
+					],
+					[
+						"ssk",
+						"2.Batch-files\\ssk.bat"
+					],
+					[
+						"h.ht",
+						"4.Codes\\h.html"
+					],
+					[
+						"ht",
+						"4.Codes\\h.html"
+					],
+					[
+						"auto",
+						"2.Batch-files\\AutoHotkey.ahk"
+					],
+					[
+						"ssr",
+						"2.Batch-files\\ssr.bat"
+					],
+					[
+						"pyau",
+						"4.Codes\\101\\Py\\301\\pyauto.py"
+					],
+					[
+						"ahk2",
+						"2.Batch-files\\ahk2.ahk"
+					],
+					[
+						"l",
+						"C:\\Users\\Smart\\Downloads\\Telegram Desktop\\login.py"
+					],
+					[
+						"lo",
+						"C:\\Users\\Smart\\Downloads\\Telegram Desktop\\login.py"
+					],
+					[
+						"1",
+						"1"
+					],
+					[
+						"dbo",
+						"4.Codes\\dbox.py"
+					],
+					[
+						"dob",
+						"4.Codes\\101\\KEC\\res\\dobf.py"
+					],
+					[
+						"tn",
+						"4.Codes\\101\\Py\\BT\\TNRes\\tnres.py"
+					],
+					[
+						"pya",
+						"4.Codes\\101\\Py\\301\\pyauto.py"
+					],
+					[
+						"tnr",
+						"4.Codes\\101\\Py\\BT\\TNRes\\tnres.py"
+					],
+					[
+						"ty",
+						"TG\\tdsv5.py"
+					],
+					[
+						"amu",
+						"4.Codes\\101\\Py\\BT\\Amulyam\\amu-bal.py"
+					],
+					[
+						"card",
+						"4.Codes\\101\\Txts\\card"
+					],
+					[
+						"h.",
+						"4.Codes\\h.html"
+					],
+					[
+						"tds.a",
+						"TG\\tds.ahk"
+					],
+					[
+						"a.hk",
+						"2.Batch-files\\ahk3.ahk"
+					],
+					[
+						"tg",
+						"4.Codes\\tgs.py"
+					],
+					[
+						"a.re",
+						"2.Batch-files\\Context menu\\AddToOpenAsAdmin.reg.reg"
+					],
+					[
+						"z",
+						"4.Codes\\z"
+					],
+					[
+						"sel",
+						"2.Batch-files\\sel\\selk.ahk"
+					],
+					[
+						"autop",
+						"4.Codes\\101\\Py\\301\\pyauto.py"
+					],
+					[
+						"dra",
+						"4.Codes\\101\\Txts\\UID\\drac.txt"
+					],
+					[
+						"tgs",
+						"4.Codes\\tgs.py"
+					],
+					[
+						"ca",
+						"4.Codes\\101\\Txts\\card"
 					]
 				],
 				"width": 0.0
@@ -7672,68 +8218,88 @@
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
 					],
 					[
-						"ho",
+						"b",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
+					],
+					[
+						"hon",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\HongKong.sublime-project"
 					],
 					[
-						"su",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
+						"bot",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
+					],
+					[
+						"h",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\HongKong.sublime-project"
 					],
 					[
 						"dr",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-project"
-					],
-					[
-						"bo",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona2.sublime-project"
 					],
 					[
 						"d",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-project"
 					],
 					[
+						" ",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
+					],
+					[
+						"de",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-project"
+					],
+					[
+						"am",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
+					],
+					[
+						"L",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
+					],
+					[
+						"n",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
+					],
+					[
 						"na",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Nava.sublime-project"
 					],
 					[
-						"b",
+						"e",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
-						"ma",
+						"a",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
 					],
 					[
-						"n",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Nava.sublime-project"
-					],
-					[
-						"nava",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Nava.sublime-project"
-					],
-					[
-						"c",
+						"te",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
-						"vv",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\vv.sublime-project"
+						"bn",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Nava.sublime-project"
 					],
 					[
-						"v",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Subl\\vv.sublime-project"
+						"nb",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
-						"I",
+						"bo",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Subl\\Bot.sublime-project"
+					],
+					[
+						"boi",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Bot.sublime-project"
 					],
 					[
-						"bot",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Bot.sublime-project"
+						"ma",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Manoj.sublime-project"
 					],
 					[
-						"f",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\vv.sublime-project"
+						"bt",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Bot.sublime-project"
 					],
 					[
 						"nav",
@@ -7744,97 +8310,21 @@
 			},
 			"select_symbol":
 			{
-				"height": 72.0,
-				"last_filter": "hp_stock2",
+				"height": 165.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"hp_stock2",
-						"hp_stock2"
-					],
-					[
 						"",
-						"api_wa"
+						"count"
 					],
 					[
-						"sen",
-						"send_message"
+						"kt",
+						"kth_sentence_in_mth_paragraph"
 					],
 					[
-						"wa",
-						"api_wa"
-					],
-					[
-						"api",
-						"api_wa"
-					],
-					[
-						"sl",
-						"slink"
-					],
-					[
-						"re",
-						"restart"
-					],
-					[
-						"upr",
-						"uprint"
-					],
-					[
-						"pre",
-						"pre"
-					],
-					[
-						"emo",
-						"emo"
-					],
-					[
-						"cc",
-						"cc4"
-					],
-					[
-						"up",
-						"uprint"
-					],
-					[
-						"msf",
-						"msgf"
-					],
-					[
-						"msg",
-						"send_message"
-					],
-					[
-						"ex",
-						"exception"
-					],
-					[
-						"tr",
-						"tr2"
-					],
-					[
-						"ec",
-						"echo_all"
-					],
-					[
-						"cp",
-						"exception"
-					],
-					[
-						"en",
-						"encode"
-					],
-					[
-						"send",
-						"send_message"
-					],
-					[
-						"main",
-						"main"
-					],
-					[
-						"f",
-						"flatten"
+						"barh",
+						"barh"
 					]
 				],
 				"width": 592.0
@@ -7847,22 +8337,22 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 216.0,
+			"side_bar_width": 156.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
 			"window_id": 96,
-			"workspace_name": "/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Bot.sublime-workspace"
+			"workspace_name": "/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Manoj.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Manoj.sublime-workspace",
 			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Bot.sublime-workspace",
 			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/HongKong.sublime-workspace",
-			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Manoj.sublime-workspace",
 			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Drona.sublime-workspace",
 			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Nava.sublime-workspace"
 		]
