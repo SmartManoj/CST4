@@ -1,8 +1,34 @@
-Plugins
+https://www.shortcutfoo.com/app/dojos/sublime-text-3-win/cheatsheet
 
-	SendToTelegram
-	PythonShellToCode
-	RunMultipleCommandsCommand
+To get input
+	
+	1. Ctrl+Alt+D to run file in cmd 
+	2. Using SublimeInput Package
+	
+Thru SublimeInput :
+
+
+Declare input at top of the file as multi-line comment then press Ctrl+Alt+B
+ 
+
+'''i
+Your input
+'''
+
+Other lang
+
+`
+/*i
+Your input
+*/
+`
+
+3.For Python type cinput
+
+
+	
+	PythonShellToCode (Thru Command Pallete)
+	
 
 Include most of the sublime-build files ; 
 
@@ -72,7 +98,8 @@ New KeyMaps:
 	ctrl+alt+d -> build and run on cmd
 	ctrl+i -> ruby
 	ctrl+shift+alt+d -> run_multiple_commands (sample to ctrl+alt+d)
-
+	ctrl+shift+alt+d -> run_multiple_commands (sample to ctrl+alt+d)
+	ctrl+alt+s -> send_to_telegram
 For linux:
 
 	Download and copy the data folder from above zip file 
@@ -81,16 +108,18 @@ For linux:
 Snippets
 
 	Python
-	r2
-	s2s
-	3d
-	pyautogui hotkey v2 - pya
-	select every line  regex - everyn
-	cinput
-	fi
-	fis
+		old round - r2
+		secondsToStr - s2s
+		print removing UnicodeEncodeError -uprint
+		multiline string - 3d
+		pyautogui hotkey v2 - pya
+		select every line  regex - everyn
+		custom input - cinput
+		from import - fi
+		smart module -fis
+		shebang -#!
 
-Batch
-
-	pi
-	piu
+	Batch
+		echo off - ec
+		pip install   - pi
+		pip install --upgrade  - piu

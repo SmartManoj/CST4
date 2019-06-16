@@ -895,9 +895,11 @@
     	[
     		{ "command": "open_url", "args": {"url": "http://bit.ly/sm3st3"}, 
                 "caption": "SmartManoj" ,"mnemonic": "M"},
-    		{ "command": "open_url", "args": {"url": "https://github.com/SmartManoj/CST3"}, "caption": "CST3 v-7" ,"mnemonic": "B"},
+    		{ "command": "open_url", "args": {"url": "http://bit.ly/cst3sm"}, "caption": "CST3 v-7" },
             { "command": "open_url", "args": {"url": "http://t.me/SmartManoj"}, "caption": "Telegram","mnemonic": "T" },
-    		{ "command": "open_file", "args": {"file": "${packages}/Default/Main.sublime-menu"}, "caption": "Edit Menu","mnemonic": "T" },
+            { "command": "open_file", "args": {"file": "${packages}/Default/Main.sublime-menu","line":900}, "caption": "Edit Menu",},
+            { "command": "open_file", "args": {"file": "${packages}\\..\\..\\sublime_plugin.py","line":900}, "caption": "Sublime Plugin",},
+    		{ "command": "open_file", "args": {"file": "${packages}\\..\\..\\sublime.py","line":900}, "caption": "Sublime",},
             {"command": "open_file", "caption": "Update","args": {"file": "$packages\\..\\SM\\update.py"}},
             {"command": "open_file", "caption": "Internal","args": {"file": "$packages\\..\\SM\\cst3.cmd"}}
     	]
@@ -924,21 +926,19 @@
     },
     {
         "caption": "Samples",
-        "mnemonic": "D",
         "id": "CST3",
         "children":
         [
-            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.py"}, "caption": "Python" ,"mnemonic": "S"},
-            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.cs"}, "caption": "C#" ,"mnemonic": "S"},
-            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.cpp"}, "caption": "CPP" ,"mnemonic": "S"},
-            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.c"}, "caption": "C" ,"mnemonic": "S"},
-            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\Hello_St3.kt"}, "caption": "Kotlin" ,"mnemonic": "S"},
-            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\Hello_St3.java"}, "caption": "Java" ,"mnemonic": "S"},
+            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.py"}, "caption": "Python" },
+            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.cs"}, "caption": "C#" },
+            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.cpp"}, "caption": "CPP" },
+            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.c"}, "caption": "C" },
+            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\Hello_St3.kt"}, "caption": "Kotlin" },
+            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\Hello_St3.java"}, "caption": "Java" },
         ]
     },
     {
         "caption": "Read_Me",
-        "mnemonic": "C",
         "id": "CST3",
          "children":
         [
@@ -950,4 +950,7 @@
 
        
     },
+    {
+         "command": "open_file", "args": {"file": "${packages}/Default/Main.sublime-menu:5","flag":1}, "caption": "T",
+    }
 ]

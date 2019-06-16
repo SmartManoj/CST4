@@ -56,14 +56,25 @@
  ::::::::::::::::::::::::::::
  ::START
  ::::::::::::::::::::::::::::
-SET st3Path=%~dp0..\sublime_text.exe
+CALL :NORMALIZEPATH %~dp0..\..
+SET st3Path=%RETVAL%\subl
+SET st3Path1=%RETVAL%\sublime_text.exe
 rem add it for all file types
 @reg add "HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text 3"         /t REG_SZ /v "" /d "Open & with Sublime Text 3"   /f
-@reg add "HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text 3"         /t REG_EXPAND_SZ /v "Icon" /d "%st3Path%,0" /f
-@reg add "HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text 3\command" /t REG_SZ /v "" /d "%st3Path% \"%%1\"" /f
+@reg add "HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text 3"         /t REG_EXPAND_SZ /v "Icon" /d "%st3Path1%,0" /f
+@reg add "HKEY_CLASSES_ROOT\*\shell\Open with Sublime Text 3\command" /t REG_SZ /v "" /d "%st3Path1% \"%%1\"" /f
 
 rem add it for folders
 @reg add "HKEY_CLASSES_ROOT\Folder\shell\Open with Sublime Text 3"         /t REG_SZ /v "" /d "Open & with Sublime Text 3"   /f
-@reg add "HKEY_CLASSES_ROOT\Folder\shell\Open with Sublime Text 3"         /t REG_EXPAND_SZ /v "Icon" /d "%st3Path%,0" /f
-@reg add "HKEY_CLASSES_ROOT\Folder\shell\Open with Sublime Text 3\command" /t REG_SZ /v "" /d "%st3Path% \"%%1\"" /f
-pause
+@reg add "HKEY_CLASSES_ROOT\Folder\shell\Open with Sublime Text 3"         /t REG_EXPAND_SZ /v "Icon" /d "%st3Path1%,0" /f
+@reg add "HKEY_CLASSES_ROOT\Folder\shell\Open with Sublime Text 3\command" /t REG_SZ /v "" /d "%st3Path1% \"%%1\"" /f
+cd %~dp0..\..\
+cd %~dp0
+%st3Path% Features.md
+rapidee -I -C -M path %RETVAL%
+
+EXIT /B
+
+:NORMALIZEPATH
+  SET RETVAL=%~dpfn1
+  EXIT /B

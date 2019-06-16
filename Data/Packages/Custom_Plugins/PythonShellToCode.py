@@ -10,7 +10,7 @@ class PythonShellToCodeCommand(sublime_plugin.TextCommand):
 			if i!=j:
 				b.append(j[1:])
 			else:
-				b.append('# '+i)
+				if i.strip():b.append('# '+i)
 		return "\n".join(b)
 	def run(self, edit):
 		r=sublime.Region(0, self.view.size())
