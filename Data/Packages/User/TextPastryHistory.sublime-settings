@@ -7088,19 +7088,6 @@
 			{
 				"args":
 				{
-					"text": "3"
-				},
-				"command": "text_pastry_step",
-				"text": "3"
-			},
-			"key": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
-			"label": "3"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"repeat": "7",
 					"text": "d= "
 				},
@@ -7142,6 +7129,33 @@
 			{
 				"args":
 				{
+					"text": "0"
+				},
+				"command": "text_pastry_step",
+				"text": "0"
+			},
+			"key": "cfcd208495d565ef66e7dff9f98764da",
+			"label": "0"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "Sub 1",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "Sub 1"
+			},
+			"key": "30de389893c8f83b9aa8ea16644b8b1c",
+			"label": "Sub 1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
 					"text": "1"
 				},
 				"command": "text_pastry_step",
@@ -7155,22 +7169,36 @@
 			{
 				"args":
 				{
-					"text": "0"
+					"text": "D E E C D C A B B",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "D E E C D C A B B"
+			},
+			"key": "ea236df3e3f27c317888508baa75c462",
+			"label": "D E E C D C A B B"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "3"
 				},
 				"command": "text_pastry_step",
-				"text": "0"
+				"text": "3"
 			},
-			"key": "cfcd208495d565ef66e7dff9f98764da",
-			"label": "0"
+			"key": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
+			"label": "3"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "0"
+			"text": "3"
 		},
 		"command": "text_pastry_step",
-		"text": "0"
+		"text": "3"
 	}
 }

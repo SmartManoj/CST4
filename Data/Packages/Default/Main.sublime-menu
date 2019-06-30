@@ -950,7 +950,8 @@
 
        
     },
+    { "command": "open_dir", "args": {"dir": "$packages\\Python\\Snippets"}, "caption": "Q",},
     {
-         "command": "open_file", "args": {"file": "${packages}/Default/Main.sublime-menu:5","flag":1}, "caption": "T",
+         "command": "open_file", "args": {"file": "${packages}/Default/Main.sublime-menu","flag":1}, "caption": "T",
     }
 ]

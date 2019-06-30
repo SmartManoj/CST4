@@ -1,0 +1,9 @@
+<snippet>
+	<tabTrigger>fore</tabTrigger>
+	<scope>source.python</scope>
+	<description>For Enumerate</description>
+	<content><![CDATA[
+for ${3:k}${2:i} in enumerate(${1:a}):
+	${0:pass}
+]]></content>
+</snippet>

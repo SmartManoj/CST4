@@ -118,6 +118,8 @@ Snippets
 		from import - fi
 		smart module -fis
 		shebang -#!
+		better exception - exc
+		3quote - 3d
 
 	Batch
 		echo off - ec

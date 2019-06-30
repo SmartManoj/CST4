@@ -1,0 +1,9 @@
+<snippet>
+	<tabTrigger>fori</tabTrigger>
+	<scope>source.python</scope>
+	<description>For in Loop</description>
+	<content><![CDATA[
+for ${2:i} in ${1:a}:
+	${0:pass}
+]]></content>
+</snippet>

@@ -25,7 +25,8 @@
             "yandex": "%Local AppData%\\Yandex\\YandexBrowser\\browser.exe",
             "brave": "C:\\Program Files (x86)\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
             "crypto": "C:\\Program Files (x86)\\CryptoTab Browser\\Application\\browser.exe",
+            "edge": "C:\\Program Files (x86)\\Microsoft\\Edge Dev\\Application\\msedge.exe",
         }
     },
-    "browser": "chrome32"
+    "browser": "edge"
 }

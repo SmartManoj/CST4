@@ -2,8 +2,8 @@
 	<content><![CDATA[
 inputv='''
 ${1}
-'''.splitlines()
-inputc=0
+'''.strip().splitlines()
+inputc=-1
 def input(a=None):
 	global inputc
 	if a:print(a,end='')

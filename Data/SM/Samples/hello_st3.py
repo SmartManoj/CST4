@@ -1,1 +1,2 @@
-print('Hello ST3')
+import os
+print(f"Hello {os.getenv('username','ST3')}")

@@ -6,3 +6,5 @@ Console Commands
 
 
 setup-x86_64.exe --quiet-mode --root c:\cygwin64 --site http://cygwin.mirror.constant.com --packages "curl,python,python-crypto"
+
+D:\1.Manoj\2.Soft-war\5.Rest\0.Codex\CST3\Data\Packages\Python\Snippets

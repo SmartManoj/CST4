@@ -178,7 +178,7 @@ class ViewInBrowserCommand(sublime_plugin.TextCommand):
 		result["baseCommand"] = self.getBaseCommand(selectedOs[platform].get(result["browser"]), osName)
 		
 		if not os.path.exists(result["baseCommand"]):
-			result["baseCommand"] = self.getBaseCommand(selectedOs[platform].get("chrome"), osName)
+			result["baseCommand"] = self.getBaseCommand(selectedOs[platform].get("default"), osName)
 
 		return result
 
