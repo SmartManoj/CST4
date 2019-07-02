@@ -4707,28 +4707,17 @@
 			"buffers":
 			[
 				{
-					"file": "/D/1.Manoj/4.Study/4.Codes/h.html",
 					"settings":
 					{
-						"buffer_size": 4182,
-						"encoding": "UTF-8",
+						"buffer_size": 0,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/SM/TG/v.py",
+					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/st3_helper.py",
 					"settings":
 					{
-						"buffer_size": 789,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/SM/TG/z.py",
-					"settings":
-					{
-						"buffer_size": 4086,
-						"encoding": "UTF-8",
+						"buffer_size": 92,
 						"line_ending": "Windows"
 					}
 				},
@@ -4736,62 +4725,44 @@
 					"file": "/C/Users/Smart/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
 					"settings":
 					{
-						"buffer_size": 5361,
+						"buffer_size": 5426,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/Dad/Manchester/hpxl-man.py",
+					"settings":
+					{
+						"buffer_size": 2615,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/1.Manoj/4.Study/4.Codes/101/Py/BT/L4L/t.py",
+					"file": "/C/Users/Smart/Downloads/Telegram Desktop/report.py",
 					"settings":
 					{
-						"buffer_size": 30,
+						"buffer_size": 1323,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/SM/TG/tds.py",
+					"file": "/D/1.Manoj/4.Study/4.Codes/b.cmd",
 					"settings":
 					{
-						"buffer_size": 3251,
+						"buffer_size": 24,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/1.Manoj/2.Soft-war/2.Batch-files/AutoHotkey.ahk",
+					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
 					"settings":
 					{
-						"buffer_size": 353,
+						"buffer_size": 54668,
 						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/1.Manoj/2.Soft-war/2.Batch-files/ahk2.ahk",
-					"settings":
-					{
-						"buffer_size": 93,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/1.Manoj/4.Study/4.Codes/jiofi.py",
-					"settings":
-					{
-						"buffer_size": 997,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/1.Manoj/4.Study/4.Codes/101/Txts/qsearch.txt",
-					"settings":
-					{
-						"buffer_size": 1144,
-						"line_ending": "Windows"
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -7142,6 +7113,8 @@
 				"height": 226.0,
 				"history":
 				[
+					"sublime.log_commands(bool(1))",
+					"\tsublime.log_commands(bool(1))",
 					"view.run_command(\"example\")",
 					"5",
 					"sublime.log_commands(True)",
@@ -7267,9 +7240,7 @@
 					"sublime.log_input(True)",
 					"sublime.log_commands(True)",
 					"a",
-					"as",
-					"sublime.log_commands(True)",
-					"cwd"
+					"as"
 				]
 			},
 			"distraction_free":
@@ -7290,60 +7261,74 @@
 			],
 			"file_history":
 			[
+				"/D/Gits/SmartPy/smart.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Quick.md",
+				"/C/Users/Smart/Downloads/Telegram Desktop/p (3).py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
+				"/C/Users/Smart/Downloads/Telegram Desktop/rsp",
+				"/D/1.Manoj/4.Study/4.Codes/p.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp_sum.py",
+				"/E/Dad/Manchester/hpxl-man.py",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/ahk3.ahk",
+				"/E/Dad/file_name_month_adder.py",
+				"/E/Dad/hpxl.py",
+				"/E/Dad/rsp/jun.py",
+				"/E/Dad/can_replace.py",
+				"/D/1.Manoj/4.Study/4.Codes/h.html",
+				"/C/SM/TG/v.py",
+				"/C/SM/TG/z.py",
+				"/C/Users/Smart/Desktop/d",
+				"/C/Users/Smart/Desktop/d2",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/Sub/sub.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/L4L/t.py",
+				"/C/SM/TG/tds.py",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/AutoHotkey.ahk",
+				"/D/1.Manoj/2.Soft-war/2.Batch-files/ahk2.ahk",
+				"/D/1.Manoj/4.Study/4.Codes/jiofi.py",
+				"/D/1.Manoj/4.Study/4.Codes/101/Txts/qsearch.txt",
 				"/C/SM/p.py",
-				"/C/p.py",
 				"/C/Users/Smart/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
+				"/C/Users/Smart/Downloads/Telegram Desktop/t (4).py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Anaconda/Anaconda.sublime-settings",
+				"/C/p.py",
 				"/D/1.Manoj/4.Study/4.Codes/101/Py/Sub/subt-edit.py",
 				"/C/Users/Smart/Desktop/log",
 				"/D/1.Manoj/2.Soft-war/2.Batch-files/jumplistsview/JumpListsView.cfg",
-				"/D/1.Manoj/4.Study/4.Codes/p.py",
 				"/C/Users/Smart/Desktop/ELogBook/flask_app.py",
 				"/C/Users/Smart/Desktop/ELogBook/p2.py",
 				"/D/1.Manoj/4.Study/4.Codes/ocr1.py",
 				"/D/1.Manoj/4.Study/4.Codes/b.cmd",
-				"/C/SM/TG/v.py",
-				"/C/SM/TG/z.py",
 				"/C/Users/Smart/Downloads/Telegram Desktop/asos2.0 (2)/asos2.0/asos/asos/spiders/shoes.py",
 				"/C/Users/Smart/Downloads/Telegram Desktop/asos2.0 (2)/asos2.0/asos/asos/spiders/productpage.py",
 				"/C/Users/Smart/Downloads/Telegram Desktop/ocr.py",
 				"/D/1.Manoj/4.Study/4.Codes/ocr.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/Sub/sub.py",
-				"/D/1.Manoj/2.Soft-war/2.Batch-files/AutoHotkey.ahk",
-				"/D/1.Manoj/4.Study/4.Codes/jiofi.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/L4L/t.py",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/hello_st3.c",
 				"/D/1.Manoj/4.Study/4.Codes/101/Py/Sub/subt-rename.py",
 				"/D/1.Manoj/4.Study/4.Codes/101/Py/Sub/subt-ren.py",
 				"/C/Users/Smart/Downloads/Telegram Desktop/SampleOCRProjectREST (2).py",
 				"/D/1.Manoj/4.Study/4.Codes/p2.py",
-				"/D/1.Manoj/4.Study/4.Codes/h.html",
 				"/D/1.Manoj/4.Study/4.Codes/c.c",
 				"/D/1.Manoj/4.Study/4.Codes/101/Py/Sub/d/Supergirl.S04E06.HDTV.SVA.en.srt",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/hello_st3.py",
-				"/D/Gits/SmartPy/smart.py",
 				"/C/SM/TG/r/tdsv57.py",
 				"/C/Users/Smart/Downloads/Telegram Desktop/Telegram Show Seconds.reg",
 				"/C/Users/Smart/Downloads/Telegram Desktop/Taskbar Clock Show Seconds.reg",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/sublime.py",
-				"/D/1.Manoj/2.Soft-war/2.Batch-files/ahk2.ahk",
 				"/D/1.Manoj/4.Study/4.Codes/p8.py",
 				"/D/1.Manoj/4.Study/4.Codes/p7.py",
 				"/D/1.Manoj/4.Study/4.Codes/pip2.py",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Python/Snippets/for2.sublime-snippet",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Python/Snippets/for3.sublime-snippet",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Python/Snippets/for.sublime-snippet",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/owst3.bat",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Features.md",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu:5",
-				"/D/1.Manoj/4.Study/4.Codes/101/Txts/qsearch.txt",
 				"/D/Gits/SmartPy/Readme.md",
 				"/C/Users/Smart/Downloads/Telegram Desktop/VCGPA_CSE.txt",
 				"/D/Gits/SmartPy/giturl.py",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/sublime_plugin.py",
 				"/C/Users/Smart/Downloads/Telegram Desktop/1",
 				"/C/Users/Smart/Downloads/Telegram Desktop/2",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Quick.md",
 				"/D/1.Manoj/4.Study/4.Codes/tele.py",
 				"/C/Users/Smart/Downloads/Telegram Desktop/mentor.py",
 				"/D/1.Manoj/4.Study/4.Codes/101/Txts/card",
@@ -7377,13 +7362,11 @@
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
 				"/C/Users/Smart/Downloads/Telegram Desktop/Redirector.json",
 				"/D/1.Manoj/2.Soft-war/5.Rest/x2/Wireshark/WiresharkPortable/help.html",
-				"/D/1.Manoj/2.Soft-war/2.Batch-files/ahk3.ahk",
 				"/F/che/2.srt",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/config.py",
 				"/C/Users/Smart/AppData/Local/Programs/Python/Python38/lib/site-packages/js2py/utils/injector.py",
 				"/D/Gits/SmartPy/setup.py",
 				"/C/Users/Smart/AppData/Local/Programs/Python/Python38/Lib/smart.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp_sum.py",
 				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp2.py",
 				"/C/Users/Smart/Downloads/Telegram Desktop/drive.py",
 				"/D/Drona/Work/Drona/pip2.py",
@@ -7401,23 +7384,11 @@
 				"/D/1.Manoj/4.Study/4.Codes/stack.py",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Plugins/PythonShellToCode.py",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/update.py",
-				"/C/SM/TG/tds.py",
 				"/D/Gits/SmartPy/access_token",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/.gitignore",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/a.cmd",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/owst3.cmd",
-				"/C/Users/Smart/Downloads/Telegram Desktop/h (7).html",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/hello_st3.cs",
-				"/D/1.Manoj/4.Study/4.Codes/p4.py",
-				"/D/1.Manoj/4.Study/4.Codes/p5.py",
-				"/D/1.Manoj/4.Study/4.Codes/a.sql",
-				"/D/1.Manoj/4.Study/4.Codes/j.js",
-				"/D/1.Manoj/4.Study/4.Codes/q.py",
-				"/D/1.Manoj/4.Study/4.Codes/q3.py",
-				"/C/Users/Smart/Desktop/Rooster/wsrv2.py",
-				"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/HongKong.sublime-project",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hps.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/BT/Hp/hp_bill.py"
+				"/C/Users/Smart/Downloads/Telegram Desktop/h (7).html"
 			],
 			"find":
 			{
@@ -7439,6 +7410,24 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"SmartManoj",
+					"telegra",
+					"openpyxl",
+					"sam",
+					"try",
+					"except",
+					"exce",
+					"sam",
+					"docx",
+					"f2s",
+					"VM992:1 ",
+					"VM1341:6 ",
+					"^\\w+",
+					"^\\w+ ",
+					"\\w",
+					"pyflakes",
+					"\"pyflakes",
+					"unused",
 					"send",
 					"f2s",
 					"forward",
@@ -7548,25 +7537,7 @@
 					"width",
 					"d01",
 					"df",
-					"input",
-					"height",
-					"li",
-					"color",
-					"mli",
-					"D01",
-					"con",
-					"span",
-					"input",
-					"input[type=\"text\"]",
-					"input",
-					"tab",
-					"exp",
-					"table",
-					"hidem",
-					"input",
-					"height",
-					"js",
-					"cursor"
+					"input"
 				],
 				"highlight": false,
 				"in_selection": false,
@@ -7574,6 +7545,7 @@
 				"regex": true,
 				"replace_history":
 				[
+					"",
 					"%sp%",
 					"'",
 					"",
@@ -7700,8 +7672,7 @@
 					"",
 					"Duesday",
 					" ) ",
-					" ( ",
-					"#\\1\\t\\2\\t\\3"
+					" ( "
 				],
 				"reverse": false,
 				"show_context": true,
@@ -7712,46 +7683,15 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 6,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/1.Manoj/4.Study/4.Codes/h.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4182,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3875,
-										3875
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 388.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/SM/TG/v.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 789,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
@@ -7764,7 +7704,9 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
+									"auto_name": "",
+									"default_dir": "D:\\Drona\\Work\\Drona",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -7774,90 +7716,20 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/C/SM/TG/z.py",
+							"buffer": 1,
+							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/st3_helper.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4086,
+								"buffer_size": 92,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										551,
-										551
-									]
-								],
-								"settings":
-								{
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - comment - constant.numeric"
-										}
-									],
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/Users/Smart/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5361,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										344,
-										344
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/AutoHotkey/AutoHotkey.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 171.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/1.Manoj/4.Study/4.Codes/101/Py/BT/L4L/t.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 30,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										19,
-										19
+										92,
+										92
 									]
 								],
 								"settings":
@@ -7872,82 +7744,27 @@
 							"type": "text"
 						},
 						{
-							"buffer": 5,
-							"file": "/C/SM/TG/tds.py",
+							"buffer": 2,
+							"file": "/C/Users/Smart/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3251,
+								"buffer_size": 5426,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										373,
-										373
+										163,
+										163
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/D/1.Manoj/2.Soft-war/2.Batch-files/AutoHotkey.ahk",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 353,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										353,
-										353
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/AutoHotkey/AutoHotkey.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/D/1.Manoj/2.Soft-war/2.Batch-files/ahk2.ahk",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 93,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										93,
-										93
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/AutoHotkey/AutoHotkey.tmLanguage"
+									"syntax": "Packages/AutoHotkey/AutoHotkey.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -7957,20 +7774,20 @@
 							"type": "text"
 						},
 						{
-							"buffer": 8,
-							"file": "/D/1.Manoj/4.Study/4.Codes/jiofi.py",
+							"buffer": 3,
+							"file": "/E/Dad/Manchester/hpxl-man.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 997,
+								"buffer_size": 2615,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										747,
-										747
+										2582,
+										2582
 									]
 								],
 								"settings":
@@ -7979,39 +7796,97 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 162.0,
+								"translation.y": 1722.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 8,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
-							"buffer": 9,
-							"file": "/D/1.Manoj/4.Study/4.Codes/101/Txts/qsearch.txt",
+							"buffer": 4,
+							"file": "/C/Users/Smart/Downloads/Telegram Desktop/report.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1144,
+								"buffer_size": 1323,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										204,
-										204
+										386,
+										211
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"syntax": "Packages/Python/Python.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 9,
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/1.Manoj/4.Study/4.Codes/b.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 24,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										24,
+										24
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 54668,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										51258,
+										51258
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 21128.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -8081,11 +7956,11 @@
 				"height": 335.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,607,26,67,682",
+			"position": "0,2,3,-32000,-32000,-1,-1,682,26,142,682",
 			"project": "Manoj.sublime-project",
 			"replace":
 			{
-				"height": 70.0
+				"height": 72.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -8095,12 +7970,36 @@
 				"selected_items":
 				[
 					[
-						"",
-						"SM\\TG\\z.py"
+						"cmd",
+						"4.Codes\\b.cmd"
 					],
 					[
 						"tds",
 						"Startup\\tds.ahk"
+					],
+					[
+						"ahk",
+						"2.Batch-files\\ahk3.ahk"
+					],
+					[
+						"hp",
+						"4.Codes\\101\\Py\\BT\\Hp\\hp_sum.py"
+					],
+					[
+						"p",
+						"SM\\p.py"
+					],
+					[
+						"td",
+						"Startup\\tds.ahk"
+					],
+					[
+						"sub",
+						"4.Codes\\101\\Py\\Sub\\sub.py"
+					],
+					[
+						"",
+						"SM\\TG\\z.py"
 					],
 					[
 						"SUB",
@@ -8147,10 +8046,6 @@
 						"4.Codes\\b.cmd"
 					],
 					[
-						"p",
-						"4.Codes\\p.py"
-					],
-					[
 						"ocr",
 						"4.Codes\\ocr.py"
 					],
@@ -8187,20 +8082,12 @@
 						"4.Codes\\c.c"
 					],
 					[
-						"sub",
-						"4.Codes\\101\\Py\\Sub\\subt-rename.py"
-					],
-					[
 						"p2",
 						"4.Codes\\p2.py"
 					],
 					[
 						"cg",
 						"4.Codes\\101\\KEC\\res\\old\\cgpa.py"
-					],
-					[
-						"td",
-						"Startup\\tds.ahk"
 					],
 					[
 						"pip",
@@ -8291,10 +8178,6 @@
 						"4.Codes\\p3.py"
 					],
 					[
-						"ahk",
-						"Startup\\tds.ahk"
-					],
-					[
 						"j",
 						"4.Codes\\j.java"
 					],
@@ -8337,10 +8220,6 @@
 					[
 						"js",
 						"4.Codes\\j.js"
-					],
-					[
-						"hp",
-						"4.Codes\\101\\Py\\BT\\Hp\\hp_bill.py"
 					],
 					[
 						"hong",
@@ -8445,10 +8324,6 @@
 					[
 						"ah",
 						"2.Batch-files\\AutoHotkey.ahk"
-					],
-					[
-						"cmd",
-						"4.Codes\\b.cmd"
 					],
 					[
 						"co",
@@ -8616,15 +8491,19 @@
 				"selected_items":
 				[
 					[
-						"bot",
+						"",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\HongKong.sublime-project"
+					],
+					[
+						"bi",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
-						"",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
+						"b",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
-						"b",
+						"bot",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
@@ -8758,4424 +8637,17 @@
 			},
 			"window_id": 145,
 			"workspace_name": "/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Manoj.sublime-workspace"
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"daa",
-						"data2"
-					],
-					[
-						"r",
-						"roll"
-					],
-					[
-						"vg",
-						"vg_data"
-					],
-					[
-						"run",
-						"run_until_disconnected"
-					],
-					[
-						"get",
-						"get_event_loop"
-					],
-					[
-						"as",
-						"asyncio"
-					],
-					[
-						"da",
-						"data"
-					],
-					[
-						"ob",
-						"objectID"
-					],
-					[
-						"co",
-						"continue"
-					],
-					[
-						"l",
-						"loop"
-					],
-					[
-						"s",
-						"subprocess"
-					],
-					[
-						"fu",
-						"function"
-					],
-					[
-						"req",
-						"request"
-					],
-					[
-						"spl",
-						"split"
-					],
-					[
-						"data",
-						"data2"
-					],
-					[
-						"tid",
-						"tidMan"
-					],
-					[
-						"res",
-						"results"
-					],
-					[
-						"eve",
-						"event"
-					],
-					[
-						"clien",
-						"client2"
-					],
-					[
-						"re",
-						"return"
-					],
-					[
-						"api",
-						"api_wa"
-					],
-					[
-						"start",
-						"startswith"
-					],
-					[
-						"temp",
-						"temp_tid"
-					],
-					[
-						"crea",
-						"create_contact"
-					],
-					[
-						"gl",
-						"global"
-					],
-					[
-						"cl",
-						"client2"
-					],
-					[
-						"cont",
-						"contact_track"
-					],
-					[
-						"Non",
-						"None"
-					],
-					[
-						"pr",
-						"print"
-					],
-					[
-						"g",
-						"get_name"
-					],
-					[
-						"pi",
-						"piu\tpipu"
-					],
-					[
-						"his",
-						"history_idx"
-					],
-					[
-						"ev",
-						"event"
-					],
-					[
-						"date",
-						"daterange2"
-					],
-					[
-						"my",
-						"mythread"
-					],
-					[
-						"myt",
-						"mythreads"
-					],
-					[
-						"in",
-						"innerHTML"
-					],
-					[
-						"send",
-						"send-sms"
-					],
-					[
-						"way",
-						"way2pwd"
-					],
-					[
-						"url",
-						"urllib"
-					],
-					[
-						"im",
-						"import"
-					],
-					[
-						"pri",
-						"print"
-					],
-					[
-						"sp",
-						"spellNumber"
-					],
-					[
-						"if",
-						"ifmain\tif __name__ == '__main__'"
-					],
-					[
-						"exc",
-						"except"
-					],
-					[
-						"gpa",
-						"gpa2"
-					],
-					[
-						"t",
-						"try\tTry/Except"
-					],
-					[
-						"imc",
-						"imc2"
-					],
-					[
-						"com",
-						"com"
-					],
-					[
-						"doc",
-						"doc_ref"
-					],
-					[
-						"time",
-						"timedelta"
-					],
-					[
-						"tod",
-						"today_dt"
-					],
-					[
-						"tdo",
-						"today1"
-					],
-					[
-						"mon",
-						"monthsl2"
-					],
-					[
-						"ex",
-						"exception"
-					],
-					[
-						"C66",
-						"15CSR066"
-					],
-					[
-						"tts",
-						"ttsl"
-					],
-					[
-						"str",
-						"strip"
-					],
-					[
-						"is",
-						"isdigit"
-					],
-					[
-						"tex",
-						"text3"
-					],
-					[
-						"new",
-						"new_users"
-					],
-					[
-						"name",
-						"name2"
-					],
-					[
-						"en",
-						"encoded_text"
-					],
-					[
-						"t5",
-						"TN56_4645"
-					],
-					[
-						"__",
-						"__name__"
-					],
-					[
-						"bw",
-						"TN39BW7934"
-					],
-					[
-						"emo",
-						"emos_h2"
-					],
-					[
-						"upr",
-						"urlparse"
-					],
-					[
-						"emo_",
-						"emo_hm"
-					],
-					[
-						"T",
-						"Truecaller"
-					],
-					[
-						"met",
-						"meta\tTag"
-					],
-					[
-						"tidma",
-						"tidma"
-					],
-					[
-						"ap",
-						"api_wa"
-					],
-					[
-						"hp",
-						"hp_timeout"
-					],
-					[
-						"cse",
-						"cse_tid"
-					],
-					[
-						"kec",
-						"kec_bg"
-					],
-					[
-						"ke",
-						"kec_bg3"
-					],
-					[
-						"msg",
-						"msgf"
-					],
-					[
-						"wish",
-						"wish3"
-					],
-					[
-						"wa",
-						"way2pwd"
-					],
-					[
-						"pa",
-						"password"
-					],
-					[
-						"kalaivani",
-						"kalaivanik"
-					],
-					[
-						"c",
-						"continue"
-					],
-					[
-						"chat",
-						"chat_id"
-					],
-					[
-						"par",
-						"params"
-					],
-					[
-						"max",
-						"maxsplit"
-					],
-					[
-						"z",
-						"z"
-					],
-					[
-						"today",
-						"today_dy"
-					],
-					[
-						"Na",
-						"Nandhini"
-					],
-					[
-						"P",
-						"PROJ"
-					],
-					[
-						"text",
-						"text2"
-					],
-					[
-						"fee",
-						"feesf2"
-					],
-					[
-						"prin",
-						"print_exc"
-					],
-					[
-						"E",
-						"Exception"
-					],
-					[
-						"i",
-						"import"
-					],
-					[
-						"fr",
-						"for\tFor Loop"
-					],
-					[
-						"gender",
-						"genderize"
-					],
-					[
-						"to",
-						"today_"
-					],
-					[
-						"dob",
-						"dobl3"
-					],
-					[
-						"gend",
-						"genderize"
-					],
-					[
-						"HEL",
-						"help_"
-					],
-					[
-						"RET",
-						"return"
-					],
-					[
-						"def",
-						"defaultdict"
-					],
-					[
-						"for",
-						"format"
-					],
-					[
-						"em",
-						"emo_hm"
-					],
-					[
-						"st",
-						"status_code"
-					],
-					[
-						"14CS",
-						"14csl260"
-					],
-					[
-						"b",
-						"BeautifulSoup"
-					],
-					[
-						"es",
-						"elist"
-					],
-					[
-						"kec_",
-						"kec_stud"
-					],
-					[
-						"toda",
-						"today_"
-					],
-					[
-						"15csr",
-						"15csr094"
-					],
-					[
-						"split",
-						"splitlines"
-					],
-					[
-						"manoj",
-						"MANOJKUMAR"
-					],
-					[
-						"dep",
-						"depts"
-					],
-					[
-						"mts",
-						"MTS"
-					],
-					[
-						"hea",
-						"headers"
-					],
-					[
-						"wh",
-						"wherey"
-					],
-					[
-						"try",
-						"try\tTry/Except"
-					],
-					[
-						"pas",
-						"passwd"
-					],
-					[
-						"js",
-						"jession_id"
-					],
-					[
-						"sms",
-						"sms_sent_page"
-					],
-					[
-						"rep",
-						"replace"
-					],
-					[
-						"de",
-						"delete_message"
-					],
-					[
-						"dle",
-						"delete_message"
-					],
-					[
-						"int",
-						"4294226700Intercom"
-					],
-					[
-						"interc",
-						"4294226600Intercom"
-					],
-					[
-						"inter",
-						"9750048615Intercom"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/kec_rn.py",
-					"settings":
-					{
-						"buffer_size": 255318,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/tele.py",
-					"settings":
-					{
-						"buffer_size": 3213,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/config2.py",
-					"settings":
-					{
-						"buffer_size": 1291,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/config.py",
-					"settings":
-					{
-						"buffer_size": 10011,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/hpcl.py",
-					"settings":
-					{
-						"buffer_size": 5227,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/dtc.py",
-					"settings":
-					{
-						"buffer_size": 1792,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/telegram.py",
-					"settings":
-					{
-						"buffer_size": 38243,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/exlink.py",
-					"settings":
-					{
-						"buffer_size": 6693,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/auto2.py",
-					"settings":
-					{
-						"buffer_size": 7977,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/cg.py",
-					"settings":
-					{
-						"buffer_size": 11407,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/Procfile",
-					"settings":
-					{
-						"buffer_size": 71,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/t.py",
-					"settings":
-					{
-						"buffer_size": 19,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/update.py",
-					"settings":
-					{
-						"buffer_size": 683,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
-					"settings":
-					{
-						"buffer_size": 456,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/logs.py",
-					"settings":
-					{
-						"buffer_size": 506,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/new_rn.py",
-					"settings":
-					{
-						"buffer_size": 518,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/gt.cmd",
-					"settings":
-					{
-						"buffer_size": 823,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/zrn.txt",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/f2.py",
-					"settings":
-					{
-						"buffer_size": 2545,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/kec_mno.py",
-					"settings":
-					{
-						"buffer_size": 16369,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/SmartBot/my_env/SmartBot/fac2.py",
-					"settings":
-					{
-						"buffer_size": 52037,
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "Packages/User/Build/mPy.sublime-build",
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Packages/AutoHotkey/AutoHotkey.sublime-build",
-							""
-						],
-						[
-							"Packages/AutoHotkey/AutoHotkey.sublime-build",
-							"cmd"
-						]
-					],
-					[
-						"Packages/AutoHotkey/AutoHotkey.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/C++14.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myC++.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/User/C++14.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myC++.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/C++14.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/User/mC.sublime-build",
-							""
-						],
-						[
-							"Packages/User/mC.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/mMingwC++.sublime-build",
-							""
-						],
-						[
-							"Packages/User/mMingwC++.sublime-build",
-							"cmd"
-						]
-					],
-					[
-						"Packages/User/mC.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/User/myC++.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/myC++.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/User/myC.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/myC.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/User/myC.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myC.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/myTC.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/myC.sublime-build",
-						"cmd"
-					]
-				],
-				[
-					[
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							""
-						],
-						[
-							"Packages/C++/C++ Single File.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/User/my_bat.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myC.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/C++/C++ Single File.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Java/JavaC.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mJava.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mJava.sublime-build",
-							"cmd"
-						]
-					],
-					[
-						"Packages/User/Build/mJava.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/myJava.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/User/myJava.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							"applet"
-						]
-					],
-					[
-						"Packages/User/myJava.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							"applet"
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							"class"
-						]
-					],
-					[
-						"Packages/User/myJava.sublime-build",
-						"class"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							"applet"
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							"classpath"
-						]
-					],
-					[
-						"Packages/User/myJava.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							"applet"
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							"classpath"
-						]
-					],
-					[
-						"Packages/User/myJava.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Java/Ant.sublime-build",
-							""
-						],
-						[
-							"Packages/Java/JavaC.sublime-build",
-							""
-						],
-						[
-							"Packages/User/my_bat.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							"applet"
-						],
-						[
-							"Packages/User/myJava.sublime-build",
-							"classpath"
-						]
-					],
-					[
-						"Packages/User/myJava.sublime-build",
-						"classpath"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Kotlin/Kotlin.sublime-build",
-							""
-						],
-						[
-							"Packages/Kotlin/Kotlin.sublime-build",
-							"Compile"
-						],
-						[
-							"Packages/Kotlin/Kotlin.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/Kotlin/Kotlin.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Kotlin/Kotlin.sublime-build",
-							""
-						],
-						[
-							"Packages/Kotlin/Kotlin.sublime-build",
-							"Compile"
-						],
-						[
-							"Packages/Kotlin/Kotlin.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/User/myKt.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/myKt.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Kotlin/Kotlin.sublime-build",
-							""
-						],
-						[
-							"Packages/Kotlin/Kotlin.sublime-build",
-							"Compile"
-						],
-						[
-							"Packages/Kotlin/Kotlin.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/User/my_bat.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/my_bat.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd <"
-						]
-					],
-					[
-						"Packages/User/py.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/Build/mPy.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mPy.sublime-build",
-							"cmd"
-						]
-					],
-					[
-						"Packages/User/Build/mPy.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/Build/mPy.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mPy.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/Build/mSsql.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mSsql.sublime-build",
-							"Sqlite"
-						]
-					],
-					[
-						"Packages/User/Build/mPy.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/mPy.sublime-build",
-							""
-						],
-						[
-							"Packages/User/mPy.sublime-build",
-							"cmd"
-						]
-					],
-					[
-						"Packages/User/mPy.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/mPy.sublime-build",
-							""
-						],
-						[
-							"Packages/User/mPy.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/mPy.sublime-build",
-							"cmd <"
-						]
-					],
-					[
-						"Packages/User/mPy.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/myTC.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd <"
-						]
-					],
-					[
-						"Packages/User/py.sublime-build",
-						"cmd"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/my_bat.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd <"
-						]
-					],
-					[
-						"Packages/User/py.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/mycs.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd <"
-						]
-					],
-					[
-						"Packages/User/py.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd"
-						]
-					],
-					[
-						"Packages/User/py.sublime-build",
-						"cmd"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd <"
-						]
-					],
-					[
-						"Packages/User/py.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd <"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd"
-						]
-					],
-					[
-						"Packages/User/py.sublime-build",
-						"cmd"
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd <"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/sql.sublime-build",
-							""
-						],
-						[
-							"Packages/User/sql.sublime-build",
-							"Sqlite"
-						]
-					],
-					[
-						"Packages/User/py.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py27.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/py.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/py.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py27.sublime-build",
-							""
-						],
-						[
-							"Packages/User/sql.sublime-build",
-							""
-						],
-						[
-							"Packages/User/sql.sublime-build",
-							"Sqlite"
-						]
-					],
-					[
-						"Packages/User/py.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/py2.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/py2.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/py27.sublime-build",
-							""
-						],
-						[
-							"Packages/User/py34.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/py27.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/R/R.sublime-build",
-							""
-						],
-						[
-							"Packages/User/r.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/r.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/ShellScript/ShellScript.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mSh.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/ShellScript/ShellScript.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/Build/mBat.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mBat.sublime-build",
-							"cmd"
-						]
-					],
-					[
-						"Packages/User/Build/mBat.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/mBat.sublime-build",
-							""
-						],
-						[
-							"Packages/User/mBat.sublime-build",
-							"cmd"
-						]
-					],
-					[
-						"Packages/User/mBat.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/mPHP.sublime-build",
-							""
-						],
-						[
-							"Packages/User/mPHP.sublime-build",
-							"cmd"
-						]
-					],
-					[
-						"Packages/User/mPHP.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/myKt.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myKt.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/User/myKt.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/myPHP.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myPHP.sublime-build",
-							"run-php"
-						]
-					],
-					[
-						"Packages/User/myPHP.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/myPHP.sublime-build",
-							""
-						],
-						[
-							"Packages/User/sql.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/myPHP.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/my_bat.sublime-build",
-							""
-						],
-						[
-							"Packages/User/myTC.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/my_bat.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/sql.sublime-build",
-							""
-						],
-						[
-							"Packages/User/sql.sublime-build",
-							"Run"
-						]
-					],
-					[
-						"Packages/User/sql.sublime-build",
-						"Run"
-					]
-				],
-				[
-					[
-						[
-							"Packages/User/sql.sublime-build",
-							""
-						],
-						[
-							"Packages/User/sql.sublime-build",
-							"Sqlite"
-						]
-					],
-					[
-						"Packages/User/sql.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Packages/kotlin-sublime-package-master/Kotlin.sublime-build",
-							""
-						],
-						[
-							"Packages/kotlin-sublime-package-master/Kotlin.sublime-build",
-							"Compile"
-						],
-						[
-							"Packages/kotlin-sublime-package-master/Kotlin.sublime-build",
-							"Run"
-						],
-						[
-							"Packages/User/Build/mKt.sublime-build",
-							""
-						]
-					],
-					[
-						"Packages/User/Build/mKt.sublime-build",
-						""
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"rem",
-						"Package Control: Remove Package"
-					],
-					[
-						"rn",
-						"File: Rename"
-					],
-					[
-						"prett",
-						"HTMLPrettify"
-					],
-					[
-						"code fo",
-						"CodeFormatter: Format Code1"
-					],
-					[
-						"prv",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"move",
-						"File: Move"
-					],
-					[
-						"node",
-						"HTMLPrettify: Set `node` Path"
-					],
-					[
-						"de",
-						"File: Delete"
-					],
-					[
-						"packa l",
-						"Package Control: List Packages"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
-						"en",
-						"Package Control: Enable Package"
-					],
-					[
-						"dis",
-						"Package Control: Disable Package"
-					],
-					[
-						"lis",
-						"Package Control: List Packages"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"python",
-						"PythonShellToCode"
-					],
-					[
-						"PythonShellToCode",
-						"PythonShellToCode"
-					],
-					[
-						"m",
-						"File: Move"
-					],
-					[
-						"r",
-						"Reverse characters in selected section"
-					],
-					[
-						"du",
-						"File: Duplicate"
-					],
-					[
-						"re",
-						"File: Rename"
-					],
-					[
-						"ren",
-						"File: Rename"
-					],
-					[
-						"ran",
-						"Text Pastry: Generate a list of numbers from 1 to 100"
-					],
-					[
-						"dup",
-						"File: Duplicate"
-					],
-					[
-						"pac",
-						"Package Control: Remove Package"
-					],
-					[
-						"mark",
-						"Markdown HTML Preview"
-					],
-					[
-						"pa",
-						"Package Control: Install Package"
-					],
-					[
-						"rev",
-						"Permute Lines: Reverse"
-					],
-					[
-						"rename",
-						"File: Rename"
-					],
-					[
-						"p",
-						"Package Control: Install Package"
-					],
-					[
-						"rot",
-						"Rot13 Selection"
-					],
-					[
-						"uni",
-						"Permute Lines: Unique"
-					],
-					[
-						"pr",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"rme",
-						"Package Control: Remove Package"
-					],
-					[
-						"emm",
-						"Set Syntax: Emmet"
-					],
-					[
-						"paen",
-						"Package Control: Enable Package"
-					],
-					[
-						"u",
-						"Permute Lines: Unique"
-					],
-					[
-						"un",
-						"Permute Lines: Unique"
-					],
-					[
-						"pai",
-						"Package Control: Install Package"
-					],
-					[
-						"sshtml",
-						"Set Syntax: HTML"
-					],
-					[
-						"set py",
-						"Set Syntax: Python"
-					],
-					[
-						"set htm",
-						"Set Syntax: HTML"
-					],
-					[
-						"re py",
-						"SublimeREPL: Python"
-					],
-					[
-						"dis bui",
-						"Disable/Enable buildview for this window"
-					],
-					[
-						"repl p",
-						"SublimeREPL: Python - IPython"
-					],
-					[
-						"buil di",
-						"Disable/Enable buildview for this window"
-					],
-					[
-						"py",
-						"Set Syntax: Python"
-					],
-					[
-						"fn",
-						"File: New View into File"
-					],
-					[
-						"set tex",
-						"Set Syntax: TeX"
-					],
-					[
-						"java",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"la",
-						"Set Syntax: LaTeX"
-					],
-					[
-						"javas",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"set",
-						"Set Syntax: TeX"
-					],
-					[
-						"set ",
-						"Set Syntax: TeX"
-					],
-					[
-						"set h",
-						"Set Syntax: HTML"
-					],
-					[
-						"htm",
-						"Set Syntax: HTML"
-					],
-					[
-						"js",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"set html",
-						"Set Syntax: HTML"
-					],
-					[
-						"set text",
-						"Set Syntax: Plain Text"
-					],
-					[
-						"set ht",
-						"Set Syntax: HTML"
-					],
-					[
-						"pi",
-						"Text Pastry: Pipe into selection"
-					],
-					[
-						"show",
-						"Text Pastry: Show Piping Bag"
-					],
-					[
-						"pipe",
-						"Text Pastry: Pipe into selection"
-					],
-					[
-						"gerne",
-						"Text Pastry: Generate a list of numbers from 1 to 100"
-					],
-					[
-						"pip",
-						"Text Pastry: Show Piping Bag"
-					],
-					[
-						"gener",
-						"Text Pastry: Generate a list of numbers from 1 to 100"
-					],
-					[
-						"text",
-						"Text Pastry: Show Clipboard Viewer"
-					],
-					[
-						"sma",
-						"Smart Html Name"
-					],
-					[
-						"smart",
-						"Smart Html Name"
-					],
-					[
-						"pack",
-						"Package Control: Enable Package"
-					],
-					[
-						"parser",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"enab",
-						"Package Control: Enable Package"
-					],
-					[
-						"pip ",
-						"Package Control: Advanced Install Package"
-					],
-					[
-						"fav",
-						"Favorite Files: Add File(s)"
-					],
-					[
-						"ro",
-						"Rot13 Selection"
-					],
-					[
-						"sn",
-						"Snippet: New Class"
-					],
-					[
-						"reso",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"Snippet: u",
-						"Snippet: uprint"
-					],
-					[
-						"mave",
-						"Maven: Run install"
-					],
-					[
-						"e",
-						"Emmet: Go to Matching Pair"
-					],
-					[
-						"i",
-						"Package Control: Install Package"
-					],
-					[
-						"rena",
-						"File: Rename"
-					],
-					[
-						"pret",
-						"Pretty JSON: Format (Pretty Print) JSON"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"format ja",
-						"CodeFormatter: Format as Javascript Syntax"
-					],
-					[
-						"format",
-						"CodeFormatter: Format Code"
-					],
-					[
-						"pac r v",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"Snippet: ",
-						"Snippet: uprint"
-					],
-					[
-						"pac\t",
-						"Package Control: Remove Package"
-					],
-					[
-						"package re",
-						"Package Control: List Packages"
-					],
-					[
-						"",
-						"Package Control: List Packages"
-					],
-					[
-						"Snippet: p\t",
-						"Snippet: Lorem ipsum"
-					],
-					[
-						"rp",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"low",
-						"Convert Case: Lower Case"
-					],
-					[
-						"cool",
-						"CoolFormat: Formatter Settings"
-					],
-					[
-						"rot1",
-						"Rot13 Selection"
-					],
-					[
-						"reverse",
-						"Reverse characters in selected section"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"tit",
-						"Convert Case: Title Case"
-					],
-					[
-						"sql",
-						"Build With: sql"
-					],
-					[
-						"fr",
-						"File: Rename"
-					],
-					[
-						"instlal",
-						"Package Control: Install Package"
-					],
-					[
-						"vie",
-						"View In Browser"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: List Packages"
-					],
-					[
-						"orac",
-						"Set Syntax: PL/SQL (Oracle)"
-					],
-					[
-						"instll",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
-						"Preferences: Browse Packages"
-					],
-					[
-						"sqlpl",
-						"Set Syntax: Oracle(SQL-PL-SQLPlus)"
-					],
-					[
-						"remove pa",
-						"Package Control: Remove Package"
-					],
-					[
-						"st set",
-						"ST: Setup Connections"
-					],
-					[
-						"instl",
-						"Package Control: Install Package"
-					],
-					[
-						"comm",
-						"Fold Comments"
-					],
-					[
-						"insta\t",
-						"Package Control: Install Package"
-					],
-					[
-						"indent",
-						"Indentation: Convert to Tabs"
-					],
-					[
-						"he",
-						"Hex Viewer: Toggle Hex View"
-					],
-					[
-						"\t",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 500.0
-			},
-			"console":
-			{
-				"height": 352.0,
-				"history":
-				[
-					"dir(sublime_api.open_file)",
-					"dir(sublime_api)",
-					"sublime_api.__file__",
-					"import sublime_api",
-					"sublime.log_commands(bool(1))",
-					"sublime.log_commands(bool(0))",
-					"sublime.log_commands(bool(0)",
-					"sublime.log_commands(True)",
-					"5",
-					"sublime.log_commands(True)",
-					"sublime.log_input(True)",
-					"sublime.log_commands(True)",
-					"move {\"by\": \"characters\", \"forward\": true}",
-					"sublime.log_commands(True)",
-					"sys.path",
-					"import sys",
-					"import",
-					"os.getenv('path')",
-					"os.getenv()",
-					"import os",
-					"import",
-					"os",
-					"path",
-					"view.run_command(\"focus_group\")",
-					"show_panel {\"panel\": \"console\", \"toggle\": true}",
-					"sublime.log_commands(True)",
-					"import PyV8",
-					"sublime.log_commands(True)",
-					"sublime.log_input(True)",
-					"5",
-					"sublime.log_input(True)",
-					"sublime.log(true)",
-					"sublime.log_commands(True)",
-					"sublime.Commands(copy_path)",
-					"view.run_command(\"copy_path\")",
-					"sublime.Commands(copy_path)",
-					"copy_path",
-					"copy",
-					"sublime.log_commands(True)",
-					"file",
-					"sublime.log_commands(True)",
-					"view.run_command(\"example\")",
-					"sublime.log_commands(False)",
-					"view.run_command(\"example\")",
-					"view.command_history()",
-					"view.command_history",
-					"view.command_history(-8)",
-					"view.command_history(-5)",
-					"view.command_history(5)",
-					"view.command_history(i)",
-					"sublime.log_commands(True)",
-					"git clone git://github.com/kizu/undo_select_lines.git",
-					"sublime.log_input(True)",
-					"sublime.log_commands(True)",
-					"sublime.log_result_regex(True)",
-					"sublime.log_input(True)",
-					"sublime.log_commands(True)",
-					"os.getcwd()",
-					"import os",
-					"os.getcwd()",
-					"cmd",
-					"5",
-					"sublime.log_commands(True)",
-					"sublime.log_commands(true)",
-					"sublime.log_commands(flag)",
-					"view.run_command(\"reverse_characters\")",
-					"os.environ['PATH']",
-					"os.environ",
-					"import os",
-					"sys.path",
-					"path",
-					"sublime.log_commands(True)",
-					"sublime.log_commands(true)",
-					"sublime.log(true)",
-					"pwd",
-					"print",
-					"sublime.log_input(True)",
-					"sublime.log_commands(True)",
-					"sublime.log_commands(true)",
-					"sublime.logcommands(true)",
-					"sublime.log_input(True)",
-					"sublime.log_commands(True)",
-					"a",
-					"as",
-					"sublime.log_commands(True)",
-					"cwd",
-					"working_dir",
-					"working",
-					"sublime.log_commands(True) ",
-					" sublime.log_commands(True) ",
-					"sublime.log_commands(True)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/D/SmartBot/my_env/SmartBot"
-			],
-			"file_history":
-			[
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Samples/hello_st3.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/The.Flash.2014.S05E09.720p.HDTV.x265.srt",
-				"/D/Gits/SmartPy/smart.py",
-				"/D/SmartBot/my_env/SmartBot/log.txt",
-				"/C/Users/Smart/Downloads/Telegram Desktop/sample css/ShuttleTaskAssignment/shuttle-task-assignment.component.ts",
-				"/C/Users/Smart/Downloads/Telegram Desktop/sample css/ShuttleTaskAssignment/src/assets/css/custom-style.css",
-				"/D/SmartBot/my_env/SmartBot/fac.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/KEC/CLG Fac/clg.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/KEC/CLG Fac/clg2.py",
-				"/C/file",
-				"/D/SmartBot/my_env/SmartBot/tele.py",
-				"/D/SmartBot/my_env/SmartBot/vg.py",
-				"/D/SmartBot/my_env/SmartBot/b.cmd",
-				"/D/SmartBot/my_env/SmartBot/t.html",
-				"/D/SmartBot/my_env/SmartBot/gt.cmd",
-				"/D/SmartBot/my_env/SmartBot/cg.py",
-				"/D/SmartBot/my_env/SmartBot/.gitignore",
-				"/D/SmartBot/my_env/SmartBot/auto2.py",
-				"/D/SmartBot/my_env/SmartBot/tele2.py",
-				"/D/SmartBot/my_env/SmartBot/t.py",
-				"/D/SmartBot/my_env/SmartBot/zrn.txt",
-				"/D/SmartBot/my_env/SmartBot/new_rn.py",
-				"/D/SmartBot/my_env/SmartBot/config.py",
-				"/D/SmartBot/my_env/SmartBot/t2.py",
-				"/D/SmartBot/my_env/SmartBot/Procfile",
-				"/D/SmartBot/my_env/SmartBot/requirements.txt",
-				"/D/SmartBot/my_env/SmartBot/cf.py",
-				"/D/SmartBot/my_env/SmartBot/config2.py",
-				"/D/SmartBot/my_env/SmartBot/unsorted_pprint.py",
-				"/D/SmartBot/my_env/SmartBot/telegram.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/Telegram/log.txt",
-				"/D/SmartBot/my_env/SmartBot/l.bat",
-				"/C/p.py",
-				"/C/Users/Smart/Desktop/Rooster/wsrv3.py",
-				"/C/Users/Smart/Desktop/Rooster/RR503_ManojkumarP_WSR_24JUN2019.xlsx",
-				"/D/SmartBot/my_env/SmartBot/t.cmd",
-				"/D/1.Manoj/4.Study/4.Codes/ocr.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/asos2.0/asos/asos/spiders/shoes.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/SampleOCRProjectREST (2).py",
-				"/C/Users/Smart/Desktop/a.reg",
-				"/D/SmartBot/my_env/SmartBot/templates/wa2tg.html",
-				"/D/SmartBot/my_env/SmartBot/templates/wa.html",
-				"/C/Users/Smart/Downloads/Telegram Desktop/VCGPA_CSE (3).txt",
-				"/C/Users/Smart/Downloads/Telegram Desktop/Sample_data.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/toplist (2)",
-				"/C/Users/Smart/Downloads/Telegram Desktop/15EEL143_CG_DATA_SARA.py",
-				"/C/Users/Smart/Desktop/7.jpg",
-				"/C/Users/Smart/Desktop/6.jpg",
-				"/C/Users/Smart/Desktop/5.jpg",
-				"/C/Users/Smart/Desktop/4.png",
-				"/C/Users/Smart/Desktop/3.jpg",
-				"/D/SmartBot/my_env/SmartBot/pro.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/DWP/z.txt",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/View In Browser/ViewInBrowserCommand.py",
-				"/D/SmartBot/my_env/SmartBot/switch.py",
-				"/D/SmartBot/my_env/SmartBot/gt2.cmd",
-				"/D/SmartBot/my_env/SmartBot/dom.cmd",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/View In Browser/View In Browser.sublime-settings",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/View In Browser.sublime-settings",
-				"/C/Users/Smart/Downloads/Telegram Desktop/SampleOCRProjectREST.py",
-				"/C/Users/Smart/Desktop/w/a.jpg",
-				"/C/Users/Smart/Desktop/w/a2.png",
-				"/C/Users/Smart/Desktop/w/a - Copy.jpg",
-				"/D/SmartBot/my_env/SmartBot/app.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Python/Snippets/Try-Except-Else-Finally.sublime-snippet",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Python/Snippets/Try-Except.sublime-snippet",
-				"/C/Users/Smart/Downloads/Telegram Desktop/r1.html",
-				"/D/SmartBot/my_env/SmartBot/gt.bat",
-				"/D/SmartBot/my_env/SmartBot/tmp.bat",
-				"/C/Users/Smart/Downloads/Telegram Desktop/RES_MAY_19v4_SARA (3).py",
-				"/C/Users/Smart/Desktop/download.txt",
-				"/D/SmartBot/my_env/SmartBot/exlink.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/VCGPA_CSE (2).txt",
-				"/C/Users/Smart/Downloads/Telegram Desktop/VCGPA_CSE.txt",
-				"/D/SmartBot/my_env/SmartBot/helpf.py",
-				"/D/SmartBot/my_env/SmartBot/zt.py",
-				"/D/SmartBot/my_env/SmartBot/hpcl.py",
-				"/C/Users/Smart/Desktop/Sample_data.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/15CS_MAY_19_EVEN_SARA.csv",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/D/1.Manoj/4.Study/4.Codes/101/KEC/res/old/res7++.csv",
-				"/C/Users/Smart/Downloads/Telegram Desktop/res5.csv",
-				"/D/1.Manoj/4.Study/4.Codes/101/KEC/res/old/internal.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/KEC/res/old/cgpa7.csv",
-				"/C/Users/Smart/Downloads/Telegram Desktop/res3.csv",
-				"/C/Users/Smart/Downloads/Telegram Desktop/p (15).py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/marklist.csv",
-				"/D/1.Manoj/4.Study/4.Codes/101/KEC/res/old/res7.csv",
-				"/D/1.Manoj/4.Study/4.Codes/101/KEC/res/old/res5.csv",
-				"/D/SmartBot/my_env/SmartBot/tc.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/tg.bat",
-				"/D/SmartBot/my_env/SmartBot/kec_rn.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Custom_Plugins/pysynjs.py",
-				"/D/SmartBot/my_env/SmartBot/tidlist.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/toplist.py",
-				"/D/1.Manoj/2.Soft-war/2.Batch-files/AutoHotkey.ahk",
-				"/C/Users/Smart/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
-				"/D/Gits/SmartUserScripts/e-box_enable_copy.user.js",
-				"/C/Users/Smart/Downloads/Telegram Desktop/ttt",
-				"/D/SmartBot/my_env/SmartBot/cc2.py",
-				"/D/SmartBot/my_env/SmartBot/way2.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/toplist",
-				"/D/SmartBot/my_env/SmartBot/tmp",
-				"/C/Users/Smart/Downloads/Telegram Desktop/RES_MAY_19v4_SARA (2).py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/User/Snippets/everyn.sublime-snippet",
-				"/D/SmartBot/my_env/SmartBot/z",
-				"/C/Users/Smart/Downloads/Telegram Desktop/toplist (2).py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/16CS_MAY_19_SARA.csv",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Python/Snippets/cinput.sublime-snippet",
-				"/C/Program Files (x86)/Hibernate Trigger/suspend.ini",
-				"/D/SmartBot/my_env/SmartBot/auto.py",
-				"/D/SmartBot/my_env/SmartBot/p2.py",
-				"/D/SmartBot/my_env/SmartBot/p.py",
-				"/C/Users/Smart/Desktop/unify_logs (1)",
-				"/C/Users/Smart/Desktop/unify_logs",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/sublime_plugin.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/m2.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/sublime.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/..sublime_plugin.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu:900",
-				"/C/Users/Smart/Downloads/Telegram Desktop/mentor.py",
-				"/D/SmartBot/my_env/SmartBot/snt",
-				"/C/Users/Smart/Downloads/Telegram Desktop/RES_MAY_19v4_SARA.py",
-				"/D/SmartBot/my_env/SmartBot/gp.txt",
-				"/D/SmartBot/my_env/SmartBot/rn.txt",
-				"/D/SmartBot/my_env/SmartBot/new.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/tres_dec_18.py"
-			],
-			"find":
-			{
-				"height": 40.0
-			},
-			"find_in_files":
-			{
-				"height": 319.0,
-				"where_history":
-				[
-					"<open folders>",
-					"D:\\z"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"'wu",
-					"  ",
-					" :",
-					": ",
-					"data2",
-					"acount",
-					"mano",
-					"t.me",
-					"ty'",
-					"db",
-					"15bcr",
-					"bvr",
-					"thread",
-					"HELP",
-					"pform",
-					"pprint",
-					"data2={",
-					"data2= {",
-					"data2={}",
-					"roll'",
-					"roll",
-					"#!",
-					"event_lo",
-					"event",
-					"'x'",
-					"telegram",
-					"object",
-					"objec",
-					"wiki",
-					"tt",
-					"data",
-					"8675895044",
-					"918675895044",
-					"hypercorn",
-					"keep rocking team",
-					"\\\\",
-					"wa",
-					"chrome",
-					"firefox",
-					"del",
-					"to",
-					"150",
-					"wiki2",
-					"get_event_loop",
-					"na",
-					"thread",
-					"Sorry, this page is unavailable right now.",
-					"Sorry, this page is unavailable right now.\n\n",
-					"404 not found",
-					"404",
-					"threading",
-					"target",
-					"Thread",
-					"thread",
-					"Thread",
-					"the",
-					"ques",
-					"quest",
-					"tele",
-					"render_template",
-					"d",
-					"<",
-					"tidMan",
-					"tidman",
-					"tidMan",
-					"tidman",
-					"config",
-					"flask",
-					"tidMan",
-					"luk",
-					"data2",
-					"data",
-					"\\d$",
-					"data2",
-					"data",
-					"data2",
-					"print",
-					"pprint",
-					"data",
-					"cd",
-					"str",
-					"cd",
-					"data2",
-					"cp2",
-					"cp",
-					"mar",
-					"Sub",
-					"im",
-					"tc,",
-					"tid",
-					"tc,",
-					"tc",
-					"w.'",
-					"cgf",
-					"print",
-					"w.",
-					"tc,",
-					"w.",
-					"'w.",
-					"\n'w.",
-					"'w.",
-					"tid",
-					"i-1",
-					"delete",
-					"%",
-					"CREDITS",
-					" ",
-					"thank",
-					"tan",
-					"tax",
-					"inact",
-					"hist",
-					"tcgpa",
-					"cool",
-					"export",
-					"work",
-					"roll",
-					"export_results",
-					"name",
-					"roll",
-					"name",
-					"data",
-					"w.{",
-					"w.",
-					"chat,tc",
-					"w.'",
-					"out",
-					"out="
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": true,
-				"replace_history":
-				[
-					"_",
-					":",
-					"",
-					"quart",
-					"'",
-					"dwpp",
-					" ",
-					"",
-					"\"\"\"",
-					"",
-					":",
-					"\\n",
-					"1(WFH)",
-					"resc",
-					"Where",
-					"diesel",
-					"petrol",
-					"msz",
-					"diesel",
-					"petrol",
-					"",
-					"In memory",
-					"telegram",
-					"http",
-					"\"\n",
-					"\\n",
-					" ",
-					"-testmode       \n-debug          \n-many           \n-key            \n-autostart      \n-fixprevious    \n-cleanup        \n-noupdate       \n-externalupdater\n-tosettings     \n-startintray    \n-sendpath       \n-workdir        \n--\"",
-					" ",
-					"END:VCARD#\nBEGIN:VCARD",
-					"END:VCARD\nBEGIN:VCARD",
-					"END",
-					"END:VCARD\nBEGIN:VCARD",
-					"None",
-					"\\t",
-					"\"",
-					"\\t",
-					"",
-					"f\"\\1\"",
-					"'",
-					"tv",
-					"tidLukMan",
-					"print",
-					"CSR0",
-					"",
-					"15",
-					" ",
-					"",
-					"/",
-					"",
-					"\\t",
-					",",
-					".",
-					"\"",
-					"",
-					": \"home",
-					"/",
-					"",
-					".\\10",
-					".\\10,",
-					".\\10",
-					" 0.00,",
-					"0.00,",
-					"0.00",
-					"",
-					"@T",
-					"@L",
-					" L",
-					"",
-					"''",
-					"'t'",
-					"",
-					"NIL",
-					"",
-					"NIL",
-					"",
-					": '",
-					": ",
-					" ",
-					"",
-					"[",
-					"]",
-					"[",
-					".",
-					"",
-					"),",
-					"','",
-					"",
-					"round(stop - start,2)",
-					"",
-					"datec",
-					"",
-					"get_updates",
-					"None",
-					"IOT",
-					"Evng",
-					"Mrng",
-					"XMLWS",
-					"IT",
-					"'",
-					" : ",
-					"_",
-					"",
-					"DIESEL",
-					"PETROL",
-					"\\1:",
-					"self.tok",
-					"(self.jsi)",
-					"self.tok",
-					"self.jsi",
-					"",
-					"headers",
-					"\"4294",
-					"\"",
-					"\"Office\": '\\1",
-					"Office\": \"\\1",
-					"",
-					"\\1,",
-					"'\\1'",
-					"'\\0'",
-					"'\\1'",
-					"",
-					" \\1\\n",
-					" \\1",
-					" ",
-					"",
-					"\\1<b>\\2</b>",
-					""
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": false
-			},
-			"groups":
-			[
-				{
-					"selected": 15,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/D/SmartBot/my_env/SmartBot/kec_rn.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 255318,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										254210,
-										254210
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 179890.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"default_dir": "D:\\SmartBot\\my_env\\SmartBot",
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/SmartBot/my_env/SmartBot/tele.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3213,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										900,
-										900
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 627.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 21,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/SmartBot/my_env/SmartBot/config2.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1291,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 20,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/SmartBot/my_env/SmartBot/config.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 10011,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										637,
-										637
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 13,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/SmartBot/my_env/SmartBot/hpcl.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5227,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										716,
-										719
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 19,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/D/SmartBot/my_env/SmartBot/dtc.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1792,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1000,
-										1000
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 456.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 22,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/D/SmartBot/my_env/SmartBot/telegram.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 38243,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										18025,
-										18025
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 10925.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"default_dir": "D:\\SmartBot\\my_env\\SmartBot",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"file": "/D/SmartBot/my_env/SmartBot/exlink.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 6693,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										5672,
-										5672
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 3154.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 18,
-							"type": "text"
-						},
-						{
-							"buffer": 10,
-							"file": "/D/SmartBot/my_env/SmartBot/auto2.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 7977,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										556,
-										556
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 266.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 9,
-							"type": "text"
-						},
-						{
-							"buffer": 11,
-							"file": "/D/SmartBot/my_env/SmartBot/cg.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 11407,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										9855,
-										9855
-									]
-								],
-								"settings":
-								{
-									"auto_complete_triggers":
-									[
-										{
-											"characters": "<",
-											"selector": "text.html"
-										},
-										{
-											"characters": ".",
-											"selector": "source.python - string - comment - constant.numeric"
-										}
-									],
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 6308.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 12,
-							"file": "/D/SmartBot/my_env/SmartBot/Procfile",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 71,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										71,
-										71
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 17,
-							"type": "text"
-						},
-						{
-							"buffer": 13,
-							"file": "/D/SmartBot/my_env/SmartBot/t.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 19,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										19,
-										19
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 14,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/update.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 683,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 15,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 456,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 16,
-							"file": "/D/SmartBot/my_env/SmartBot/logs.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 506,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										506,
-										506
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 15,
-							"type": "text"
-						},
-						{
-							"buffer": 17,
-							"file": "/D/SmartBot/my_env/SmartBot/new_rn.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 518,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										425,
-										425
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 285.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 10,
-							"type": "text"
-						},
-						{
-							"buffer": 18,
-							"file": "/D/SmartBot/my_env/SmartBot/gt.cmd",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 823,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										396,
-										396
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 19,
-							"file": "/D/SmartBot/my_env/SmartBot/zrn.txt",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 14,
-							"type": "text"
-						},
-						{
-							"buffer": 20,
-							"file": "/D/SmartBot/my_env/SmartBot/f2.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2545,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 12,
-							"type": "text"
-						},
-						{
-							"buffer": 21,
-							"file": "/D/SmartBot/my_env/SmartBot/kec_mno.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 16369,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										16369,
-										16369
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 5757.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 11,
-							"type": "text"
-						},
-						{
-							"buffer": 22,
-							"file": "/D/SmartBot/my_env/SmartBot/fac2.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 52037,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										208,
-										208
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 16,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 29.0
-			},
-			"input":
-			{
-				"height": 109.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.SQLExec":
-			{
-				"height": 373.0
-			},
-			"output.SQLExec.errors":
-			{
-				"height": 154.0
-			},
-			"output.astyle_error_message":
-			{
-				"height": 0.0
-			},
-			"output.exec":
-			{
-				"height": 275.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.hex_viewer_inspector":
-			{
-				"height": 124.0
-			},
-			"output.mvn_exec":
-			{
-				"height": 124.0
-			},
-			"output.unsaved_changes":
-			{
-				"height": 335.0
-			},
-			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,696,156,156,812",
-			"project": "Bot.sublime-project",
-			"replace":
-			{
-				"height": 72.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"t",
-						"t.py"
-					],
-					[
-						"tel",
-						"telegram.py"
-					],
-					[
-						"kec",
-						"kec_rn.py"
-					],
-					[
-						"cg",
-						"cg.py"
-					],
-					[
-						"te",
-						"telegram.py"
-					],
-					[
-						"gt",
-						"gt.cmd"
-					],
-					[
-						"au",
-						"auto2.py"
-					],
-					[
-						"",
-						"new_rn.py"
-					],
-					[
-						"co",
-						"kec_mno.py"
-					],
-					[
-						"f2",
-						"f2.py"
-					],
-					[
-						"KE",
-						"kec_rn.py"
-					],
-					[
-						"GT",
-						"gt.cmd"
-					],
-					[
-						"TEL",
-						"telegram.py"
-					],
-					[
-						"con",
-						"config.py"
-					],
-					[
-						"a",
-						"auto2.py"
-					],
-					[
-						"zrn",
-						"zrn.txt"
-					],
-					[
-						"ne",
-						"new_rn.py"
-					],
-					[
-						"fac",
-						"fac2.py"
-					],
-					[
-						"f",
-						"f2.py"
-					],
-					[
-						"fa",
-						"fac.py"
-					],
-					[
-						"lo",
-						"log"
-					],
-					[
-						"log",
-						"logs.py"
-					],
-					[
-						"pro",
-						"Procfile"
-					],
-					[
-						"auot",
-						"auto2.py"
-					],
-					[
-						"ex",
-						"exlink.py"
-					],
-					[
-						"hpcl",
-						"hpcl.py"
-					],
-					[
-						"dt",
-						"dtc.py"
-					],
-					[
-						"ke",
-						"kec_rn.py"
-					],
-					[
-						"zr",
-						"zrn.txt"
-					],
-					[
-						"n",
-						"new_rn.py"
-					],
-					[
-						"rn",
-						"zrn.txt"
-					],
-					[
-						"u",
-						"unsorted_pprint.py"
-					],
-					[
-						"VG",
-						"vg.py"
-					],
-					[
-						"CO",
-						"config2.py"
-					],
-					[
-						"new",
-						"new_rn.py"
-					],
-					[
-						"AUTO",
-						"auto2.py"
-					],
-					[
-						"NRN",
-						"new_rn.py"
-					],
-					[
-						"vg",
-						"vg.py"
-					],
-					[
-						"tele",
-						"tele.py"
-					],
-					[
-						"auto",
-						"auto2.py"
-					],
-					[
-						"p",
-						"Procfile"
-					],
-					[
-						"re",
-						"requirements.txt"
-					],
-					[
-						"cf",
-						"cf.py"
-					],
-					[
-						"t2",
-						"t2.py"
-					],
-					[
-						"l",
-						"l.bat"
-					],
-					[
-						"conf",
-						"config.py"
-					],
-					[
-						"b",
-						"b.cmd"
-					],
-					[
-						"grt",
-						".gitignore"
-					],
-					[
-						"ht",
-						"t.html"
-					],
-					[
-						"c",
-						"config.py"
-					],
-					[
-						"aut",
-						"auto2.py"
-					],
-					[
-						"ocr",
-						"D:\\1.Manoj\\4.Study\\4.Codes\\ocr.py"
-					],
-					[
-						"oc",
-						"D:\\1.Manoj\\4.Study\\4.Codes\\ocr.py"
-					],
-					[
-						"pr",
-						"Procfile"
-					],
-					[
-						"wa",
-						"templates\\wa2tg.html"
-					],
-					[
-						"t.p",
-						"t.py"
-					],
-					[
-						"t.c",
-						"t.cmd"
-					],
-					[
-						"t.cmd",
-						"t.cmd"
-					],
-					[
-						"sw",
-						"switch.py"
-					],
-					[
-						"do",
-						"dom.cmd"
-					],
-					[
-						"tg",
-						"telegram.py"
-					],
-					[
-						"app",
-						"app.py"
-					],
-					[
-						"h",
-						"h.html"
-					],
-					[
-						"sa",
-						"C:\\Users\\Smart\\Desktop\\Sample_data.py"
-					],
-					[
-						"hel",
-						"helpf.py"
-					],
-					[
-						"tid",
-						"tidlist.py"
-					],
-					[
-						"hp",
-						"hpcl.py"
-					],
-					[
-						"b.",
-						"b.cmd"
-					],
-					[
-						"t.",
-						"t.py"
-					],
-					[
-						"zt",
-						"zt.py"
-					],
-					[
-						"ato",
-						"auto2.py"
-					],
-					[
-						"ap",
-						"app.py"
-					],
-					[
-						"tc",
-						"tc.py"
-					],
-					[
-						"z",
-						"z"
-					],
-					[
-						"to",
-						"C:\\Users\\Smart\\Downloads\\Telegram Desktop\\toplist"
-					],
-					[
-						"top",
-						"C:\\Users\\Smart\\Downloads\\Telegram Desktop\\toplist.py"
-					],
-					[
-						"t.py",
-						"t.py"
-					],
-					[
-						"tm",
-						"tmp"
-					],
-					[
-						"cc",
-						"cc2.py"
-					],
-					[
-						"tle",
-						"tele.py"
-					],
-					[
-						"fi",
-						"Find Results"
-					],
-					[
-						"p2",
-						"p2.py"
-					],
-					[
-						"auo",
-						"auto.py"
-					],
-					[
-						"krn",
-						"kec_rn.py"
-					],
-					[
-						"ti",
-						"tidlist.py"
-					],
-					[
-						"g",
-						"gt2.cmd"
-					],
-					[
-						"gt2",
-						"gt2.cmd"
-					],
-					[
-						"cg2",
-						"config2.py"
-					],
-					[
-						"coe",
-						"coe.py"
-					],
-					[
-						"KEC",
-						"kec_rn.py"
-					],
-					[
-						"pip",
-						"pips.bat"
-					],
-					[
-						"hpc",
-						"hpcl.py"
-					],
-					[
-						"confi",
-						"config.py"
-					],
-					[
-						"ese",
-						"ese.py"
-					],
-					[
-						"yt",
-						"yt.py"
-					],
-					[
-						"c2",
-						"config2.py"
-					],
-					[
-						"m",
-						"cseb_mdet.py"
-					],
-					[
-						"v",
-						"vg.py"
-					],
-					[
-						"dom",
-						"dom.cmd"
-					],
-					[
-						"n2",
-						"n2w.py"
-					],
-					[
-						"w",
-						"way2.py"
-					],
-					[
-						"bk",
-						"bk.py"
-					],
-					[
-						"fee",
-						"fees.py"
-					],
-					[
-						"logs",
-						"logs.py"
-					],
-					[
-						"z2",
-						"z2.py"
-					],
-					[
-						"z.",
-						"z2.py"
-					],
-					[
-						"dob",
-						"dobl.py"
-					],
-					[
-						"py",
-						"pyt.py"
-					],
-					[
-						"r",
-						"requirements.txt"
-					],
-					[
-						"ge",
-						"gen.py"
-					],
-					[
-						"run",
-						"runtime.txt"
-					],
-					[
-						"n2w",
-						"n2w.py"
-					],
-					[
-						"gen",
-						"gen.py"
-					],
-					[
-						"dcm",
-						"dom.cmd"
-					],
-					[
-						"cn",
-						"config.py"
-					],
-					[
-						"d",
-						"dom.cmd"
-					],
-					[
-						"ba",
-						"gt.bat"
-					],
-					[
-						"bg",
-						"kec_bg.py"
-					],
-					[
-						"gt.",
-						"gt.bat"
-					],
-					[
-						"ca",
-						"kec_ac.py"
-					],
-					[
-						"he",
-						"helpf.py"
-					],
-					[
-						"ft",
-						"zft.py"
-					],
-					[
-						"tt",
-						"tt.py"
-					],
-					[
-						"ui",
-						"uid.py"
-					],
-					[
-						"ru",
-						"runtime.txt"
-					],
-					[
-						"k",
-						"kec_rn.py"
-					],
-					[
-						"bm",
-						"bm.py"
-					],
-					[
-						"e",
-						"exlink.py"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\HongKong.sublime-project"
-					],
-					[
-						"m",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
-					],
-					[
-						"p",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
-					],
-					[
-						"dr",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-project"
-					],
-					[
-						"t",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
-					],
-					[
-						"ho",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\HongKong.sublime-project"
-					],
-					[
-						"su",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
-					],
-					[
-						"bo",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
-					],
-					[
-						"d",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-project"
-					],
-					[
-						"na",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Nava.sublime-project"
-					],
-					[
-						"b",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
-					],
-					[
-						"ma",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
-					],
-					[
-						"n",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Nava.sublime-project"
-					],
-					[
-						"nava",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Nava.sublime-project"
-					],
-					[
-						"c",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
-					],
-					[
-						"vv",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\vv.sublime-project"
-					],
-					[
-						"v",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Subl\\vv.sublime-project"
-					],
-					[
-						"I",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Bot.sublime-project"
-					],
-					[
-						"bot",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Bot.sublime-project"
-					],
-					[
-						"f",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\vv.sublime-project"
-					],
-					[
-						"nav",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Nava.sublime-project"
-					]
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 72.0,
-				"last_filter": "hp_stock2",
-				"selected_items":
-				[
-					[
-						"hp_stock2",
-						"hp_stock2"
-					],
-					[
-						"",
-						"api_wa"
-					],
-					[
-						"sen",
-						"send_message"
-					],
-					[
-						"wa",
-						"api_wa"
-					],
-					[
-						"api",
-						"api_wa"
-					],
-					[
-						"sl",
-						"slink"
-					],
-					[
-						"re",
-						"restart"
-					],
-					[
-						"upr",
-						"uprint"
-					],
-					[
-						"pre",
-						"pre"
-					],
-					[
-						"emo",
-						"emo"
-					],
-					[
-						"cc",
-						"cc4"
-					],
-					[
-						"up",
-						"uprint"
-					],
-					[
-						"msf",
-						"msgf"
-					],
-					[
-						"msg",
-						"send_message"
-					],
-					[
-						"ex",
-						"exception"
-					],
-					[
-						"tr",
-						"tr2"
-					],
-					[
-						"ec",
-						"echo_all"
-					],
-					[
-						"cp",
-						"exception"
-					],
-					[
-						"en",
-						"encode"
-					],
-					[
-						"send",
-						"send_message"
-					],
-					[
-						"main",
-						"main"
-					],
-					[
-						"f",
-						"flatten"
-					]
-				],
-				"width": 592.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 216.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 147,
-			"workspace_name": "/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Bot.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Bot.sublime-workspace",
-			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Drona.sublime-workspace",
-			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/HongKong.sublime-workspace",
 			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Manoj.sublime-workspace",
-			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Nava.sublime-workspace"
+			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/HongKong.sublime-workspace",
+			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Drona.sublime-workspace",
+			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Nava.sublime-workspace",
+			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Bot.sublime-workspace"
 		]
 	}
 }

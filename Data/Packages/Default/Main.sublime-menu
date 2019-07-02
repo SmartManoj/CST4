@@ -896,7 +896,7 @@
     		{ "command": "open_url", "args": {"url": "http://bit.ly/sm3st3"}, 
                 "caption": "SmartManoj" ,"mnemonic": "M"},
     		{ "command": "open_url", "args": {"url": "http://bit.ly/cst3sm"}, "caption": "CST3 v-7" },
-            { "command": "open_url", "args": {"url": "http://t.me/SmartManoj"}, "caption": "Telegram","mnemonic": "T" },
+            { "command": "open_url", "args": {"url": "https://t.me/SmartManoj"}, "caption": "Telegram","mnemonic": "T" },
             { "command": "open_file", "args": {"file": "${packages}/Default/Main.sublime-menu","line":900}, "caption": "Edit Menu",},
             { "command": "open_file", "args": {"file": "${packages}\\..\\..\\sublime_plugin.py","line":900}, "caption": "Sublime Plugin",},
     		{ "command": "open_file", "args": {"file": "${packages}\\..\\..\\sublime.py","line":900}, "caption": "Sublime",},
@@ -946,6 +946,17 @@
             {"caption": "Context Menu","command": "open_file", "args": {"file": "$packages\\..\\SM\\owst3.bat"}},
             {"caption": "Quick","command": "open_file", "args": {"file": "$packages\\..\\SM\\Quick.md"}},
             {"caption": "ST3_helper","command": "open_file", "args": {"file": "$packages\\..\\SM\\st3_helper.py"}},
+        ]
+
+       
+    },
+    {
+        "caption": "Support",
+        "id": "CST3",
+         "children":
+        [
+            {"caption": "FAQ","command": "open_file", "args": {"file": "$packages\\..\\SM\\FAQ.md"}},
+            { "command": "open_url", "args": {"url": "https://t.me/SmartManoj"}, "caption": "Contact Dev","mnemonic": "T" },
         ]
 
        
