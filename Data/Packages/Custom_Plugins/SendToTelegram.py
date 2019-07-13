@@ -34,7 +34,7 @@ from .config import *
 import sublime
 import sublime_plugin
 import os
-TG=get_reg(r"tdesktop.tg\shell\open\command",'').split('--')[0]
+TG=get_reg(r"tdesktop.tg\shell\open\command",'').split('-')[0]
 
 class SendToTelegram(sublime_plugin.TextCommand):
 	def run(self, edit):

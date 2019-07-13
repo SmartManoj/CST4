@@ -4126,19 +4126,47 @@
 					}
 				},
 				{
-					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
+					"file": "/D/SmartBot/my_env/SmartBot/templates/wa2tg.html",
 					"settings":
 					{
-						"buffer_size": 54754,
+						"buffer_size": 653,
 						"encoding": "UTF-8",
-						"line_ending": "Unix"
+						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
+					"file": "/D/SmartBot/my_env/SmartBot/tele2.py",
 					"settings":
 					{
-						"buffer_size": 456,
+						"buffer_size": 749,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/SmartBot/my_env/SmartBot/t4.py",
+					"settings":
+					{
+						"buffer_size": 1091,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "client.get_entity('@Krishnava').to_dict()\nclient.download_media(1499521281336387,'.')\nclient(functions.photos.GetUserPhotosRequest(\n        user_id='Krishnava',\n        offset=1,\n        max_id=0,\n        limit=1\n    ))\nclient.download_profile_photo('Krishnava')    ",
+					"settings":
+					{
+						"buffer_size": 266,
+						"line_ending": "Windows",
+						"name": "client.get_entity('@Krishnava').to_dict()"
+					}
+				},
+				{
+					"file": "/D/SmartBot/my_env/SmartBot/tele.py",
+					"settings":
+					{
+						"buffer_size": 3509,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
@@ -4163,18 +4191,9 @@
 					"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Custom_Plugins/SendToTelegram.py",
 					"settings":
 					{
-						"buffer_size": 1261,
+						"buffer_size": 1260,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/1.Manoj/2.Soft-war/5.Rest/tgm.bat",
-					"settings":
-					{
-						"buffer_size": 460,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
 					}
 				}
 			],
@@ -5382,12 +5401,12 @@
 				"selected_items":
 				[
 					[
-						"rn",
-						"File: Rename"
-					],
-					[
 						"du",
 						"File: Duplicate"
+					],
+					[
+						"rn",
+						"File: Rename"
 					],
 					[
 						"dup",
@@ -6007,6 +6026,10 @@
 			],
 			"file_history":
 			[
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
+				"/D/1.Manoj/2.Soft-war/5.Rest/tgm.bat",
+				"/D/SmartBot/my_env/SmartBot/ftele2.py",
+				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/start.bat",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/update.py",
 				"/D/SmartBot/my_env/SmartBot/pro.py",
@@ -6023,7 +6046,6 @@
 				"/D/SmartBot/my_env/SmartBot/t2.py",
 				"/D/SmartBot/my_env/SmartBot/t3.py",
 				"/D/SmartBot/my_env/SmartBot/f2.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Custom_Plugins/Test.py",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Custom_Plugins/Update.py",
 				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Custom_Plugins/SendToTelegram.py",
@@ -6131,10 +6153,7 @@
 				"/D/SmartBot/my_env/SmartBot/cc.py",
 				"/D/SmartBot/my_env/SmartBot/cc2.py",
 				"/D/SmartBot/my_env/SmartBot/coe.py",
-				"/D/SmartBot/my_env/SmartBot/cg_config.py",
-				"/D/SmartBot/my_env/SmartBot/dobl.py",
-				"/D/SmartBot/my_env/SmartBot/tid_staff.py",
-				"/D/SmartBot/my_env/SmartBot/logs.py"
+				"/D/SmartBot/my_env/SmartBot/cg_config.py"
 			],
 			"find":
 			{
@@ -6427,7 +6446,7 @@
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 10,
 					"sheets":
 					[
 						{
@@ -6455,7 +6474,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 10,
 							"type": "text"
 						},
 						{
@@ -6484,7 +6503,7 @@
 								"translation.y": 164.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 7,
 							"type": "text"
 						},
 						{
@@ -6513,59 +6532,118 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
 							"buffer": 3,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
+							"file": "/D/SmartBot/my_env/SmartBot/templates/wa2tg.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 54754,
+								"buffer_size": 653,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										53836,
-										53836
+										15,
+										15
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 13244.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
 							"buffer": 4,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/cst3.cmd",
+							"file": "/D/SmartBot/my_env/SmartBot/tele2.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 456,
+								"buffer_size": 749,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										198,
+										198
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/SmartBot/my_env/SmartBot/t4.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1091,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2,
+										2
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 266,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										266,
+										266
+									]
+								],
+								"settings":
+								{
+									"auto_name": "client.get_entity('@Krishnava').to_dict()",
+									"default_dir": "D:\\SmartBot\\my_env\\SmartBot",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -6575,7 +6653,37 @@
 							"type": "text"
 						},
 						{
-							"buffer": 5,
+							"buffer": 7,
+							"file": "/D/SmartBot/my_env/SmartBot/tele.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3509,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1923,
+										1923
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 390.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
 							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/sublime.py",
 							"semi_transient": false,
 							"settings":
@@ -6601,11 +6709,11 @@
 								"translation.y": 2526.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 9,
 							"type": "text"
 						},
 						{
-							"buffer": 6,
+							"buffer": 9,
 							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Quick.md",
 							"semi_transient": false,
 							"settings":
@@ -6629,24 +6737,24 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 8,
 							"type": "text"
 						},
 						{
-							"buffer": 7,
+							"buffer": 10,
 							"file": "/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Custom_Plugins/SendToTelegram.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1261,
+								"buffer_size": 1260,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										690,
-										690
+										927,
+										927
 									]
 								],
 								"settings":
@@ -6655,38 +6763,10 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 234.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/D/1.Manoj/2.Soft-war/5.Rest/tgm.bat",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 460,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										38,
-										38
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -6756,7 +6836,7 @@
 				"height": 335.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,566,26,26,682",
+			"position": "0,2,3,-32000,-32000,-1,-1,566,26,26,682",
 			"project": "Bot.sublime-project",
 			"replace":
 			{
@@ -6769,6 +6849,22 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"te",
+						"tele.py"
+					],
+					[
+						"t4",
+						"t4.py"
+					],
+					[
+						"tel",
+						"tele.py"
+					],
+					[
+						"wa",
+						"templates\\wa2tg.html"
+					],
 					[
 						"p.",
 						"pro.py"
@@ -6786,16 +6882,8 @@
 						"tt.py"
 					],
 					[
-						"t4",
-						"t4.py"
-					],
-					[
 						"t",
 						"t.py"
-					],
-					[
-						"te",
-						"telegram.py"
 					],
 					[
 						"fa",
@@ -6856,10 +6944,6 @@
 					[
 						"cn",
 						"config.py"
-					],
-					[
-						"tel",
-						"telegram.py"
 					],
 					[
 						"hp",
@@ -6932,10 +7016,6 @@
 					[
 						"ex",
 						"exlink.py"
-					],
-					[
-						"wa",
-						"templates\\wa2tg.html"
 					],
 					[
 						"pr",
