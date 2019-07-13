@@ -16,5 +16,5 @@ except Exception as e:
 		print(f'Installing {prgrm}')
 		subprocess.run(f'{x} /verysilent'.split())	
 os.chdir('..\..')
-subprocess.run('git init'.split())
+# subprocess.run('git init'.split())
 subprocess.run('git pull https://github.com/SmartManoj/CST3.git --force'.split())

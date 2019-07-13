@@ -2,7 +2,7 @@
 	"auto_complete_selector": "",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"create_window_at_startup": false,
-	"font_size": 12,
+	"font_size": 8,
 	"ignored_packages":
 	[
 		"ANSIescape",

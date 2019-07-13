@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+from datetime import *
+import calendar
+today=datetime.now()
+month=today.month-1
+month2=calendar.month_name[month][:3]
+year=today.year-(month==12)
+day=today.day 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>dtime2</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>
+
+

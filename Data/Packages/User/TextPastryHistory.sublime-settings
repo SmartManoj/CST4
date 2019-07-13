@@ -7088,19 +7088,6 @@
 			{
 				"args":
 				{
-					"clipboard": true
-				},
-				"command": "text_pastry_insert_text",
-				"text": "\\p"
-			},
-			"key": "ceb8141b2b1d05fb9539bc1381b58745",
-			"label": "\\p"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"repeat": "4",
 					"text": "1"
 				},
@@ -7136,19 +7123,6 @@
 			},
 			"key": "30de389893c8f83b9aa8ea16644b8b1c",
 			"label": "Sub 1"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
-					"text": "1"
-				},
-				"command": "text_pastry_step",
-				"text": "1"
-			},
-			"key": "c4ca4238a0b923820dcc509a6f75849b",
-			"label": "1"
 		},
 		{
 			"data":
@@ -7258,16 +7232,41 @@
 			},
 			"key": "38b1e2dc77f044c07cd0aaad098201cb",
 			"label": "s 1 x30"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "1"
+			},
+			"key": "c4ca4238a0b923820dcc509a6f75849b",
+			"label": "1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"clipboard": true
+				},
+				"command": "text_pastry_insert_text",
+				"text": "\\p"
+			},
+			"key": "ceb8141b2b1d05fb9539bc1381b58745",
+			"label": "\\p"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"repeat": "30",
-			"text": "1"
+			"clipboard": true
 		},
-		"command": "text_pastry_auto_step",
-		"text": "s 1 x30"
+		"command": "text_pastry_insert_text",
+		"text": "\\p"
 	}
 }

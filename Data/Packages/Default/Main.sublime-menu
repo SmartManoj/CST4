@@ -943,7 +943,7 @@
          "children":
         [
             {"caption": "Features","command": "open_file", "args": {"file": "$packages\\..\\SM\\Features.md"}},
-            {"caption": "Context Menu","command": "open_file", "args": {"file": "$packages\\..\\SM\\owst3.bat"}},
+            {"caption": "Setup","command": "open_file", "args": {"file": "$packages\\..\\SM\\start.bat"}},
             {"caption": "Quick","command": "open_file", "args": {"file": "$packages\\..\\SM\\Quick.md"}},
             {"caption": "ST3_helper","command": "open_file", "args": {"file": "$packages\\..\\SM\\st3_helper.py"}},
         ]
@@ -962,6 +962,7 @@
        
     },
     { "command": "open_dir", "args": {"dir": "$packages\\Python\\Snippets"}, "caption": "Q",},
+    { "command": "open_dir", "args": {"dir": "$packages\\Custom_Plugins"}, "caption": "P",},
     {
          "command": "open_file", "args": {"file": "${packages}/Default/Main.sublime-menu","flag":1}, "caption": "T",
     }

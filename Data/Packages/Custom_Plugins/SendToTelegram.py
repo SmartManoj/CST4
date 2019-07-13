@@ -27,35 +27,16 @@ def r():
 			print(e)
 			return None
 
-	#Example MouseSensitivity
-	#Read value 
-	path="D:\1.Manoj\2.Soft-war\5.Rest\Telegram\T.exe"
-	path2='/'.join(path.split('\\')[:-1])
-	f=''' """{path}\"" -workdir ""{path2}"" -- ""%1\""" /f '''
-	# print(set_reg('1',f))
-	a=get_reg('').split('"')[1]
-	if r'\\' in a:
-		a=a.split('\\')
-		b='\\'.join(a[4:])
-		a="{}:\\{}".format(a[3][0],b)
-	print('3',a)
-	print('TG=r"{}"'.format(a),file=open(__file__+'\..\config.py','a'))
-import os
-print("42",os.getcwd(),)
-try:
-	from .config import *
-	TG
-	print('3',TG)
-except Exception as e:
-	r()
 
-	from .config import *
+import os
+# print("42",os.getcwd(),)
+from .config import *
 import sublime
 import sublime_plugin
 import os
+TG=get_reg(r"tdesktop.tg\shell\open\command",'').split('--')[0]
 
 class SendToTelegram(sublime_plugin.TextCommand):
-	print("TG2",TG)
 	def run(self, edit):
 		fileToOpen = self.view.file_name()
 		if self.view.is_dirty():
@@ -63,6 +44,6 @@ class SendToTelegram(sublime_plugin.TextCommand):
 				self.view.window().run_command("save")
 
 
-		a=('{} -sendpath "{}"'.format(TG,fileToOpen))
+		a=('{} -sendpath "{}"'.format(TG.strip()[1:-1],fileToOpen))
 		print(a)
 		os.system(a)
