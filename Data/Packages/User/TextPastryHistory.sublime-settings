@@ -6857,20 +6857,6 @@
 			{
 				"args":
 				{
-					"repeat": "31",
-					"text": "1"
-				},
-				"command": "text_pastry_auto_step",
-				"text": "s 1 x31"
-			},
-			"key": "a17dce906b04d286f0c2fa41b30c8483",
-			"label": "s 1 x31"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "70 80"
 				},
 				"command": "text_pastry_step",
@@ -7102,19 +7088,6 @@
 			{
 				"args":
 				{
-					"text": "0"
-				},
-				"command": "text_pastry_step",
-				"text": "0"
-			},
-			"key": "cfcd208495d565ef66e7dff9f98764da",
-			"label": "0"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "Sub 1",
 					"threshold": 3
 				},
@@ -7238,6 +7211,146 @@
 			{
 				"args":
 				{
+					"text": "8 16"
+				},
+				"command": "text_pastry_step",
+				"text": "8 16"
+			},
+			"key": "b5494094fbe2c9504d5ed5ba2bacccc9",
+			"label": "8 16"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "8 16 x5"
+				},
+				"command": "text_pastry_step",
+				"text": "8 16 x5"
+			},
+			"key": "3661ae8f5ac74708b28c5d634ff91bbe",
+			"label": "8 16 x5"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "5",
+					"step_size": "16",
+					"text": "8"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "s 8 16 x5"
+			},
+			"key": "3ff793cb64edb140c2851d320e42dc64",
+			"label": "s 8 16 x5"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "3",
+					"step_size": "6",
+					"text": "46"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "s 46 6 x3"
+			},
+			"key": "a71aad15f603963fc9ef90b37f1c1de8",
+			"label": "s 46 6 x3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "3",
+					"step_size": "6",
+					"text": "52"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "s 52 6 x3"
+			},
+			"key": "2253a770633bfdd65da40c44e990aa1c",
+			"label": "s 52 6 x3"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "0"
+				},
+				"command": "text_pastry_step",
+				"text": "0"
+			},
+			"key": "cfcd208495d565ef66e7dff9f98764da",
+			"label": "0"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "31",
+					"text": "1"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "s 1 x31"
+			},
+			"key": "a17dce906b04d286f0c2fa41b30c8483",
+			"label": "s 1 x31"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "4",
+					"text": "02-Aug-2019"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "s 02-Aug-2019 x4"
+			},
+			"key": "fc6084a9b63ceae0de021a7b5fe7c2c6",
+			"label": "s 02-Aug-2019 x4"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"step_size": "7",
+					"text": "Designing\t\t\tx"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "s Designing\t\t\tx 7"
+			},
+			"key": "25c26e7f886bfcc09c6f8397c87abe28",
+			"label": "s Designing\t\t\tx 7"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "7",
+					"text": "Designing"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "s Designing x7"
+			},
+			"key": "25add9e42350a75db1b885b42f917b78",
+			"label": "s Designing x7"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
 					"text": "1"
 				},
 				"command": "text_pastry_step",
@@ -7245,6 +7358,19 @@
 			},
 			"key": "c4ca4238a0b923820dcc509a6f75849b",
 			"label": "1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1330\n1331\n1332\n1333"
+				},
+				"command": "text_pastry_step",
+				"text": "1330\n1331\n1332\n1333\n1334\n1336\n1338\n1340\n1373\n1374\n1377\n1390\n1427"
+			},
+			"key": "8275031f6e928a2cb181be0b543c7f47",
+			"label": "1330\n1331\n1332\n1333\n1334\n1336\n1338\n1340\n1373\n1374\n1377\n1390\n1427"
 		},
 		{
 			"data":

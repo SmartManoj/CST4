@@ -676,7 +676,7 @@
         "current_test": "",
         "project_tests": ""
     },
-	"swallow_startup_errors": false,
+	"swallow_startup_errors": true,
 
     /*
         If this is set to true, anaconda will unload plugins that
