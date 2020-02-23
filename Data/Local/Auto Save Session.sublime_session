@@ -10353,8 +10353,8 @@
 								"selection":
 								[
 									[
-										155,
-										155
+										150,
+										150
 									]
 								],
 								"settings":
@@ -10362,7 +10362,7 @@
 									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 75.2,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,

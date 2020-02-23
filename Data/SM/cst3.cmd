@@ -3,14 +3,14 @@ rem exit
 rem heroku accounts:set p
 call a.cmd
 rem git init
-git add .
 
 if "1" EQU "1." (
-	git pull heroku master
+	git pull origin master
 	git mergetool 
 	pause & exit
 )	
 
+git add .
 rem git rm -r --cached Data/Backup
 rem git rm -r --cached 	Data/Cache
 git commit -m 'Cool'
