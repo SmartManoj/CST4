@@ -8019,23 +8019,6 @@
 					}
 				},
 				{
-					"file": "/C/Manoj/CST3-master/Data/SM/update.py",
-					"settings":
-					{
-						"buffer_size": 685,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/C/Manoj/CST3-master/Data/Packages/Custom_Plugins/Update.py",
-					"settings":
-					{
-						"buffer_size": 757,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
 					"contents": "Searching 149 files for \"tdy\" (regex)\n\nC:\\Manoj\\Bots\\smartmanojbot\\app.py:\n  200  \n  201  def hp_rsp3():\n  202: \t''''setting tdy bal'''\n  203: \twhile True and not tdy:\n  204  \t\ttry:\n  205  \t\t\tdto=datetime.utcnow()+timedelta(hours=5,minutes=30)\n  ...\n  211  \t\t\tif _!='Shortly':\n  212  \t\t\t\tprint(_)\n  213: \t\t\t\tprint('TDY SET')\n  214  \t\t\t\tbreak\n  215  \t\t\tsleep(20*60)\n  ...\n  299  \t\t\t\trd=soup.find(align='right').next_sibling.next_sibling.text[5:]\n  300  \t\t\t\tcrt=float(soup.find(align='right').text[:-5])\n  301: \t\t\t\tif crt!=rt and (not tdy and hr<8 or bk ):\n  302  \t\t\t\t\tt=crt-rt\n  303  \t\t\t\t\tif bk or rt==0 :\n  ...\n 1216  \t\t\tsleep(10*60)\n 1217  def o6():\n 1218: \tif tdy:return\n 1219  \tsnt(wish,())\n 1220  \tif 0:\n ....\n 1232  \t\tsleep(60*15)\n 1233  def boo():\n 1234: \tglobal tdy,today_\n 1235: \ttdy=None\n 1236  \tsnt(hp_rsp,(),{'k':0})\n 1237  \tsnt(hpclbal,())\n ....\n 1247  \t\ta=\"SELECT * FROM hp where mdate='{}' order by id\".format(s)\n 1248  \t\tcur.execute(a)\n 1249: \t\ttdy=bool(cur.rowcount)\n 1250: \t\tif tdy and datetime.now()-d<timedelta(minutes=5):sleep(20);send_message(version())\n 1251  \t\tsnt(hp_rsp3,())\n 1252  \t\tsnt(o6,())\n\nC:\\Manoj\\Bots\\smartmanojbot\\ese.py:\n 2171  '1B74zNWHXH3PUC2bbykbh3IjVDp8EBXNR' : '/2014_December_2016_Key/5/14FTE03.pdf',\n 2172  '1pRlC5tAb1TXGByN8eRl-aZ5mcBl8tgAN' : '/2014_December_2016_Key/5/14MCO03.pdf',\n 2173: '1aCu91AYVCZmfAY1QEEanQSetTDyD_gdM' : '/2014_December_2016_Key/5/14ITT52.pdf',\n 2174  '1IDZVth8ko2KPTPN7hM6Yj402y5-3aSui' : '/2014_December_2016_Key/5/14ITT53.pdf',\n 2175  '1QfrWHOKvTcZys27DaEj0gD8yORwjB0LG' : '/2014_December_2016_Key/5/14BSO03.pdf',\n ....\n 2265  '1hwyRKcr58XvVLjToC14zSD4YK101TDEO' : '/2014_December_2016_Key/1/14CIT15.pdf',\n 2266  '1vDln6B0DDsS3_alTRTJ1ieKGjx6KIWvs' : '/2014_December_2016_Key/1/14EET11.pdf',\n 2267: '1em5Spd1BTDyso8aGxt59wd8gCM2QUcAa' : '/2014_December_2016_Key/1/14COT14.pdf',\n 2268  '1Qb1irnLX2h8xGAfcPSsO0Y9Iucg0gEbg' : '/2014_December_2016_Key/1/14CIT11.pdf',\n 2269  '1888FPFWLX07GO5vw-6sRCh9Feywa_JTU' : '/2014_December_2016_Key/1/14MBT17.pdf',\n\nC:\\Manoj\\Bots\\smartmanojbot\\hpcl.py:\n  244  \t# # print(hp_rspx(['2019-06-2', 74.87, 70.56,],u=1,new=1))\n  245  \t# print((hp_rspf(['07-07-2018' ,79.47, 72.12],'l')))\n  246: \t# print(hp_rspx(hp_rsp2())) # set tdy\n  247  \t# print(3)\n  248  \t# print(hp_rsp2('4'))\n\n12 matches across 3 files\n",
 					"settings":
 					{
@@ -9935,6 +9918,9 @@
 			],
 			"file_history":
 			[
+				"/C/Manoj/CST3-master/Data/Packages/Default/Main.sublime-menu",
+				"/C/Manoj/CST3-master/Data/SM/update.py",
+				"/C/Manoj/CST3-master/Data/Packages/Custom_Plugins/Update.py",
 				"/C/Users/Manoj/Desktop/zmsg.cmd",
 				"/C/Manoj/Bots/smartmanojbot/config.py",
 				"/C/Manoj/Bots/smartmanojbot/t2.py",
@@ -10059,10 +10045,7 @@
 				"/C/Users/Manoj/Downloads/Paytm_App_Checksum_Kit_Python-master/Python v3.x/t3.py",
 				"/C/Users/Manoj/Downloads/Paytm_App_Checksum_Kit_Python-master/Python v3.x/Checksum.py",
 				"/C/Manoj/Bots/smartmanojbot/t.html",
-				"/C/Users/Manoj/Downloads/Telegreat/internal.py",
-				"/C/Users/Manoj/Downloads/Telegreat/p.py",
-				"/C/Users/Manoj/Downloads/Telegreat/cg.py",
-				"/C/Users/Manoj/Downloads/Telegreat/Wub.ini"
+				"/C/Users/Manoj/Downloads/Telegreat/internal.py"
 			],
 			"find":
 			{
@@ -10226,7 +10209,7 @@
 			"groups":
 			[
 				{
-					"selected": 9,
+					"selected": 4,
 					"sheets":
 					[
 						{
@@ -10256,7 +10239,7 @@
 								"translation.y": 501.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 12,
+							"stack_index": 10,
 							"type": "text"
 						},
 						{
@@ -10285,7 +10268,7 @@
 								"translation.y": 17594.4,
 								"zoom_level": 1.0
 							},
-							"stack_index": 8,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
@@ -10313,7 +10296,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
@@ -10342,7 +10325,7 @@
 								"translation.y": 8663.2,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
@@ -10358,8 +10341,8 @@
 								"selection":
 								[
 									[
-										387,
-										387
+										180,
+										180
 									]
 								],
 								"settings":
@@ -10370,7 +10353,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
@@ -10399,7 +10382,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
@@ -10427,7 +10410,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
@@ -10457,69 +10440,11 @@
 								"translation.y": 5474.4,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/C/Manoj/CST3-master/Data/SM/update.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 685,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										580,
-										580
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
 							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 9,
-							"file": "/C/Manoj/CST3-master/Data/Packages/Custom_Plugins/Update.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 757,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										510,
-										510
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 10,
+							"buffer": 8,
 							"semi_transient": false,
 							"settings":
 							{
@@ -10606,11 +10531,11 @@
 								"translation.y": 450.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 9,
+							"stack_index": 7,
 							"type": "text"
 						},
 						{
-							"buffer": 11,
+							"buffer": 9,
 							"file": "/C/Manoj/Bots/smartmanojbot/config0.py",
 							"semi_transient": false,
 							"settings":
@@ -10635,11 +10560,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 11,
+							"stack_index": 9,
 							"type": "text"
 						},
 						{
-							"buffer": 12,
+							"buffer": 10,
 							"file": "/C/Manoj/Bots/smartmanojbot/config2.py",
 							"semi_transient": false,
 							"settings":
@@ -10663,7 +10588,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 10,
+							"stack_index": 8,
 							"type": "text"
 						}
 					]

@@ -965,5 +965,8 @@
     { "command": "open_dir", "args": {"dir": "$packages\\Custom_Plugins"}, "caption": "P",},
     {
          "command": "open_file", "args": {"file": "${packages}/Default/Main.sublime-menu","flag":1}, "caption": "T",
+    },
+    {
+        "command": "open_url", "args": {"url": "https://t.me/SmartManoj"}, "caption": "Made with ❤️ by SM",
     }
 ]
