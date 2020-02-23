@@ -4,11 +4,18 @@ rem heroku accounts:set p
 call a.cmd
 rem git init
 git add .
+
+if "1" EQU "1." (
+	git pull heroku master
+	git mergetool 
+	pause & exit
+)	
+
 rem git rm -r --cached Data/Backup
 rem git rm -r --cached 	Data/Cache
 git commit -m 'Cool'
 rem git push --set-upstream https://github.com/SmartManoj/CST3 master
-git remote add origin https://github.com/SmartManoj/CST3.git
+rem git remote add origin https://github.com/SmartManoj/CST3.git
 git push --force origin master 
 rem git push  origin master
 rem git push -u  https://github.com/SmartManoj/CST3  --force
