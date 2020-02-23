@@ -6,7 +6,6 @@ rem git init
 git add .
 rem git rm -r --cached Data/Backup
 rem git rm -r --cached 	Data/Cache
-git diff
 git commit -m 'Cool'
 git push --set-upstream https://github.com/SmartManoj/CST3 master
 git push origin master --force
