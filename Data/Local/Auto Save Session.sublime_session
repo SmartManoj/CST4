@@ -8032,7 +8032,7 @@
 					"file": "/C/Manoj/CST3-master/Data/SM/cst3.cmd",
 					"settings":
 					{
-						"buffer_size": 449,
+						"buffer_size": 445,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -10389,15 +10389,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 449,
+								"buffer_size": 445,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										256,
-										256
+										253,
+										253
 									]
 								],
 								"settings":
