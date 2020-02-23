@@ -47,7 +47,7 @@
 		"/F/Prog"
 	],
 	"last_version": 3211,
-	"last_window_id": 205,
+	"last_window_id": 206,
 	"log_indexing": false,
 	"settings":
 	{
@@ -59,76 +59,84 @@
 				"selected_items":
 				[
 					[
-						"REQU",
-						"request"
+						"auto",
+						"auto3\tmodule"
 					],
 					[
-						"dum",
-						"dumps\tfunction"
-					],
-					[
-						"mer",
-						"MERCHANT_KEY"
-					],
-					[
-						"std",
-						"stdout\tstatement"
-					],
-					[
-						"sup",
-						"subprocess\tmodule"
-					],
-					[
-						"pi",
-						"pi\tpip"
-					],
-					[
-						"lo",
-						"load_workbook\tfunction"
-					],
-					[
-						"ema",
-						"email_password\tstatement"
-					],
-					[
-						"pyp",
-						"pyperclip\tmodule"
-					],
-					[
-						"loca",
-						"locateAll\tfunction"
+						"er",
+						"errf\tstatement"
 					],
 					[
 						"im",
 						"import\tkeyword"
 					],
 					[
-						"R",
-						"Rooster_Tech_Bot"
+						"ke",
+						"kec_sname"
 					],
 					[
-						"fo",
-						"font-size\tproperty"
+						"Thread",
+						"threading\tmodule"
 					],
 					[
-						"os",
-						"osName\tparam"
+						"last",
+						"lastmsg"
 					],
 					[
-						"q",
-						"queue"
+						"el",
+						"elif"
 					],
 					[
-						"awb",
-						"awb_072"
+						"std",
+						"stdout\tstatement"
 					],
 					[
-						"To",
-						"TOKEN"
+						"hea",
+						"headers\tstatement"
 					],
 					[
-						"sh",
-						"schd"
+						"re",
+						"requests\tmodule"
+					],
+					[
+						"time",
+						"timeout\tparam"
+					],
+					[
+						"Err",
+						"error_msg"
+					],
+					[
+						"spli",
+						"splitlines\tfunction"
+					],
+					[
+						"tt",
+						"tthon\tmodule"
+					],
+					[
+						"is",
+						"is_admin"
+					],
+					[
+						"P",
+						"Perundurai"
+					],
+					[
+						"spl",
+						"splitlines\tfunction"
+					],
+					[
+						"row",
+						"row_cells\tstatement"
+					],
+					[
+						"pi",
+						"pi\tpip"
+					],
+					[
+						"res",
+						"response\tstatement"
 					],
 					[
 						"aw",
@@ -155,12 +163,12 @@
 						"split\tfunction"
 					],
 					[
-						"re",
-						"response\tstatement"
-					],
-					[
 						"in",
 						"instance"
+					],
+					[
+						"q",
+						"querySelector"
 					],
 					[
 						"for",
@@ -173,10 +181,6 @@
 					[
 						"send",
 						"send_message"
-					],
-					[
-						"tt",
-						"ttru"
 					],
 					[
 						"tc",
@@ -263,16 +267,8 @@
 						"request"
 					],
 					[
-						"spl",
-						"split"
-					],
-					[
 						"tid",
 						"tidMan"
-					],
-					[
-						"res",
-						"results"
 					],
 					[
 						"eve",
@@ -379,10 +375,6 @@
 						"doc_ref"
 					],
 					[
-						"time",
-						"timedelta"
-					],
-					[
 						"tod",
 						"today_dt"
 					],
@@ -409,10 +401,6 @@
 					[
 						"str",
 						"strip"
-					],
-					[
-						"is",
-						"isdigit"
 					],
 					[
 						"tex",
@@ -483,10 +471,6 @@
 						"kec_bg"
 					],
 					[
-						"ke",
-						"kec_bg3"
-					],
-					[
 						"msg",
 						"msgf"
 					],
@@ -535,10 +519,6 @@
 						"Nandhini"
 					],
 					[
-						"P",
-						"PROJ"
-					],
-					[
 						"text",
 						"text2"
 					],
@@ -569,6 +549,26 @@
 					[
 						"dob",
 						"dobl3"
+					],
+					[
+						"gend",
+						"genderize"
+					],
+					[
+						"HEL",
+						"help_"
+					],
+					[
+						"RET",
+						"return"
+					],
+					[
+						"def",
+						"defaultdict"
+					],
+					[
+						"14CS",
+						"14csl260"
 					]
 				]
 			},
@@ -595,42 +595,6 @@
 						[
 							"Packages/User/Build/mPy.sublime-build",
 							"cmd"
-						]
-					],
-					[
-						"Packages/User/Build/mPy.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
-							"Anaconda Python Builder",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						],
-						[
-							"Packages/User/Build/mPy.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mPy.sublime-build",
-							"cmd"
-						],
-						[
-							"Packages/User/Build/mSsql.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mSsql.sublime-build",
-							"Sqlite"
 						]
 					],
 					[
@@ -1701,22 +1665,6 @@
 				[
 					[
 						[
-							"Packages/User/Build/mWeb.sublime-build",
-							""
-						],
-						[
-							"Packages/User/Build/mWeb.sublime-build",
-							"cmd"
-						]
-					],
-					[
-						"Packages/User/Build/mWeb.sublime-build",
-						""
-					]
-				],
-				[
-					[
-						[
 							"Packages/User/mBat.sublime-build",
 							""
 						],
@@ -1875,40 +1823,24 @@
 				"selected_items":
 				[
 					[
-						"insta",
-						"Package Control: Install Package"
+						"de",
+						"File: Delete"
 					],
 					[
 						"rn",
 						"File: Rename"
 					],
 					[
-						"mo",
-						"File: Move"
+						"un",
+						"Permute Lines: Unique"
 					],
 					[
-						"re",
-						"File: Rename"
+						"rev",
+						"Permute Lines: Reverse"
 					],
 					[
-						"ren",
-						"File: Rename"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
-					],
-					[
-						"de",
-						"File: Delete"
-					],
-					[
-						"di",
-						"Package Control: Disable Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
+						"du",
+						"File: Duplicate"
 					],
 					[
 						"dis",
@@ -1919,6 +1851,10 @@
 						"CodeFormatter: Format Code1"
 					],
 					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
 						"prett",
 						"HTMLPrettify"
 					],
@@ -1927,12 +1863,24 @@
 						"File: Duplicate"
 					],
 					[
-						"du",
-						"File: Duplicate"
+						"re",
+						"File: Rename"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
 					],
 					[
 						"list",
 						"Package Control: List Packages"
+					],
+					[
+						"di",
+						"Package Control: Disable Package"
 					],
 					[
 						"instal",
@@ -1941,10 +1889,6 @@
 					[
 						"",
 						"Anaconda: McCabe complexity check"
-					],
-					[
-						"rev",
-						"Permute Lines: Reverse"
 					],
 					[
 						"htm",
@@ -2015,6 +1959,10 @@
 						"Reverse characters in selected section"
 					],
 					[
+						"ren",
+						"File: Rename"
+					],
+					[
 						"ran",
 						"Text Pastry: Generate a list of numbers from 1 to 100"
 					],
@@ -2064,10 +2012,6 @@
 					],
 					[
 						"u",
-						"Permute Lines: Unique"
-					],
-					[
-						"un",
 						"Permute Lines: Unique"
 					],
 					[
@@ -2386,7 +2330,6 @@
 				"height": 352.0,
 				"history":
 				[
-					"2",
 					"view.run_command('move',args={\"by\": \"words\", \"forward\": False})",
 					"view.run_command('move',args={\"by\": \"words\", \"forward\": false})",
 					"view.run_command('move')",
@@ -2497,144 +2440,145 @@
 			},
 			"file_history":
 			[
-				"/C/Manoj/r/roostertech6/templates/t.html",
-				"/C/Users/Manoj/Downloads/Telegreat/card (2)",
-				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/site-packages/Crypto/Util/_raw_api.py",
-				"/C/Manoj/r/roostertech6/templates/head.html",
-				"/C/Manoj/r/roostertech6/gt.bat",
-				"/C/Manoj/r/roostertech6/app.py",
-				"/C/Manoj/r/roostertech6/l.bat",
-				"/C/Users/Manoj/Downloads/materialize-stepper/dist/index.html",
-				"/C/Manoj/r/roostertech6/Paytm_App_Checksum_Kit_Python-/Python v3.x/t3.py",
-				"/C/Manoj/r/roostertech6/Paytm_App_Checksum_Kit_Python-/Python v3.x/Checksum.py",
-				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/site-packages/Crypto/Cipher/_mode_cbc.py",
-				"/C/Users/Manoj/Desktop/a.ahk",
-				"/C/Users/Manoj/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
-				"/C/Manoj/r/roostertech6/Paytm_App_Checksum_Kit_Python-/Python v3.x/verifychecksum.cgi",
-				"/C/Manoj/r/roostertech6/templates/sass/components/b.cmd",
-				"/C/Users/Manoj/Downloads/materialize-stepper/dist/Roles",
-				"/C/Manoj/r/roostertech6/templates/header.html",
-				"/C/Manoj/r/roostertech6/templates/t3.html",
-				"/C/Manoj/r/roostertech6/test.txt",
-				"/C/Users/Manoj/Downloads/Paytm_App_Checksum_Kit_Python-/Python v3.x/t3.py",
-				"/C/Users/Manoj/Downloads/Paytm_App_Checksum_Kit_Python-/Python v3.x/Checksum.py",
-				"/C/Users/Manoj/Downloads/Telegreat/t3.py",
-				"/C/Manoj/r/roostertech6/templates/js/materialize.min.js",
-				"/C/Manoj/r/msg.py",
-				"/C/Manoj/r/gt.cmd",
-				"/C/Manoj/Rooster/roostertech6/p.py",
-				"/C/Users/Manoj/Downloads/Compressed/Emotion-detection-master/Tensorflow/emotions.py",
-				"/C/Manoj/Rooster/roostertech6/vlc.py",
-				"/C/Manoj/Rooster/WSRv3.py",
-				"/C/Manoj/z/My3M/01.mp3",
-				"/C/Manoj/Rooster/roostertech6/app.py",
-				"/C/Users/Manoj/Downloads/Telegreat/Dad/Manchester/hpxl-man.py",
-				"/C/Manoj/Rooster/roostertech6/t.py",
-				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/ctypes/__init__.py",
-				"/C/Users/Manoj/AppData/Local/Programs/Python/Python37/lib/site-packages/mpyg321/mpyg321.py",
-				"/C/Users/Manoj/Downloads/Telegreat/fraud_detection.py",
-				"/C/Users/Manoj/Downloads/Telegreat/neural-network.py",
-				"/C/Users/Manoj/Downloads/Telegreat/Credit_Card_Transaction_Fraud_Detection_using_CNN.py",
-				"/C/Users/Manoj/AppData/Local/Programs/Python/Python37/lib/site-packages/pandas_ml/skaccessors/preprocessing.py",
-				"/C/Manoj/Rooster/roostertech6/t2.py",
-				"/C/Manoj/Rooster/roostertech6/gt.bat",
-				"/C/Manoj/Rooster/roostertech6/old/b.cmd",
-				"/C/Users/Manoj/Downloads/Compressed/SmartPy-master/setup.py",
-				"/C/Users/Manoj/Downloads/Telegreat/Dad/xl.py",
-				"/C/Manoj/Rooster/roostertech6/t2",
-				"/C/Manoj/Rooster/roostertech6/templates/admin/base.html",
-				"/C/Manoj/Rooster/roostertech6/form_filler.py",
-				"/C/Manoj/Rooster/roostertech6/.gitignore",
-				"/C/Users/Manoj/Downloads/Telegreat/send_email (2).py",
-				"/C/Users/Manoj/Downloads/Telegreat/send_email.py",
-				"/C/Manoj/Rooster/roostertech6/requirements.txt",
-				"/C/Manoj/Rooster/roostertech6/templates/t.html",
-				"/C/Manoj/Rooster/roostertech6/l.bat",
-				"/C/Manoj/Rooster/roostertech6/templates/t4.html",
-				"/C/Manoj/Rooster/roostertech6/runtime.txt",
-				"/C/Manoj/Rooster/roostertech6/config.py",
-				"/C/Manoj/Rooster/roostertech6/templates/index.html",
-				"/C/Manoj/Rooster/roostertech6/templates/admin/index.html",
-				"/C/Manoj/Rooster/roostertech6/old/app.py",
-				"/C/Manoj/Rooster/roostertech6/dom.cmd",
-				"/C/Manoj/Rooster/roostertech6/templates/t5.html",
-				"/C/Manoj/Rooster/roostertech7/dom.cmd",
-				"/C/Manoj/Rooster/roostertech7/view.py",
-				"/C/Manoj/Rooster/roostertech7/gt.bat",
-				"/C/Users/Manoj/Downloads/Telegreat/db.py",
-				"/C/Manoj/CST3-master/Data/SM/start.bat",
-				"/C/Manoj/Rooster/dronabot98/t.py",
-				"/C/Users/Manoj/Desktop/main.py",
-				"/C/Manoj/Rooster/dronabot98/tg.py",
-				"/C/Manoj/Rooster/dronabot98/app.py",
-				"/C/Manoj/Rooster/dronabot98/awb.py",
-				"/C/Manoj/Rooster/r7.cmd",
-				"/C/Users/Manoj/Downloads/Telegreat/mb.txt",
-				"/C/Manoj/Rooster/i",
-				"/C/Manoj/Rooster/dronabot98/mail.py",
-				"/C/Users/Manoj/Downloads/Telegreat/h.txt",
-				"/C/Users/Manoj/Downloads/Telegreat/broadcast.py",
-				"/C/Users/Manoj/Downloads/Telegreat/a.ahk",
-				"/C/Manoj/Rooster/dronabot98/appu.py",
-				"/C/Manoj/CST3-master/Data/Packages/User/Build/mBat.sublime-build",
-				"/C/Manoj/z/My3M/swe",
-				"/C/Manoj/Rooster/dronabot98/config.py",
-				"/C/Users/Manoj/Downloads/Telegreat/ora2pg.conf",
-				"/C/Manoj/Rooster/dronabot98/gt.cmd",
-				"/C/Manoj/Rooster/dronabot98/b.cmd",
-				"/C/Users/Manoj/Downloads/RDPWrap-v1.6.2/install.bat",
-				"/C/Users/Manoj/Desktop/a.bat",
-				"/C/Manoj/Rooster/dronabot98/adb.py",
-				"/C/Users/Manoj/Downloads/Telegreat/Rooster/WSRv3.py",
-				"/C/Manoj/Rooster/dronabot98/t2.py",
-				"/C/Manoj/Rooster/dronabot98/h.html",
-				"/C/Manoj/Rooster/dronabot98/runtime.txt",
-				"/C/Users/Manoj/Downloads/Telegreat/t4.html",
-				"/C/Manoj/Rooster/dronabot98/sh.py",
-				"/C/CST3-master/Data/SM/Samples/hello_st3.py",
-				"/C/Manoj/Rooster/dronabot98/logs.py",
-				"/C/Manoj/Rooster/dronabot98/l.bat",
-				"/C/Manoj/Rooster/dronabot98/dom.cmd",
-				"/C/Users/Manoj/Downloads/Telegreat/encode_letter.py",
-				"/C/Users/Manoj/Downloads/Telegreat/Wub.ini",
-				"/C/CST3-master/Data/Packages/User/SublimeInput.sublime-settings",
-				"/C/Users/Manoj/Downloads/Telegreat/RES_2019_ODD_SARA.py",
-				"/C/Transcendence.2014.1080p.BluRay.x264.YIFY.srt",
-				"/C/Users/Manoj/Downloads/Telegreat/16CS_2019_ODD_SARA.csv",
-				"/C/CST3-master/Data/Packages/User/View In Browser.sublime-settings",
-				"/C/CST3-master/Data/Packages/View In Browser/ViewInBrowserCommand.py",
+				"/C/Manoj/Bots/smartmanojbot/a.ahk",
+				"/C/Manoj/CST3-master/Data/Packages/Default/Main.sublime-menu",
+				"/C/Manoj/CST3-master/Data/SM/update.py",
+				"/C/Manoj/CST3-master/Data/Packages/Custom_Plugins/Update.py",
+				"/C/Users/Manoj/Desktop/zmsg.cmd",
+				"/C/Manoj/Bots/smartmanojbot/config.py",
+				"/C/Manoj/Bots/smartmanojbot/t2.py",
+				"/C/Users/Manoj/Downloads/materialize-stepper/src/index.html",
+				"/C/Users/Manoj/Downloads/materialize-stepper/README.markdown",
+				"/C/Users/Manoj/Downloads/materialize-stepper/dist/script.js",
+				"/C/Manoj/Bots/smartmanojbot/app.py",
+				"/C/Manoj/Bots/smartmanojbot/auto2.py",
+				"/C/Manoj/Bots/smartmanojbot/tele.py",
+				"/C/Manoj/Bots/smartmanojbot/auto3.py",
+				"/C/Manoj/Bots/smartmanojbot/t.py",
+				"/C/Manoj/Bots/smartmanojbot/gt.cmd",
 				"/C/Manoj/Bots/smartmanojbot/l.bat",
+				"/C/Users/Manoj/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
+				"/C/Users/Manoj/Downloads/materialize-stepper.zip",
+				"/C/Users/Manoj/Desktop/a.ahk",
+				"/C/Users/Manoj/Downloads/Telegreat/RES_2019_ODD_SARA (2).py",
+				"/C/Users/Manoj/Downloads/Telegreat/Dad/GP/hpxl-gp.py",
+				"/C/Manoj/Bots/smartmanojbot/cf.py",
+				"/C/Manoj/Bots/smartmanojbot/error",
+				"/C/Users/Manoj/Downloads/Telegreat/t (4).py",
+				"/C/Users/Manoj/Downloads/Telegreat/t (3).py",
+				"/C/Manoj/Bots/smartmanojbot/hp.py",
+				"/C/Manoj/Bots/smartmanojbot/hpcl.py",
+				"/C/Users/Manoj/Downloads/Telegreat/NAD ID AADHAAR Number Register Number.txt",
+				"/C/Manoj/Bots/smartmanojbot/templates/gtcheck.html",
+				"/C/Manoj/Bots/smartmanojbot/kec_rn.py",
+				"/C/Manoj/Bots/smartmanojbot/fac.py",
+				"/C/Manoj/Bots/smartmanojbot/fac2.py",
+				"/C/Manoj/Bots/smartmanojbot/cg.py",
+				"/C/Manoj/Bots/smartmanojbot/findname.py",
+				"/C/Manoj/Bots/smartmanojbot/find_dob.py",
+				"/C/Manoj/Bots/smartmanojbot/vg.py",
+				"/C/Manoj/Bots/smartmanojbot/doblm.py",
+				"/C/Manoj/Bots/smartmanojbot/get_gpa_csv.py",
+				"/C/Manoj/Bots/smartmanojbot/zj2",
+				"/C/Manoj/Bots/smartmanojbot/zj",
+				"/C/Manoj/Bots/smartmanojbot/vg_data.py",
+				"/C/Manoj/Bots/smartmanojbot/vec_rn.py",
+				"/C/Manoj/Bots/smartmanojbot/way2.py",
+				"/C/Manoj/Bots/smartmanojbot/way2.pickle",
+				"/C/Manoj/Bots/smartmanojbot/tthon.py",
+				"/C/Users/Manoj/Downloads/Telegreat/Dad/Sivaram/hpxl-siv.py",
+				"/C/Users/Manoj/Downloads/Telegreat/Dad/Sum2/sum2.py",
+				"/C/Users/Manoj/Downloads/Telegreat/Dad/xl.py",
+				"/C/Users/Manoj/Downloads/Telegreat/Dad/Manchester/hpxl-man.py",
+				"/C/Manoj/Bots/smartmanojbot/stele.py",
+				"/C/Users/Manoj/Downloads/Telegreat/19EI_2019_ODD_SARA.csv",
+				"/C/Users/Manoj/Downloads/Telegreat/18CS_2019_ODD_SARA.csv",
+				"/C/Users/Manoj/Desktop/images.png",
+				"/C/Users/Manoj/Downloads/Telegreat/RES_2019_ODD_SARA (2) (3).py",
+				"/C/Users/Manoj/Downloads/Telegreat/RES_2019_ODD_SARA.py",
+				"/C/Manoj/Bots/smartmanojbot/zzd",
+				"/C/Manoj/Bots/smartmanojbot/dobl.py",
+				"/C/Manoj/Bots/smartmanojbot/app1.py",
+				"/C/Manoj/Bots/smartmanojbot/dobl2.py",
+				"/C/Users/Manoj/Downloads/Telegreat/card",
+				"/C/Users/Manoj/Downloads/Telegreat/Dad/Ganesh/hpxl-gan.py",
+				"/C/Manoj/Bots/smartmanojbot/b.cmd",
+				"/C/Manoj/Bots/smartmanojbot/n2w.py",
+				"/C/Users/Manoj/Downloads/q.xlsx",
+				"/C/Manoj/Rooster/TSv6.py",
+				"/C/Manoj/Rooster/WSRv3.py",
+				"/C/Manoj/Bots/smartmanojbot/t.cmd",
+				"/C/Manoj/Bots/smartmanojbot/z2.py",
+				"/C/Manoj/Bots/smartmanojbot/z",
+				"/C/Manoj/Bots/smartmanojbot/z2",
+				"/C/Manoj/Bots/smartmanojbot/config2.py",
+				"/C/Manoj/Bots/smartmanojbot/t3.py",
+				"/C/Manoj/Bots/smartmanojbot/bot.py",
+				"/C/Manoj/Bots/smartmanojbot/config0.py",
+				"/C/Manoj/Bots/smartmanojbot/t8.py",
+				"/C/Manoj/Bots/smartmanojbot/t4.py",
 				"/C/Manoj/Bots/smartmanojbot/dom.cmd",
-				"/C/Manoj/Rooster/dronabot98/db.py",
-				"/C/Users/Manoj/Downloads/Telegreat/htz.py",
-				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/site-packages/telegram/bot.py",
-				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/Lib/site-packages/telegram/update.py",
-				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/Lib/site-packages/telegram/message.py",
-				"/C/Users/Manoj/Downloads/Telegreat/t2.html",
-				"/C/Manoj/y/p.py",
-				"/C/CST3-master/Data/SM/start.bat",
-				"/C/CST3-master/Data/Packages/Custom_Plugins/Example.py",
-				"/C/Users/Manoj/Downloads/Telegreat/eawb.html",
-				"/C/CST3-master/Data/Packages/Custom_Plugins/Test.py",
-				"/C/CST3-master/Data/SM/cst3.cmd",
-				"/C/Manoj/Rooster/dronabot98/requirements.txt",
-				"/C/CST3-master/Data/Packages/Custom_Plugins/Update.py",
-				"/C/CST3-master/Data/SM/Samples/hello_st3.cs",
-				"/C/CST3-master/Data/SM/update.py",
+				"/C/Windows/System32/drivers/etc/services",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Manoj/Bots/smartmanojbot/db.py",
+				"/C/Manoj/Bots/smartmanojbot/zd",
+				"/C/Manoj/Bots/smartmanojbot/vg_dob.py",
+				"/C/Manoj/Bots/smartmanojbot/zd2",
+				"/C/Windows/System32/drivers/etc/protocol",
+				"/C/Windows/System32/drivers/etc/hosts.ics",
+				"/C/Windows/System32/drivers/etc/lmhosts.sam",
+				"/C/Windows/System32/drivers/etc/networks",
+				"/C/Manoj/Rooster/dronabot98/t.py",
+				"/C/Manoj/Bots/smartmanojbot/test.txt",
+				"/C/Users/Manoj/Downloads/Telegreat/t.py",
+				"/C/Manoj/Rooster/dronabot98/pwd.cmd",
+				"/C/Users/Manoj/Downloads/Telegreat/t (2).py",
+				"/C/Manoj/Rooster/z/RR503_ManojkumarP_WSR_25JAN2020.xlsx",
+				"/C/Users/Manoj/Desktop/photo_2019-10-04_23-59-54.jpg",
+				"/C/Users/Manoj/Desktop/a.bat",
+				"/C/Manoj/Bots/smartmanojbot/t.ps",
+				"/C/Users/Manoj/Downloads/Telegreat/db.py",
+				"/C/Users/Manoj/Downloads/Telegreat/Alex in Wonderland 2019 HDAVC@TnDMovies.srt",
+				"/C/Manoj/Bots/smartmanojbot/tidlist.py",
+				"/C/Manoj/Bots/smartmanojbot/broadcast.py",
+				"/C/Manoj/Bots/smartmanojbot/broadcast2.py",
+				"/C/Manoj/Bots/smartmanojbot/pro.py",
+				"/C/Users/Manoj/Desktop/main.py",
+				"/C/Manoj/Bots/smartmanojbot/tc.py",
+				"/C/Manoj/Bots/smartmanojbot/tt.py",
+				"/C/Users/Manoj/Downloads/Telegreat/a.py",
+				"/C/Users/Manoj/Downloads/Telegreat/index (4).py",
+				"/C/Users/Manoj/Downloads/Telegreat/test.py",
+				"/C/Users/Manoj/Downloads/Telegreat/adb-setup-1.3.exe",
+				"/C/Users/Manoj/Downloads/Telegreat/p (3).py",
+				"/C/Manoj/v/p.py",
 				"/C/Manoj/Rooster/dronabot98/p.py",
-				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/site-packages/telegram/utils/request.py",
-				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/threading.py",
-				"/C/Manoj/index (2).py"
+				"/C/Manoj/Rooster/dronabot98/t2.py",
+				"/C/Users/Manoj/Downloads/Telegreat/index (5).py",
+				"/C/Users/Manoj/Desktop/malware.csv",
+				"/C/Users/Manoj/Downloads/Telegreat/TSv6.py",
+				"/C/Users/Manoj/Downloads/Telegreat/Rooster/TSv6.py",
+				"/C/Users/Manoj/Downloads/Telegreat/Rooster/WSRv3.py",
+				"/C/Manoj/Bots/smartmanojbot/runtime.txt",
+				"/C/Users/Manoj/Downloads/Telegreat/p (2).py",
+				"/C/Manoj/t.py",
+				"/C/Users/Manoj/Downloads/Telegreat/headless_handler.py",
+				"/C/Users/Manoj/Desktop/a.bat.txt",
+				"/C/Users/Manoj/Downloads/Paytm_App_Checksum_Kit_Python-master/Python v3.x/t3.py",
+				"/C/Users/Manoj/Downloads/Paytm_App_Checksum_Kit_Python-master/Python v3.x/Checksum.py",
+				"/C/Manoj/Bots/smartmanojbot/t.html",
+				"/C/Users/Manoj/Downloads/Telegreat/internal.py"
 			],
 			"find":
 			{
-				"height": 46.0
+				"height": 47.2
 			},
 			"find_in_files":
 			{
-				"height": 319.0,
+				"height": 368.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -2642,26 +2586,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"supp",
+					"Q",
+					"zv",
+					"tdy",
+					"td",
+					"tdy",
+					"wher",
+					"-",
+					"- ",
+					"account",
+					"awe",
+					"criticize",
+					"cr",
+					"send",
+					"'\\n'",
+					"\\n",
+					"rate",
+					"'ee",
+					"\"ee",
+					"ee",
+					"criti",
+					"'ee",
+					"'e",
+					"'ee",
+					"criticize",
+					"lastmsg",
+					"criti",
+					"still",
+					"sti",
+					"inline",
+					"rk",
 					"print",
-					"import",
-					"request",
-					", \\(",
-					",",
-					"verify_checksum",
-					"__id_generator__",
-					"generate_checksum",
-					"__get_param_string__",
-					"b'",
-					"import",
-					"\n    ",
-					"__encode__",
-					"@@@@&&&&####$$$$",
-					"zvv",
-					"Printer",
-					"1.0.0",
-					"wh",
-					"if wh",
-					"if"
+					"tele",
+					"lst",
+					"auto3",
+					"to_del",
+					"'ok",
+					"ok",
+					"okie",
+					"\\.",
+					"tele_lib()",
+					"tele",
+					" config ",
+					"config ",
+					"config",
+					"tele_lib",
+					"19",
+					"err",
+					"cp",
+					"hbd",
+					"sleep",
+					"17CS",
+					"15CS",
+					"16CS",
+					"176S",
+					"17CS",
+					"15CSR094",
+					"94",
+					"15CSR032",
+					"15CSR094",
+					"dob",
+					"kongu.edu",
+					"lastmsg",
+					"fgh",
+					"username",
+					"Username",
+					"username",
+					"happ",
+					"fgh",
+					"name",
+					"fgh",
+					"name",
+					"NAME",
+					"name",
+					"NAME",
+					"name",
+					"NAME",
+					"name",
+					"fgh",
+					"critize",
+					"lastmsg",
+					"last",
+					"text",
+					"rate",
+					"cg",
+					"wish",
+					"12",
+					"hp_stock",
+					"18ITR09",
+					"18itr09",
+					"18itr1",
+					"18itr12",
+					"data2",
+					"SARA",
+					"client",
+					"telegra",
+					"telec",
+					"os",
+					"ttru",
+					"before",
+					"tele",
+					"file",
+					"roll",
+					"http://smartmanoj.pythonanywhere.com/list",
+					"vcz",
+					"enter",
+					"tid",
+					"st:",
+					"st",
+					"import Tele",
+					"TelegramClient",
+					"client",
+					"cli",
+					"tele",
+					"requests",
+					"alert",
+					"39",
+					"3",
+					"39",
+					"alert",
+					"18ITR031",
+					"invalid",
+					"18ITR031",
+					"18ITR",
+					"18ITR31",
+					"ITR",
+					"ITR31",
+					"18ITR039"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -2682,7 +2734,7 @@
 			},
 			"input":
 			{
-				"height": 109.0
+				"height": 128.0
 			},
 			"menu_visible": true,
 			"output.SQLExec":
@@ -2699,7 +2751,7 @@
 			},
 			"output.exec":
 			{
-				"height": 298.0
+				"height": 274.0
 			},
 			"output.find_results":
 			{
@@ -2720,7 +2772,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 86.4
+				"height": 84.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2730,192 +2782,148 @@
 				"selected_items":
 				[
 					[
-						"gt",
-						"gt.bat"
-					],
-					[
-						"app",
-						"app.py"
-					],
-					[
-						"t3",
-						"paytm\\t3.py"
-					],
-					[
-						"l",
-						"l.bat"
-					],
-					[
-						"gtr",
-						"templates\\js\\materialize-plugin\\transitions.js"
-					],
-					[
-						"t.",
-						"templates\\t.html"
-					],
-					[
-						"t.h",
-						"templates\\t.html"
-					],
-					[
-						"hea",
-						"templates\\head.html"
-					],
-					[
-						"ma",
-						"templates\\js\\materialize.min.js"
-					],
-					[
-						"he",
-						"templates\\header.html"
-					],
-					[
-						"te",
-						"test.txt"
-					],
-					[
 						"a",
-						"app.py"
-					],
-					[
-						"",
-						"app.py"
-					],
-					[
-						"conf",
-						"config.py"
-					],
-					[
-						"vl",
-						"vlc.py"
-					],
-					[
-						"p",
-						"p.py"
-					],
-					[
-						"ap",
-						"app.py"
-					],
-					[
-						"t2",
-						"t2.py"
-					],
-					[
-						"t",
-						"t.py"
-					],
-					[
-						"b",
-						"old\\b.cmd"
-					],
-					[
-						"git",
-						".gitignore"
-					],
-					[
-						"fo",
-						"form_filler.py"
-					],
-					[
-						"co",
-						"config.py"
-					],
-					[
-						"f",
-						"form_filler.py"
-					],
-					[
-						"re",
-						"requirements.txt"
-					],
-					[
-						"run",
-						"runtime.txt"
-					],
-					[
-						"dom",
-						"dom.cmd"
+						"a.ahk"
 					],
 					[
 						"con",
 						"config.py"
 					],
 					[
-						"bas",
-						"templates\\admin\\base.html"
-					],
-					[
-						"ind",
-						"templates\\index.html"
-					],
-					[
-						"base",
-						"templates\\admin\\base.html"
-					],
-					[
-						"vi",
-						"view.py"
-					],
-					[
-						"tg",
-						"tg.py"
-					],
-					[
-						"b.",
+						"b",
 						"b.cmd"
 					],
 					[
-						"aw",
-						"awb.py"
+						"co",
+						"config.py"
 					],
 					[
-						"ht",
-						"h.html"
+						"conf",
+						"config2.py"
 					],
 					[
-						"gt\t",
+						"c",
+						"config.py"
+					],
+					[
+						"app",
+						"app.py"
+					],
+					[
+						"t",
+						"t2.py"
+					],
+					[
+						"t.p",
+						"t.py"
+					],
+					[
+						"au",
+						"auto3.py"
+					],
+					[
+						"g",
 						"gt.cmd"
 					],
 					[
-						"lo",
-						"logs.py"
+						"gt",
+						"gt.cmd"
 					],
 					[
-						"awb",
-						"awb.py"
+						"l",
+						"l.bat"
 					],
 					[
-						"db",
-						"db.py"
+						"tel",
+						"tele.py"
 					],
 					[
-						"sh",
-						"sh.py"
+						"aut",
+						"auto2.py"
 					],
 					[
-						"h",
-						"h.html"
+						"18",
+						"C:\\Users\\Manoj\\Downloads\\Telegreat\\18CS_2019_ODD_SARA.csv"
 					],
 					[
-						"s",
-						"sh.py"
+						"fin",
+						"find_dob.py"
 					],
 					[
-						"ru",
-						"runtime.txt"
+						"vg",
+						"vg.py"
 					],
 					[
-						"domm",
-						"dom.cmd"
+						"dob",
+						"find_dob.py"
 					],
 					[
-						"w",
-						"awb.py"
+						"find",
+						"find_dob.py"
 					],
 					[
-						"fe",
-						"fedex.py"
+						"rn",
+						"kec_rn.py"
+					],
+					[
+						"zd",
+						"zd"
+					],
+					[
+						"",
+						"find_dob.py"
+					],
+					[
+						"name",
+						"findname.py"
+					],
+					[
+						"do",
+						"dobl2.py"
+					],
+					[
+						"cg",
+						"cg.py"
+					],
+					[
+						"ste",
+						"stele.py"
+					],
+					[
+						"te",
+						"tele.py"
+					],
+					[
+						"ap",
+						"app.py"
+					],
+					[
+						"cn",
+						"config.py"
+					],
+					[
+						"st",
+						"stele.py"
+					],
+					[
+						"tg",
+						"templates\\gtcheck.html"
+					],
+					[
+						"kec",
+						"kec_rn.py"
+					],
+					[
+						"CG",
+						"cg.py"
+					],
+					[
+						"fac",
+						"fac2.py"
+					],
+					[
+						"fa",
+						"fac.py"
 					],
 					[
 						"hpc",
@@ -2923,67 +2931,179 @@
 					],
 					[
 						"hp",
-						"hpcl.py"
+						"hp.py"
 					],
 					[
-						"zd",
-						"zd"
+						"er",
+						"error"
 					],
 					[
-						"t.p",
-						"t.py"
-					],
-					[
-						"tel",
-						"telegram.py"
-					],
-					[
-						"aut",
-						"auto2.py"
-					],
-					[
-						"ese",
-						"ese.py"
-					],
-					[
-						"au",
-						"auto2.py"
-					],
-					[
-						"z",
-						"zd"
-					],
-					[
-						"zl",
-						"zlast"
-					],
-					[
-						"vg",
-						"vg.py"
+						"tds",
+						"C:\\Users\\Manoj\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\tds.ahk"
 					],
 					[
 						"zj",
 						"zj"
 					],
 					[
-						"rn",
-						"kec_rn.py"
+						"WA",
+						"way2.py"
 					],
 					[
-						"c",
+						"cf",
+						"cf.py"
+					],
+					[
+						"tth",
+						"tthon.py"
+					],
+					[
+						"auto",
+						"auto2.py"
+					],
+					[
+						"nw",
+						"n2w.py"
+					],
+					[
+						"t.c",
+						"t.cmd"
+					],
+					[
+						"tt",
+						"tthon.py"
+					],
+					[
+						"t.",
+						"t.cmd"
+					],
+					[
+						"t4",
+						"t4.py"
+					],
+					[
+						"z2",
+						"z2"
+					],
+					[
+						"z",
+						"z"
+					],
+					[
+						"v",
+						"vg_dob.py"
+					],
+					[
+						"dom",
+						"dom.cmd"
+					],
+					[
+						"data",
+						"vg_data.py"
+					],
+					[
+						"db",
+						"db.py"
+					],
+					[
+						"zd2",
+						"zd2"
+					],
+					[
+						"tele",
+						"tele.py"
+					],
+					[
+						"ws",
+						"C:\\Manoj\\Rooster\\WSRv3.py"
+					],
+					[
+						"t3",
+						"t3.py"
+					],
+					[
+						"tte",
+						"test.txt"
+					],
+					[
+						"t2",
+						"t2.py"
+					],
+					[
+						"b.",
+						"b.cmd"
+					],
+					[
+						"p.",
+						"pro.py"
+					],
+					[
+						"tid",
+						"tidlist.py"
+					],
+					[
+						"net",
+						"# Register the HNetCfg library (once)"
+					],
+					[
+						"br",
+						"broadcast2.py"
+					],
+					[
+						"run",
+						"runtime.txt"
+					],
+					[
+						"t.py",
+						"t.py"
+					],
+					[
+						"tc",
+						"tc.py"
+					],
+					[
+						"ht",
+						"t.html"
+					],
+					[
+						"o",
 						"config.py"
+					],
+					[
+						"he",
+						"helpf.py"
+					],
+					[
+						"T.P",
+						"t.py"
+					],
+					[
+						"sh",
+						"z\\LibreOfficePortable\\App\\libreoffice\\share\\gallery\\diagrams\\Section-Hexagons01.svg"
+					],
+					[
+						"p",
+						"p.py"
+					],
+					[
+						"ese",
+						"ese.py"
+					],
+					[
+						"re",
+						"requirements.txt"
+					],
+					[
+						"zl",
+						"zlast"
+					],
+					[
+						"h",
+						"t.html"
 					],
 					[
 						"ke",
 						"kec_rn.py"
-					],
-					[
-						"cf",
-						"config2.py"
-					],
-					[
-						"tele",
-						"telegram.py"
 					],
 					[
 						"ex",
@@ -2994,16 +3114,8 @@
 						"templates\\wa2tg.html"
 					],
 					[
-						"cg",
-						"cg.py"
-					],
-					[
 						"pr",
 						"Procfile2"
-					],
-					[
-						"g",
-						"gt.cmd"
 					],
 					[
 						"py",
@@ -3014,20 +3126,8 @@
 						"b.cmd"
 					],
 					[
-						"tid",
-						"tidlist.py"
-					],
-					[
-						"v",
-						"v_18CSR077_sara.py"
-					],
-					[
 						"yt",
 						"yt.py"
-					],
-					[
-						"t4",
-						"t4.py"
 					],
 					[
 						"pp",
@@ -3058,28 +3158,12 @@
 						"zt.py"
 					],
 					[
-						"tds",
-						"tid_staff.py"
-					],
-					[
-						"st",
-						"tid_staff.py"
-					],
-					[
 						"new",
 						"new_rn.py"
 					],
 					[
-						"do",
-						"dobl.py"
-					],
-					[
 						"pro",
 						"Procfile"
-					],
-					[
-						"kec",
-						"kec_rn.py"
 					],
 					[
 						"KE",
@@ -3102,12 +3186,12 @@
 						"new_rn.py"
 					],
 					[
-						"fac",
-						"fac2.py"
+						"f",
+						"f2.py"
 					],
 					[
-						"fa",
-						"fac.py"
+						"lo",
+						"log"
 					],
 					[
 						"log",
@@ -3146,10 +3230,6 @@
 						"new_rn.py"
 					],
 					[
-						"auto",
-						"auto2.py"
-					],
-					[
 						"grt",
 						".gitignore"
 					],
@@ -3160,10 +3240,6 @@
 					[
 						"oc",
 						"D:\\1.Manoj\\4.Study\\4.Codes\\ocr.py"
-					],
-					[
-						"t.c",
-						"t.cmd"
 					],
 					[
 						"t.cmd",
@@ -3186,20 +3262,12 @@
 						"auto2.py"
 					],
 					[
-						"tc",
-						"tc.py"
-					],
-					[
 						"to",
 						"C:\\Users\\Smart\\Downloads\\Telegram Desktop\\toplist"
 					],
 					[
 						"top",
 						"C:\\Users\\Smart\\Downloads\\Telegram Desktop\\toplist.py"
-					],
-					[
-						"t.py",
-						"t.py"
 					],
 					[
 						"tm",
@@ -3224,22 +3292,6 @@
 					[
 						"auo",
 						"auto.py"
-					],
-					[
-						"krn",
-						"kec_rn.py"
-					],
-					[
-						"ti",
-						"tidlist.py"
-					],
-					[
-						"gt2",
-						"gt2.cmd"
-					],
-					[
-						"cg2",
-						"config2.py"
 					]
 				],
 				"width": 0.0
@@ -3252,35 +3304,27 @@
 				[
 					[
 						"",
-						"C:\\Manoj\\Sublz\\M.sublime-project"
-					],
-					[
-						"sa",
-						"C:\\Manoj\\Sublz\\Sara.sublime-project"
+						"C:\\SM\\CST3\\RoosterTech6.sublime-project"
 					],
 					[
 						"dr",
 						"C:\\Manoj\\Sublz\\Drona.sublime-project"
 					],
 					[
-						"d",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-workspace"
+						"s",
+						"C:\\Manoj\\Sublz\\Sara.sublime-project"
 					],
 					[
 						"r",
-						"C:\\SM\\CST3\\RoosterTech7.sublime-project"
+						"C:\\SM\\CST3\\RoosterTech6.sublime-project"
 					],
 					[
-						"7",
-						"C:\\SM\\CST3\\RoosterTech7.sublime-project"
+						"m",
+						"C:\\Manoj\\Sublz\\M.sublime-project"
 					],
 					[
-						"dd",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-workspace"
-					],
-					[
-						"bot",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-workspace"
+						"d",
+						"C:\\Manoj\\Sublz\\Drona.sublime-project"
 					],
 					[
 						"hot",
@@ -3289,10 +3333,6 @@
 					[
 						"b",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
-					],
-					[
-						"m",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Manoj.sublime-project"
 					],
 					[
 						"p",
@@ -3344,6 +3384,10 @@
 					],
 					[
 						"I",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Bot.sublime-project"
+					],
+					[
+						"bot",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Bot.sublime-project"
 					],
 					[
@@ -6673,7 +6717,7 @@
 				"height": 335.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,704,128,128,906",
+			"position": "0,2,2,-32000,-32000,-1,-1,704,128,128,906",
 			"project": "",
 			"replace":
 			{
@@ -7993,6 +8037,32 @@
 					}
 				},
 				{
+					"file": "/C/Manoj/CST3-master/Data/Packages/Default/Main.sublime-menu",
+					"settings":
+					{
+						"buffer_size": 55023,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/c/Windows/System32/Drivers/etc/hosts",
+					"settings":
+					{
+						"buffer_size": 1092,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
 					"contents": "",
 					"settings":
 					{
@@ -9297,16 +9367,16 @@
 				"selected_items":
 				[
 					[
+						"de",
+						"File: Delete"
+					],
+					[
 						"rn",
 						"File: Rename"
 					],
 					[
 						"un",
 						"Permute Lines: Unique"
-					],
-					[
-						"de",
-						"File: Delete"
 					],
 					[
 						"rev",
@@ -9918,6 +9988,7 @@
 			],
 			"file_history":
 			[
+				"/C/Manoj/Bots/smartmanojbot/a.ahk",
 				"/C/Manoj/CST3-master/Data/Packages/Default/Main.sublime-menu",
 				"/C/Manoj/CST3-master/Data/SM/update.py",
 				"/C/Manoj/CST3-master/Data/Packages/Custom_Plugins/Update.py",
@@ -10010,7 +10081,6 @@
 				"/C/Users/Manoj/Downloads/Telegreat/t.py",
 				"/C/Manoj/Rooster/dronabot98/pwd.cmd",
 				"/C/Users/Manoj/Downloads/Telegreat/t (2).py",
-				"/C/Manoj/Bots/smartmanojbot/a.ahk",
 				"/C/Manoj/Rooster/z/RR503_ManojkumarP_WSR_25JAN2020.xlsx",
 				"/C/Users/Manoj/Desktop/photo_2019-10-04_23-59-54.jpg",
 				"/C/Users/Manoj/Desktop/a.bat",
@@ -10064,6 +10134,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"supp",
+					"Q",
 					"zv",
 					"tdy",
 					"td",
@@ -10189,9 +10261,7 @@
 					"18ITR31",
 					"ITR",
 					"ITR31",
-					"18ITR039",
-					"error_msg",
-					"vg_data"
+					"18ITR039"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -10209,7 +10279,7 @@
 			"groups":
 			[
 				{
-					"selected": 4,
+					"selected": 6,
 					"sheets":
 					[
 						{
@@ -10239,7 +10309,7 @@
 								"translation.y": 501.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 10,
+							"stack_index": 13,
 							"type": "text"
 						},
 						{
@@ -10268,7 +10338,7 @@
 								"translation.y": 17594.4,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 9,
 							"type": "text"
 						},
 						{
@@ -10296,7 +10366,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 8,
 							"type": "text"
 						},
 						{
@@ -10325,7 +10395,7 @@
 								"translation.y": 8663.2,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 7,
 							"type": "text"
 						},
 						{
@@ -10341,8 +10411,8 @@
 								"selection":
 								[
 									[
-										180,
-										180
+										113,
+										113
 									]
 								],
 								"settings":
@@ -10353,11 +10423,98 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
 							"buffer": 5,
+							"file": "/C/Manoj/CST3-master/Data/Packages/Default/Main.sublime-menu",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 55023,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										54475,
+										54475
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 27448.8,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/c/Windows/System32/Drivers/etc/hosts",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1092,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										917,
+										917
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 251.2,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"default_dir": "C:\\Manoj\\CST3-master\\Data\\SM",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
 							"semi_transient": false,
 							"settings":
 							{
@@ -10382,11 +10539,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
-							"buffer": 6,
+							"buffer": 9,
 							"file": "/C/Users/Manoj/Desktop/a.ahk",
 							"semi_transient": false,
 							"settings":
@@ -10410,11 +10567,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
-							"buffer": 7,
+							"buffer": 10,
 							"file": "/C/Users/Manoj/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
 							"semi_transient": false,
 							"settings":
@@ -10440,11 +10597,11 @@
 								"translation.y": 5474.4,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
-							"buffer": 8,
+							"buffer": 11,
 							"semi_transient": false,
 							"settings":
 							{
@@ -10531,11 +10688,11 @@
 								"translation.y": 450.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 10,
 							"type": "text"
 						},
 						{
-							"buffer": 9,
+							"buffer": 12,
 							"file": "/C/Manoj/Bots/smartmanojbot/config0.py",
 							"semi_transient": false,
 							"settings":
@@ -10560,11 +10717,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 9,
+							"stack_index": 12,
 							"type": "text"
 						},
 						{
-							"buffer": 10,
+							"buffer": 13,
 							"file": "/C/Manoj/Bots/smartmanojbot/config2.py",
 							"semi_transient": false,
 							"settings":
@@ -10588,7 +10745,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 8,
+							"stack_index": 11,
 							"type": "text"
 						}
 					]
@@ -10671,6 +10828,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"a",
+						"a.ahk"
+					],
 					[
 						"con",
 						"config.py"
@@ -10934,10 +11095,6 @@
 					[
 						"br",
 						"broadcast2.py"
-					],
-					[
-						"a",
-						"auto2.py"
 					],
 					[
 						"run",

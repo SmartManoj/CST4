@@ -957,12 +957,16 @@
         [
             {"caption": "FAQ","command": "open_file", "args": {"file": "$packages\\..\\SM\\FAQ.md"}},
             { "command": "open_url", "args": {"url": "https://t.me/SmartManoj"}, "caption": "Contact Dev","mnemonic": "T" },
+            {
+         "command": "open_file", "args": {"file": "c:\\Windows\\System32\\Drivers\\etc\\hosts","flag":1}, "caption": "hosts",
+    },
         ]
 
        
     },
     { "command": "open_dir", "args": {"dir": "$packages\\Python\\Snippets"}, "caption": "Q",},
     { "command": "open_dir", "args": {"dir": "$packages\\Custom_Plugins"}, "caption": "P",},
+
     {
          "command": "open_file", "args": {"file": "${packages}/Default/Main.sublime-menu","flag":1}, "caption": "T",
     },
