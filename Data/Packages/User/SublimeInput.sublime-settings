@@ -1,0 +1,41 @@
+{
+  "build_schemas" : {
+    
+    "py" : {
+      "shell_cmd" : "py -u \"${file}\"",
+      "input_start" : "'''",
+      "input_end" : "'''",
+
+    },
+
+    "cpp" : {
+      "shell_cmd" : "g++ --std=c++14 \"${file}\" -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\"",
+      "input_start" : "/*",
+      "input_end" : "*/"
+    },
+    "cpp" : {
+      "shell_cmd": "mingw32-g++ ${file} -o ${file_base_name} -lbgi -lgdi32 && ${file_base_name}",
+      "shell_cmd": "b.bat",
+      "input_start" : "/*",
+      "input_end" : "*/"
+    },
+
+    "c" : {
+      "shell_cmd" : "gcc \"${file}\" -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\"",
+      "input_start" : "/*",
+      "input_end" : "*/"
+    },
+
+    "java" : {
+      "shell_cmd" : "javac \"${file}\" && java \"${file_base_name}\"",
+      "input_start" : "/*",
+      "input_end" : "*/"
+    },
+    "cs" : {
+      "shell_cmd" : "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\csc ${file}  | tail -n +7 && ${file_base_name}",
+      "input_start" : "/*",
+      "input_end" : "*/"
+    },
+
+  }
+}

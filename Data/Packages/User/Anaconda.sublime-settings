@@ -1,0 +1,13 @@
+{
+	"pyflakes_explicit_ignore":
+    [
+        // "Redefined",
+        "UnusedImport",
+        // "UndefinedName",
+        // "UndefinedLocal",
+        // "UnusedVariable,",
+        // "UndefinedExport",
+        // "DuplicateArgument",
+        // "RedefinedWhileUnused"
+    ],
+}

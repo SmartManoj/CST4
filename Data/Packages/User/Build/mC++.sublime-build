@@ -1,0 +1,7 @@
+{
+    "cmd": ["g++",   "$file", "-o", "$file_base_name.exe", "&&", "start", "cmd","/c","$file_base_name & pause"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "working_dir": "${project_path:${folder}}",
+    "selector": "source.c++",
+    "shell": true,
+}

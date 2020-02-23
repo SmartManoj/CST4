@@ -1,0 +1,13 @@
+{
+	
+    "cmd": ["cat", "C:\\Windows\\System32\\a.sql", "$file", "|", "sqlplus",  "-s", "smart/a"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.sql", 
+    "shell": true,   
+    "variants":[
+	    {
+	    	"name":"Sqlite",
+	    	"cmd":["cat","$file","|","sqlite3","webappsstore.sqlite"]
+	    }
+	]
+}

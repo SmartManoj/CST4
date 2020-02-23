@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"Anaconda",
+		"ANSIescape",
+		"AutoHotkey",
+		"Build Next",
+		"Build System Input",
+		"ChangeQuotes",
+		"CodeFormatter",
+		"Expand Selection to Quotes",
+		"Expand Selection to Whitespace",
+		"File Rename",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"Increment Selection",
+		"Maven",
+		"MySQL Snippets",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Codebeautifier",
+		"PHP Completions Kit",
+		"phpfmt",
+		"Pretty JSON",
+		"RawLineEdit",
+		"Search Stack Overflow",
+		"SelectUntil",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"Sublime Input",
+		"sublime-text-2-buildview",
+		"SublimeAStyleFormatter",
+		"SublimeREPL",
+		"Terminal",
+		"Text Pastry",
+		"Unicode Escape",
+		"View In Browser"
+	]
+}

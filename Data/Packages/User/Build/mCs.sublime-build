@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\csc $file  | tail -n +7 && $file_base_name ",
+	"shell": true,
+	"selector":"source.cs"
+}

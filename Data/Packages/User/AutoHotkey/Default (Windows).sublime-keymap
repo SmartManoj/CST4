@@ -1,0 +1,6 @@
+// [
+// 	{ "keys": ["ctrl+b"], "command": "ahkrun" ,"context": { "key": "selector", "operator": "equal", "operand": "source.ahk" }},
+// 	{ "keys": ["alt+z"], "command": "ahkcompile" ,"context": { "key": "selector", "operator": "equal", "operand": "source.ahk" }},
+// 	{ "keys": ["ctrl+alt+b"], "command": "ahkrunpiped" ,"context": { "key": "selector", "operator": "equal", "operand": "source.ahk" }}	
+// ]
+[]
