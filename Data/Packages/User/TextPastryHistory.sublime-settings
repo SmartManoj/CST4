@@ -7159,20 +7159,6 @@
 			{
 				"args":
 				{
-					"repeat": "30",
-					"text": "1"
-				},
-				"command": "text_pastry_auto_step",
-				"text": "s 1 x30"
-			},
-			"key": "38b1e2dc77f044c07cd0aaad098201cb",
-			"label": "s 1 x30"
-		},
-		{
-			"data":
-			{
-				"args":
-				{
 					"text": "import requests\nfrom threading\nfrom datetime\nfrom time\nfrom PIL\nimport os\nfrom flask\nimport logging\nfrom telegram\nfrom telegram.ext\nimport logging",
 					"threshold": 3
 				},
@@ -7370,15 +7356,30 @@
 			},
 			"key": "1679091c5a880faf6fb5e6087eb1b2dc",
 			"label": "6"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"repeat": "30",
+					"text": "1"
+				},
+				"command": "text_pastry_auto_step",
+				"text": "s 1 x30"
+			},
+			"key": "38b1e2dc77f044c07cd0aaad098201cb",
+			"label": "s 1 x30"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "6"
+			"repeat": "30",
+			"text": "1"
 		},
-		"command": "text_pastry_step",
-		"text": "6"
+		"command": "text_pastry_auto_step",
+		"text": "s 1 x30"
 	}
 }

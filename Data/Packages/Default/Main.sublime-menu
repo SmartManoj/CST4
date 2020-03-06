@@ -930,11 +930,13 @@
         "children":
         [
             {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.py"}, "caption": "Python" },
+            {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.cmd"}, "caption": "Batch" },
             {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.cs"}, "caption": "C#" },
             {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.cpp"}, "caption": "CPP" },
             {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\hello_st3.c"}, "caption": "C" },
             {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\Hello_St3.kt"}, "caption": "Kotlin" },
             {"command": "open_file", "args": {"file": "$packages\\..\\SM\\Samples\\Hello_St3.java"}, "caption": "Java" },
+            
         ]
     },
     {
@@ -964,11 +966,12 @@
 
        
     },
-    { "command": "open_dir", "args": {"dir": "$packages\\Python\\Snippets"}, "caption": "Q",},
+    {"command": "open_file", "args": {"file": "b.cmd"}, "caption": "B" },
+    { "command": "open_dir", "args": {"dir": "$packages\\Python\\Snippets"}, "caption": "S",},
     { "command": "open_dir", "args": {"dir": "$packages\\Custom_Plugins"}, "caption": "P",},
 
     {
-         "command": "open_file", "args": {"file": "${packages}/Default/Main.sublime-menu","flag":1}, "caption": "T",
+         "command": "open_file", "args": {"file": "${packages}/Default/Main.sublime-menu","flag":1}, "caption": "M`",
     },
     {
         "command": "open_url", "args": {"url": "https://t.me/SmartManoj"}, "caption": "Made with ❤️ by SM",

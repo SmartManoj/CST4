@@ -16,5 +16,13 @@ except Exception as e:
 		print(f'Installing {prgrm}')
 		subprocess.run(f'{x} /verysilent'.split())	
 os.chdir('..\..')
+
+if os.getenv('username','ST3')!='Smart':
+	subprocess.run('git init'.split())
+subprocess.run('git add * '.split())
+subprocess.run('git stash '.split())
+
+# =======
 # subprocess.run('git init'.split())
-subprocess.run('git pull https://github.com/SmartManoj/CST3.git --force'.split())
+
+subprocess.run('git pull -X theirs	https://github.com/SmartManoj/CST3.git  --force --allow-unrelated-histories'.split())
