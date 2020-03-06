@@ -16,7 +16,11 @@ except Exception as e:
 		print(f'Installing {prgrm}')
 		subprocess.run(f'{x} /verysilent'.split())	
 os.chdir('..\..')
-
+a='''git config --global core.autocrlf false
+git config --global core.eol lf
+'''.splitlines()
+for i in a:
+	subprocess.run(i.split())
 if os.getenv('username','ST3')!='Smart':
 	subprocess.run('git init'.split())
 subprocess.run('git add * '.split())

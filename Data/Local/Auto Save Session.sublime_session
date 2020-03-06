@@ -3481,6 +3481,10 @@
 				"selected_items":
 				[
 					[
+						"spl",
+						"splitlines\tfunction"
+					],
+					[
 						"td",
 						"TDW1963"
 					],
@@ -3627,10 +3631,6 @@
 					[
 						"req",
 						"request"
-					],
-					[
-						"spl",
-						"split"
 					],
 					[
 						"tid",
@@ -4018,9 +4018,25 @@
 					"file": "/C/Manoj/CST3-master/Data/SM/update.py",
 					"settings":
 					{
-						"buffer_size": 888,
+						"buffer_size": 1020,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Manoj/CST3-master/Data/SM/cst3.cmd",
+					"settings":
+					{
+						"buffer_size": 526,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
 					}
 				},
 				{
@@ -4144,7 +4160,7 @@
 					}
 				}
 			],
-			"build_system": "Packages/AutoHotkey/AutoHotkey.sublime-build",
+			"build_system": "Packages/User/Build/mBat.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -5290,6 +5306,26 @@
 				[
 					[
 						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mBat.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mBat.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/Build/mBat.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
 							"Packages/User/Build/mBat.sublime-build",
 							""
 						],
@@ -6314,7 +6350,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
@@ -6344,7 +6380,7 @@
 								"translation.y": 2008.8,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
@@ -6353,15 +6389,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 888,
+								"buffer_size": 1020,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										888,
-										888
+										659,
+										659
 									]
 								],
 								"settings":
@@ -6370,7 +6406,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 51.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -6378,6 +6414,63 @@
 						},
 						{
 							"buffer": 3,
+							"file": "/C/Manoj/CST3-master/Data/SM/cst3.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 526,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"default_dir": "C:\\Manoj\\CST3-master\\Data\\SM",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
 							"semi_transient": false,
 							"settings":
 							{
@@ -6433,11 +6526,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
-							"buffer": 4,
+							"buffer": 6,
 							"semi_transient": false,
 							"settings":
 							{
@@ -6493,11 +6586,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 9,
 							"type": "text"
 						},
 						{
-							"buffer": 5,
+							"buffer": 7,
 							"semi_transient": false,
 							"settings":
 							{
@@ -6541,11 +6634,11 @@
 								"translation.y": 384.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 7,
 							"type": "text"
 						},
 						{
-							"buffer": 6,
+							"buffer": 8,
 							"semi_transient": false,
 							"settings":
 							{
@@ -6601,11 +6694,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 8,
 							"type": "text"
 						},
 						{
-							"buffer": 7,
+							"buffer": 9,
 							"semi_transient": false,
 							"settings":
 							{
@@ -6678,11 +6771,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 10,
+							"stack_index": 12,
 							"type": "text"
 						},
 						{
-							"buffer": 8,
+							"buffer": 10,
 							"file": "/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/site-packages/sympy/core/basic.py",
 							"semi_transient": false,
 							"settings":
@@ -6708,11 +6801,11 @@
 								"translation.y": 17724.8,
 								"zoom_level": 1.0
 							},
-							"stack_index": 11,
+							"stack_index": 13,
 							"type": "text"
 						},
 						{
-							"buffer": 9,
+							"buffer": 11,
 							"semi_transient": false,
 							"settings":
 							{
@@ -6736,11 +6829,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 12,
+							"stack_index": 14,
 							"type": "text"
 						},
 						{
-							"buffer": 10,
+							"buffer": 12,
 							"file": "/C/Manoj/CST3-master/Data/SM/Samples/hello_st3.py",
 							"semi_transient": false,
 							"settings":
@@ -6764,11 +6857,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 9,
+							"stack_index": 11,
 							"type": "text"
 						},
 						{
-							"buffer": 11,
+							"buffer": 13,
 							"semi_transient": false,
 							"settings":
 							{
@@ -6827,11 +6920,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 8,
+							"stack_index": 10,
 							"type": "text"
 						},
 						{
-							"buffer": 12,
+							"buffer": 14,
 							"file": "/C/Manoj/CST3-master/Data/Packages/Default/Main.sublime-menu",
 							"semi_transient": false,
 							"settings":
@@ -6857,11 +6950,11 @@
 								"translation.y": 19938.4,
 								"zoom_level": 1.0
 							},
-							"stack_index": 15,
+							"stack_index": 17,
 							"type": "text"
 						},
 						{
-							"buffer": 13,
+							"buffer": 15,
 							"file": "/C/Manoj/M/p.py",
 							"semi_transient": true,
 							"settings":
@@ -6886,11 +6979,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 13,
+							"stack_index": 15,
 							"type": "text"
 						},
 						{
-							"buffer": 14,
+							"buffer": 16,
 							"file": "/C/Manoj/M/b.cmd",
 							"semi_transient": false,
 							"settings":
@@ -6914,11 +7007,11 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 14,
+							"stack_index": 16,
 							"type": "text"
 						},
 						{
-							"buffer": 15,
+							"buffer": 17,
 							"file": "/C/Manoj/CST3-master/Data/SM/Samples/hello_st3.cmd",
 							"semi_transient": false,
 							"settings":
@@ -6942,7 +7035,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 5,
 							"type": "text"
 						}
 					]
