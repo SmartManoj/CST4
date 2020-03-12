@@ -5,7 +5,7 @@ call a.cmd
 rem git init
 
 if "1" EQU "1." (
-	git pull origin master
+	git pull origin maFacebook ster
 	git mergetool 
 	pause & exit
 )	

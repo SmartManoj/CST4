@@ -257,7 +257,7 @@
         "load-save" - Linting works in file load and save only
         "save-only" - Linting works in file save only
     */
-    "anaconda_linting_behaviour": "always",
+    "anaconda_linting_behaviour": "save-only",
 
     /*
         The minimum delay in seconds (fractional seconds are okay) before
@@ -307,7 +307,7 @@
     /*
         If this is set to true, anaconda will show errors inline.
     */
-    "anaconda_linter_phantoms": true,
+    "anaconda_linter_phantoms": false,
 
     /*
         This determines what theme is phantoms used.
@@ -341,7 +341,7 @@
     "use_pylint": false,
 
     // Set this to false to turn pep8 checking off completely.
-    "pep8": false,
+    "pep8": true,
 
     /*
         If set, the given file will be used as configuration for pep8.

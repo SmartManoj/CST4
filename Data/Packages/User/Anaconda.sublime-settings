@@ -1,6 +1,10 @@
 {
+    "anaconda_linting_behaviour": "save-only",
+    "auto_formatting": true,
+
 	"pyflakes_explicit_ignore":
     [
+
         // "Redefined",
         "UnusedImport",
         // "UndefinedName",

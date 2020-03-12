@@ -3481,24 +3481,68 @@
 				"selected_items":
 				[
 					[
-						"spl",
-						"splitlines\tfunction"
+						"re",
+						"requests\tmodule"
 					],
 					[
-						"td",
-						"TDW1963"
+						"std",
+						"stdout\tstatement"
 					],
 					[
-						"t",
-						"TN28W3326"
+						"sup",
+						"subprocess\tmodule"
 					],
 					[
-						"res",
-						"response\tstatement"
+						"pi",
+						"pi\tpip"
+					],
+					[
+						"lo",
+						"load_workbook\tfunction"
+					],
+					[
+						"ema",
+						"email_password\tstatement"
+					],
+					[
+						"pyp",
+						"pyperclip\tmodule"
+					],
+					[
+						"loca",
+						"locateAll\tfunction"
 					],
 					[
 						"im",
-						"import"
+						"import\tkeyword"
+					],
+					[
+						"R",
+						"Rooster_Tech_Bot"
+					],
+					[
+						"fo",
+						"font-size\tproperty"
+					],
+					[
+						"os",
+						"osName\tparam"
+					],
+					[
+						"q",
+						"queue"
+					],
+					[
+						"awb",
+						"awb_072"
+					],
+					[
+						"To",
+						"TOKEN"
+					],
+					[
+						"sh",
+						"schd"
 					],
 					[
 						"aw",
@@ -3525,16 +3569,8 @@
 						"split\tfunction"
 					],
 					[
-						"re",
-						"response\tstatement"
-					],
-					[
 						"in",
 						"instance"
-					],
-					[
-						"q",
-						"querySelector"
 					],
 					[
 						"for",
@@ -3567,6 +3603,10 @@
 					[
 						"vg",
 						"vg_dob"
+					],
+					[
+						"t",
+						"try\tTry/Except/Finally"
 					],
 					[
 						"r",
@@ -3633,8 +3673,16 @@
 						"request"
 					],
 					[
+						"spl",
+						"split"
+					],
+					[
 						"tid",
 						"tidMan"
+					],
+					[
+						"res",
+						"results"
 					],
 					[
 						"eve",
@@ -3679,10 +3727,6 @@
 					[
 						"g",
 						"get_name"
-					],
-					[
-						"pi",
-						"piu\tpipu"
 					],
 					[
 						"his",
@@ -3947,140 +3991,11 @@
 					[
 						"RET",
 						"return"
-					],
-					[
-						"def",
-						"defaultdict"
-					],
-					[
-						"14CS",
-						"14csl260"
-					],
-					[
-						"b",
-						"BeautifulSoup"
-					],
-					[
-						"es",
-						"elist"
-					],
-					[
-						"kec_",
-						"kec_stud"
-					],
-					[
-						"toda",
-						"today_"
-					],
-					[
-						"15csr",
-						"15csr094"
-					],
-					[
-						"split",
-						"splitlines"
-					],
-					[
-						"manoj",
-						"MANOJKUMAR"
-					],
-					[
-						"dep",
-						"depts"
-					],
-					[
-						"mts",
-						"MTS"
 					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Manoj/M/p2.py",
-					"settings":
-					{
-						"buffer_size": 191,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Manoj/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
-					"settings":
-					{
-						"buffer_size": 10807,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Manoj/CST3-master/Data/SM/update.py",
-					"settings":
-					{
-						"buffer_size": 1020,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "jt -t monokai -m 200\njupyter notebook\npause",
-					"file": "/C/Manoj/CST3-master/Data/SM/jupyer_dark.cmd",
-					"file_size": 45,
-					"file_write_time": 132281443500925249,
-					"settings":
-					{
-						"buffer_size": 43,
-						"encoding": "UTF-8",
-						"line_ending": "Windows",
-						"name": "jt -t monokai -m 200"
-					}
-				},
-				{
-					"contents": "print(23)\nprint(23)",
-					"file": "/C/Manoj/CST3-master/Data/SM/p3.py",
-					"file_size": 20,
-					"file_write_time": 132281496691529544,
-					"settings":
-					{
-						"buffer_size": 19,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Manoj/CST3-master/Data/Packages/User/Anaconda.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 276,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Manoj/CST3-master/Data/SM/cst3.cmd",
-					"settings":
-					{
-						"buffer_size": 526,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/C/Users/Manoj/Downloads/Telegreat/Dad/b.ahk",
-					"settings":
-					{
-						"buffer_size": 23,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Manoj/Desktop/a.ahk",
-					"settings":
-					{
-						"buffer_size": 64,
-						"line_ending": "Windows"
-					}
-				},
 				{
 					"contents": "",
 					"settings":
@@ -4090,66 +4005,61 @@
 					}
 				},
 				{
-					"contents": "FiniteSet((29576.0869565217,))\n\n***Repl Closed***\n",
+					"file": "/C/Manoj/CST3-master/Data/Packages/User/Anaconda.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 50,
-						"line_ending": "Windows",
-						"name": "*REPL* [python]",
-						"scratch": true
+						"buffer_size": 354,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "FiniteSet((29576.0869565217,))\n\n***Repl Closed***\n",
+					"file": "/C/Manoj/CST3-master/Data/Packages/Anaconda/Anaconda.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 50,
-						"line_ending": "Windows",
-						"name": "*REPL* [python]",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"contents": ">>> 2\n2\n>>> from sympy import *\nfrom sympy.solvers.solveset import linsolve\nb=Symbol('b')\na=Symbol('a')\nv=20000\nf=1\neq=a-(b-(b*.08+760+450*f+6000))\na=(linsolve([eq.subs({a:v})],(b)))\n\n  File \"<console>\", line 1\n    from sympy import *\n                      ^\nSyntaxError: multiple statements found while compiling a single statement\n>>> from sympy import *\nfrom sympy.solvers.solveset import linsolve\nb=Symbol('b')\na=Symbol('a')\nv=20000\nf=1\neq=a-(b-(b*.08+760+450*f+6000))\na=(linsolve([eq.subs({a:v})],(b)))\n\n  File \"<console>\", line 1\n    from sympy import *\n                      ^\nSyntaxError: multiple statements found while compiling a single statement\n>>> ",
-					"settings":
-					{
-						"buffer_size": 662,
-						"line_ending": "Windows",
-						"name": "*REPL* [sublime]",
-						"scratch": true
-					}
-				},
-				{
-					"contents": "FiniteSet((29576.0869565217,))\n\n***Repl Closed***\n",
-					"settings":
-					{
-						"buffer_size": 50,
-						"line_ending": "Windows",
-						"name": "*REPL* [python]",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"contents": "Python 3.8.1 (tags/v3.8.1:1b293b6, Dec 18 2019, 23:11:46) [MSC v.1916 64 bit (AMD64)] on win32\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n(InteractiveConsole)\n>>> ",
-					"settings":
-					{
-						"buffer_size": 191,
-						"line_ending": "Windows",
-						"name": "*REPL* [python]",
-						"scratch": true
-					}
-				},
-				{
-					"file": "/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/site-packages/sympy/core/basic.py",
-					"settings":
-					{
-						"buffer_size": 67914,
+						"buffer_size": 21768,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
+					"file": "/C/Manoj/Rooster/roostertech6/gt.bat",
+					"settings":
+					{
+						"buffer_size": 931,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Manoj/Rooster/roostertech6/app.py",
+					"settings":
+					{
+						"buffer_size": 13925,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "dfer",
+					"settings":
+					{
+						"buffer_size": 4,
+						"line_ending": "Windows",
+						"name": "dfer"
+					}
+				},
+				{
+					"file": "/C/Users/Manoj/AppData/Local/Temp/JavaDeployReg.log",
+					"settings":
+					{
+						"buffer_size": 37344,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "",
+					"file": "/C/Program Files (x86)/Java",
+					"file_size": -1,
+					"file_write_time": -1,
 					"settings":
 					{
 						"buffer_size": 0,
@@ -4157,60 +4067,7 @@
 					}
 				},
 				{
-					"file": "/C/Manoj/CST3-master/Data/SM/Samples/hello_st3.py",
-					"settings":
-					{
-						"buffer_size": 55,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "> c:\\manoj\\cst3-master\\data\\sm\\samples\\hello_st3.py(1)<module>()\n-> import os\n(Pdb) abc",
-					"settings":
-					{
-						"buffer_size": 87,
-						"line_ending": "Windows",
-						"name": "*REPL* [python]",
-						"scratch": true
-					}
-				},
-				{
-					"file": "/C/Manoj/CST3-master/Data/Packages/Default/Main.sublime-menu",
-					"settings":
-					{
-						"buffer_size": 55233,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/C/Manoj/M/p.py",
-					"settings":
-					{
-						"buffer_size": 43,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Manoj/M/b.cmd",
-					"settings":
-					{
-						"buffer_size": 27,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Manoj/CST3-master/Data/SM/Samples/hello_st3.cmd",
-					"settings":
-					{
-						"buffer_size": 27,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
+					"file": "/C/Users/Manoj/AppData/Local/Temp/womens-day_030816055529.heic",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -4218,45 +4075,43 @@
 					}
 				},
 				{
-					"contents": "Python 3.8.1 (tags/v3.8.1:1b293b6, Dec 18 2019, 23:11:46) [MSC v.1916 64 bit (AMD64)] on win32\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n(InteractiveConsole)\n>>> 5\n5\n>>> ",
+					"file": "/C/Users/Manoj/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
 					"settings":
 					{
-						"buffer_size": 199,
-						"line_ending": "Windows",
-						"name": "*REPL* [python]",
-						"scratch": true
-					}
-				},
-				{
-					"contents": "23\n23\n\n***Repl Closed***\n",
-					"settings":
-					{
-						"buffer_size": 25,
-						"line_ending": "Windows",
-						"name": "*REPL* [python]",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"file": "/C/Users/Manoj/Downloads/Telegreat/Dad/Ganesh/p.py",
-					"settings":
-					{
-						"buffer_size": 1216,
+						"buffer_size": 10924,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/Manoj/Downloads/Telegreat/p (6).py",
+					"file": "/C/Manoj/CST3-master/Data/SM/cst3.cmd",
 					"settings":
 					{
-						"buffer_size": 169,
+						"buffer_size": 535,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Manoj/Rooster/roostertech6/form_filler.py",
+					"settings":
+					{
+						"buffer_size": 6328,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Manoj/Rooster/roostertech6/old/b.cmd",
+					"settings":
+					{
+						"buffer_size": 18,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				}
 			],
-			"build_system": "Packages/User/Build/mBat.sublime-build",
+			"build_system": "Packages/AutoHotkey/AutoHotkey.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -4310,10 +4165,6 @@
 							"Syntax Check"
 						],
 						[
-							"Packages/Conda/Conda.sublime-build",
-							""
-						],
-						[
 							"Packages/User/Build/mPy.sublime-build",
 							""
 						],
@@ -4348,6 +4199,14 @@
 						[
 							"Packages/User/Build/mPy.sublime-build",
 							"cmd"
+						],
+						[
+							"Packages/User/Build/mSsql.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mSsql.sublime-build",
+							"Sqlite"
 						]
 					],
 					[
@@ -5458,6 +5317,22 @@
 				[
 					[
 						[
+							"Packages/User/Build/mWeb.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mWeb.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/Build/mWeb.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
 							"Packages/User/mBat.sublime-build",
 							""
 						],
@@ -5616,28 +5491,56 @@
 				"selected_items":
 				[
 					[
-						"repl p",
-						"SublimeREPL: Python - RUN current file"
+						"de",
+						"File: Delete"
 					],
 					[
-						"mp",
-						"Build With: mPy"
+						"git",
+						"Git Blame Show All"
 					],
 					[
-						"repl cur",
-						"SublimeREPL: Python - RUN current file"
+						"insta",
+						"Package Control: Install Package"
 					],
 					[
-						"repl py",
-						"SublimeREPL: Python - RUN current file"
+						"up",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"line",
+						"Raw Line Edit: View Line Endings"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
 					],
 					[
 						"enab",
 						"Package Control: Enable Package"
 					],
 					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
 						"rn",
 						"File: Rename"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"re",
+						"File: Rename"
+					],
+					[
+						"ren",
+						"File: Rename"
+					],
+					[
+						"di",
+						"Package Control: Disable Package"
 					],
 					[
 						"dis",
@@ -5646,10 +5549,6 @@
 					[
 						"code",
 						"CodeFormatter: Format Code1"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"prett",
@@ -5664,24 +5563,8 @@
 						"File: Duplicate"
 					],
 					[
-						"re",
-						"File: Rename"
-					],
-					[
-						"ena",
-						"Package Control: Enable Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"list",
 						"Package Control: List Packages"
-					],
-					[
-						"di",
-						"Package Control: Disable Package"
 					],
 					[
 						"instal",
@@ -5728,10 +5611,6 @@
 						"HTMLPrettify: Set `node` Path"
 					],
 					[
-						"de",
-						"File: Delete"
-					],
-					[
 						"packa l",
 						"Package Control: List Packages"
 					],
@@ -5766,10 +5645,6 @@
 					[
 						"r",
 						"Reverse characters in selected section"
-					],
-					[
-						"ren",
-						"File: Rename"
 					],
 					[
 						"ran",
@@ -5850,6 +5725,10 @@
 					[
 						"dis bui",
 						"Disable/Enable buildview for this window"
+					],
+					[
+						"repl p",
+						"SublimeREPL: Python - IPython"
 					],
 					[
 						"buil di",
@@ -6122,10 +6001,6 @@
 					[
 						"he",
 						"Hex Viewer: Toggle Hex View"
-					],
-					[
-						"\t",
-						"Package Control: Install Package"
 					]
 				],
 				"width": 500.0
@@ -6135,6 +6010,7 @@
 				"height": 352.0,
 				"history":
 				[
+					"2",
 					"view.run_command('move',args={\"by\": \"words\", \"forward\": False})",
 					"view.run_command('move',args={\"by\": \"words\", \"forward\": false})",
 					"view.run_command('move')",
@@ -6245,34 +6121,129 @@
 			},
 			"expanded_folders":
 			[
-				"/C/Manoj/M",
-				"/C/Manoj/M/d"
+				"/C/Manoj/Rooster/roostertech6",
+				"/C/Manoj/Rooster/roostertech6/Rooster-AWB"
 			],
 			"file_history":
 			[
-				"/C/Users/Manoj/Downloads/Telegreat/update.py",
-				"/C/Manoj/CST3-master/Data/Packages/Default/b.cmd",
-				"/C/Users/Manoj/Downloads/Telegreat/Dad/Ganesh/p.py",
-				"/C/Users/Manoj/Downloads/Telegreat/t4 (3).html",
-				"/C/Manoj/Rooster/WSRv3.py",
-				"/C/Manoj/Rooster/TSv6.py",
-				"/C/Manoj/CST3-master/Data/Packages/Default/Main.sublime-menu",
-				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Manoj/Rooster/roostertech6/msg.py",
+				"/c/Windows/System32/Drivers/etc/hosts",
+				"/C/Manoj/Rooster/roostertech6/templates/index.html",
 				"/C/Users/Manoj/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
-				"/C/Users/Manoj/Downloads/Telegreat/Dad/Ganesh/v_Ganesh.yaml",
-				"/C/Users/Manoj/Downloads/Telegreat/Dad/b.ahk",
+				"/C/Manoj/Rooster/roostertech6/app.py",
+				"/C/Users/Manoj/Downloads/Telegreat/C0806a.java",
+				"/C/Manoj/Rooster/roostertech6/p.py",
+				"/C/Users/Manoj/Downloads/Telegreat/p2 (2).py",
+				"/C/Manoj/CST3-master/Data/Packages/Default/Main.sublime-menu",
+				"/C/Manoj/Rooster/roostertech6/gt.bat",
+				"/C/Manoj/Rooster/roostertech6/config.py",
+				"/C/Manoj/r/gt.cmd",
+				"/C/Manoj/r/msg.py",
+				"/C/Users/Manoj/Downloads/Compressed/Emotion-detection-master/Tensorflow/emotions.py",
+				"/C/Manoj/Rooster/roostertech6/vlc.py",
+				"/C/Manoj/Rooster/WSRv3.py",
+				"/C/Manoj/z/My3M/01.mp3",
 				"/C/Users/Manoj/Downloads/Telegreat/Dad/Manchester/hpxl-man.py",
-				"/C/Users/Manoj/Downloads/Telegreat/Dad/Ganesh/hpxl-gan.py",
-				"/C/Manoj/M/p2.py",
-				"/C/Users/Manoj/Downloads/Telegreat/test.py",
-				"/C/Users/Manoj/Downloads/Telegreat/index (3).py",
-				"/C/Users/Manoj/Downloads/Telegreat/a (2).py",
-				"/C/Users/Manoj/Downloads/Telegreat/16CS_2019_ODD_SARA.csv",
+				"/C/Manoj/Rooster/roostertech6/t.py",
+				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/ctypes/__init__.py",
+				"/C/Users/Manoj/AppData/Local/Programs/Python/Python37/lib/site-packages/mpyg321/mpyg321.py",
+				"/C/Users/Manoj/Downloads/Telegreat/fraud_detection.py",
+				"/C/Users/Manoj/Downloads/Telegreat/neural-network.py",
+				"/C/Users/Manoj/Downloads/Telegreat/Credit_Card_Transaction_Fraud_Detection_using_CNN.py",
+				"/C/Users/Manoj/AppData/Local/Programs/Python/Python37/lib/site-packages/pandas_ml/skaccessors/preprocessing.py",
+				"/C/Manoj/Rooster/roostertech6/t2.py",
+				"/C/Manoj/Rooster/roostertech6/old/b.cmd",
+				"/C/Users/Manoj/Downloads/Compressed/SmartPy-master/setup.py",
+				"/C/Users/Manoj/Downloads/Telegreat/Dad/xl.py",
+				"/C/Manoj/Rooster/roostertech6/t2",
+				"/C/Manoj/Rooster/roostertech6/templates/admin/base.html",
+				"/C/Manoj/Rooster/roostertech6/form_filler.py",
+				"/C/Manoj/Rooster/roostertech6/.gitignore",
+				"/C/Users/Manoj/Downloads/Telegreat/send_email (2).py",
+				"/C/Users/Manoj/Downloads/Telegreat/send_email.py",
+				"/C/Manoj/Rooster/roostertech6/requirements.txt",
+				"/C/Manoj/Rooster/roostertech6/templates/t.html",
+				"/C/Manoj/Rooster/roostertech6/l.bat",
+				"/C/Manoj/Rooster/roostertech6/templates/t4.html",
+				"/C/Manoj/Rooster/roostertech6/runtime.txt",
+				"/C/Manoj/Rooster/roostertech6/templates/admin/index.html",
+				"/C/Manoj/Rooster/roostertech6/old/app.py",
+				"/C/Manoj/Rooster/roostertech6/dom.cmd",
+				"/C/Manoj/Rooster/roostertech6/templates/t5.html",
+				"/C/Manoj/Rooster/roostertech7/dom.cmd",
+				"/C/Manoj/Rooster/roostertech7/view.py",
+				"/C/Manoj/Rooster/roostertech7/gt.bat",
+				"/C/Users/Manoj/Downloads/Telegreat/db.py",
+				"/C/Manoj/CST3-master/Data/SM/start.bat",
+				"/C/Manoj/Rooster/dronabot98/t.py",
+				"/C/Users/Manoj/Desktop/main.py",
+				"/C/Manoj/Rooster/dronabot98/tg.py",
+				"/C/Manoj/Rooster/dronabot98/app.py",
+				"/C/Manoj/Rooster/dronabot98/awb.py",
+				"/C/Manoj/Rooster/r7.cmd",
+				"/C/Users/Manoj/Downloads/Telegreat/mb.txt",
+				"/C/Manoj/Rooster/i",
+				"/C/Manoj/Rooster/dronabot98/mail.py",
+				"/C/Users/Manoj/Downloads/Telegreat/h.txt",
+				"/C/Users/Manoj/Downloads/Telegreat/broadcast.py",
+				"/C/Users/Manoj/Downloads/Telegreat/a.ahk",
+				"/C/Manoj/Rooster/dronabot98/appu.py",
+				"/C/Manoj/CST3-master/Data/Packages/User/Build/mBat.sublime-build",
+				"/C/Manoj/z/My3M/swe",
+				"/C/Manoj/Rooster/dronabot98/config.py",
+				"/C/Users/Manoj/Downloads/Telegreat/ora2pg.conf",
+				"/C/Manoj/Rooster/dronabot98/gt.cmd",
+				"/C/Manoj/Rooster/dronabot98/b.cmd",
+				"/C/Users/Manoj/Downloads/RDPWrap-v1.6.2/install.bat",
+				"/C/Users/Manoj/Desktop/a.bat",
+				"/C/Manoj/Rooster/dronabot98/adb.py",
 				"/C/Users/Manoj/Downloads/Telegreat/Rooster/WSRv3.py",
-				"/C/Manoj/M/p.py",
-				"/C/Manoj/M/srt.py",
-				"/C/p3.py",
+				"/C/Manoj/Rooster/dronabot98/t2.py",
+				"/C/Manoj/Rooster/dronabot98/h.html",
+				"/C/Manoj/Rooster/dronabot98/runtime.txt",
+				"/C/Users/Manoj/Downloads/Telegreat/t4.html",
+				"/C/Manoj/Rooster/dronabot98/sh.py",
+				"/C/CST3-master/Data/SM/Samples/hello_st3.py",
+				"/C/Manoj/Rooster/dronabot98/logs.py",
+				"/C/Manoj/Rooster/dronabot98/l.bat",
+				"/C/Manoj/Rooster/dronabot98/dom.cmd",
+				"/C/Users/Manoj/Downloads/Telegreat/encode_letter.py",
+				"/C/Users/Manoj/Downloads/Telegreat/Wub.ini",
+				"/C/CST3-master/Data/Packages/User/SublimeInput.sublime-settings",
+				"/C/Users/Manoj/Downloads/Telegreat/RES_2019_ODD_SARA.py",
 				"/C/Transcendence.2014.1080p.BluRay.x264.YIFY.srt",
+				"/C/Users/Manoj/Downloads/Telegreat/16CS_2019_ODD_SARA.csv",
+				"/C/CST3-master/Data/Packages/User/View In Browser.sublime-settings",
+				"/C/CST3-master/Data/Packages/View In Browser/ViewInBrowserCommand.py",
+				"/C/Manoj/Bots/smartmanojbot/l.bat",
+				"/C/Manoj/Bots/smartmanojbot/dom.cmd",
+				"/C/Manoj/Rooster/dronabot98/db.py",
+				"/C/Users/Manoj/Downloads/Telegreat/htz.py",
+				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/site-packages/telegram/bot.py",
+				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/Lib/site-packages/telegram/update.py",
+				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/Lib/site-packages/telegram/message.py",
+				"/C/Users/Manoj/Downloads/Telegreat/t2.html",
+				"/C/Manoj/y/p.py",
+				"/C/CST3-master/Data/SM/start.bat",
+				"/C/CST3-master/Data/Packages/Custom_Plugins/Example.py",
+				"/C/Users/Manoj/Downloads/Telegreat/eawb.html",
+				"/C/CST3-master/Data/Packages/Custom_Plugins/Test.py",
+				"/C/CST3-master/Data/SM/cst3.cmd",
+				"/C/Manoj/Rooster/dronabot98/requirements.txt",
+				"/C/CST3-master/Data/Packages/Custom_Plugins/Update.py",
+				"/C/CST3-master/Data/SM/Samples/hello_st3.cs",
+				"/C/CST3-master/Data/SM/update.py",
+				"/C/Manoj/Rooster/dronabot98/p.py",
+				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/site-packages/telegram/utils/request.py",
+				"/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/threading.py",
+				"/C/Manoj/index (2).py",
+				"/C/Users/Manoj/Downloads/Telegreat/p2.py",
+				"/C/Manoj/p2.py",
+				"/C/Manoj/v/p.py",
+				"/C/Manoj/t.py",
+				"/C/Manoj/p - Copy.py",
+				"/C/Manoj/p.py",
+				"/C/Users/Manoj/Downloads/Telegreat/index (3).py",
 				"/C/Users/Manoj/Downloads/Telegreat/index (2).py",
 				"/C/Manoj/Bots/dronabot98/sh.py",
 				"/C/Manoj/Bots/dronabot98/awb.py",
@@ -6280,114 +6251,20 @@
 				"/C/Manoj/Bots/dronabot98/requirements.txt",
 				"/C/Manoj/z/LibreOfficePortable/App/libreoffice/share/gallery/diagrams/Section-Hexagons01.svg",
 				"/C/Manoj/b.cmd",
-				"/C/Manoj/p.py",
-				"/C/Manoj/p2.py",
 				"/C/Manoj/b2",
 				"/C/Users/Manoj/Downloads/Telegreat/t.html",
-				"/C/Users/Manoj/Downloads/Telegreat/t2.html",
-				"/C/CST3-master/Data/Packages/User/Anaconda.sublime-settings",
-				"/C/CST3-master/Data/Packages/Anaconda/Anaconda.sublime-settings",
-				"/C/Users/Manoj/Downloads/Telegreat/z",
-				"/C/Users/Manoj/Downloads/Telegreat/t3.html",
-				"/C/Manoj/b",
-				"/C/Users/Manoj/Downloads/Telegreat/p2.py",
-				"/C/Users/Manoj/Downloads/Telegreat/index.py",
-				"/C/Users/Manoj/Downloads/Telegreat/Telegram Show Seconds.reg",
-				"/C/Manoj/index (2).py",
-				"/C/Manoj/t.py",
-				"/C/CST3-master/Data/Packages/User/Build/mWeb.sublime-build",
-				"/C/CST3-master/Data/Packages/Custom/php_run_browser.py",
-				"/C/CST3-master/Data/SM/b.cmd",
-				"/C/CST3-master/Data/SM/start.bat",
-				"/C/CST3-master/Data/SM/Features.md",
-				"/C/01 Essentials/1 Softwares/CST3-master/Data/SM/Samples/hello_st3.py",
-				"/C/01 Essentials/1 Softwares/CST3-master/Data/SM/start.bat",
-				"/C/Users/NIIT/Downloads/r1 - Copy.html",
-				"/C/Users/Rooster1/Downloads/Drona_V1.0/gt.cmd.txt",
-				"/C/Users/NIIT/Downloads/CST3-master/Data/SM/start.bat",
-				"/C/Users/NIIT/Downloads/CST3-master/Data/SM/Features.md",
-				"/D/SmartBot/my_env/SmartBot/b.cmd",
-				"/D/SmartBot/my_env/SmartBot/templates/gtcheck.html",
-				"/D/SmartBot/my_env/SmartBot/templates/wa2tg.html",
-				"/D/SmartBot/my_env/SmartBot/exlink.py",
-				"/D/SmartBot/my_env/SmartBot/zj",
-				"/C/Users/Smart/Documents/AnyDesk_run.py",
-				"/D/SmartBot/my_env/SmartBot/t.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/FAQ.md",
-				"/C/SM/p.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Features.md",
-				"/D/SmartBot/my_env/SmartBot/t2.py",
-				"/D/SmartBot/my_env/SmartBot/auto2.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/tg - Copy.bat",
-				"/D/SmartBot/my_env/SmartBot/t.html",
-				"/D/SmartBot/my_env/SmartBot/zd",
-				"/D/SmartBot/my_env/SmartBot/telegram.py",
-				"/D/SmartBot/my_env/SmartBot/config0.py",
-				"/D/SmartBot/my_env/SmartBot/config2.py",
-				"/D/SmartBot/my_env/SmartBot/tele.py",
-				"/D/SmartBot/my_env/SmartBot/config.py",
-				"/D/SmartBot/my_env/SmartBot/kec_rn.py",
-				"/D/SmartBot/my_env/SmartBot/gt.cmd",
-				"/C/Users/Smart/Downloads/Telegram Desktop/mondb (2).py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/mondb.py",
-				"/D/SmartBot/my_env/SmartBot/ese.py",
-				"/D/SmartBot/my_env/SmartBot/requirements.txt",
-				"/D/SmartBot/my_env/SmartBot/t3.py",
-				"/D/SmartBot/my_env/SmartBot/zlast",
-				"/C/Program Files (x86)/Hibernate Trigger/suspend.ini",
-				"/C/SM/log",
-				"/D/SmartBot/my_env/SmartBot/vg.py",
-				"/C/Users/Smart/Desktop/d2",
-				"/D/SmartBot/my_env/SmartBot/run_swf.html",
-				"/C/Users/Smart/Desktop/t.jpg",
-				"/C/Users/Smart/Downloads/Telegram Desktop/15CS_MAY_19_EVEN_SARA.csv",
-				"/C/Users/Smart/Downloads/Telegram Desktop/Walt disney (1).png",
-				"/C/Users/Smart/Downloads/Telegram Desktop/CGPA.csv",
-				"/C/Users/Smart/Downloads/Telegram Desktop/newfile.py",
-				"/D/1.Manoj/4.Study/4.Codes/101/Py/301/gtcheck.py",
-				"/D/SmartBot/my_env/SmartBot/vg_dob.py",
-				"/D/SmartBot/my_env/SmartBot/cg.py",
-				"/D/SmartBot/my_env/SmartBot/cf.py",
-				"/D/SmartBot/my_env/SmartBot/gt2.cmd",
-				"/D/SmartBot/my_env/SmartBot/Procfile",
-				"/D/SmartBot/my_env/SmartBot/Procfile2",
-				"/D/SmartBot/my_env/SmartBot/hpcl.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/Sample_data (3).py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/update.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/rr",
-				"/D/SmartBot/my_env/SmartBot/tele2.py",
-				"/D/SmartBot/my_env/SmartBot/app.py",
-				"/D/Moto/Moto_E1_adb_mfastboot/adb+mfastboot/Comandos Moto G1 G2 E1 E2.txt",
-				"/D/SmartBot/my_env/SmartBot/tidlist.py",
-				"/D/Moto/Moto_E1_adb_mfastboot/adb+mfastboot/Flash Twrp Moto E1.bat",
-				"/C/Users/Smart/Downloads/SP_Flash_Tool_v5.1343_Win.zip",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/SM/Quick.md",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Default/Main.sublime-menu",
-				"/D/SmartBot/my_env/SmartBot/z",
-				"/D/SmartBot/my_env/SmartBot/vg_data.py",
-				"/D/SmartBot/my_env/SmartBot/t4.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/zd",
-				"/D/SmartBot/my_env/SmartBot/v_18CSR077_sara.py",
-				"/C/Users/Smart/Downloads/Telegram Desktop/enable_wifi_for_windows_lite.cmd",
-				"/D/SmartBot/my_env/SmartBot/yt.py",
-				"/D/SmartBot/my_env/SmartBot/unsorted_pprint.py",
-				"/D/SmartBot/my_env/SmartBot/vec_rn.py",
-				"/E/Dad/Sum2/sum2.py",
-				"/D/SmartBot/my_env/SmartBot/helpf.py",
-				"/D/SmartBot/my_env/SmartBot/f2.py",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Python/Snippets/sam.sublime-snippet",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Python/Snippets/dtime.sublime-snippet",
-				"/D/1.Manoj/2.Soft-war/5.Rest/0.Codex/CST3/Data/Packages/Python/Snippets/dtime2.sublime-snippet"
+				"/C/CST3-master/Data/Packages/User/Anaconda.sublime-settings"
 			],
 			"find":
 			{
-				"height": 42.4
+				"height": 41.0
 			},
 			"find_in_files":
 			{
 				"height": 319.0,
 				"where_history":
 				[
+					""
 				]
 			},
 			"find_state":
@@ -6395,12 +6272,43 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"gm:",
-					"Q",
-					"b2",
-					"m2",
-					"datetime.now()",
-					"pinn"
+					"f2725f",
+					"f2724e",
+					"this.f2724e",
+					"content",
+					".addHeader",
+					"auto",
+					"PEP8",
+					"pep8",
+					"\\\\\"",
+					"\\\"",
+					".addHeader",
+					"aHR0cHM6Ly9wcm9kLnFwYXlzb2x1dGlvbnMubmV0L1FQYXkuc3ZjL2NoZWNrefghcGhvbmU=",
+					"m3411a",
+					"^\\s+\\d+",
+					"^\\d+",
+					"os",
+					"plt.show",
+					"plt",
+					"happy",
+					"happ",
+					"song",
+					"pdml",
+					"api",
+					"return",
+					"print",
+					"chat",
+					"awb",
+					"print",
+					"printpdf",
+					"tzt",
+					"new orders",
+					"new ord",
+					"Configuration 1",
+					"config",
+					"duty",
+					"user",
+					"social"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -6408,6 +6316,7 @@
 				"regex": true,
 				"replace_history":
 				[
+					"htz"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -6418,58 +6327,58 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 10,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Manoj/M/p2.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 191,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										102,
-										103
+										0,
+										0
 									]
 								],
 								"settings":
 								{
+									"default_dir": "C:\\Manoj\\Rooster\\roostertech6",
 									"syntax": "Packages/Python/Python.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 16,
+							"stack_index": 8,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/C/Users/Manoj/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
+							"file": "/C/Manoj/CST3-master/Data/Packages/User/Anaconda.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 10807,
+								"buffer_size": 354,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										252,
-										252
+										76,
+										76
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/AutoHotkey/AutoHotkey.tmLanguage",
-									"tab_size": 2,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
@@ -6481,105 +6390,19 @@
 						},
 						{
 							"buffer": 2,
-							"file": "/C/Manoj/CST3-master/Data/SM/update.py",
+							"file": "/C/Manoj/CST3-master/Data/Packages/Anaconda/Anaconda.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1020,
+								"buffer_size": 21768,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										872,
-										872
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 332.8,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/Manoj/CST3-master/Data/SM/jupyer_dark.cmd",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 43,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										43,
-										43
-									]
-								],
-								"settings":
-								{
-									"auto_name": "jt -t monokai -m 200",
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/C/Manoj/CST3-master/Data/SM/p3.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 19,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										19,
-										19
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/C/Manoj/CST3-master/Data/Packages/User/Anaconda.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 276,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										276,
-										276
+										7963,
+										7963
 									]
 								],
 								"settings":
@@ -6589,797 +6412,63 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/C/Manoj/CST3-master/Data/SM/cst3.cmd",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 526,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 14,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/C/Users/Manoj/Downloads/Telegreat/Dad/b.ahk",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 23,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										16,
-										16
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/AutoHotkey/AutoHotkey.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 12,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/C/Users/Manoj/Desktop/a.ahk",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 64,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/AutoHotkey/AutoHotkey.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 13,
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"auto_name": "",
-									"default_dir": "C:\\Manoj\\CST3-master\\Data\\SM",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 15,
-							"type": "text"
-						},
-						{
-							"buffer": 10,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 50,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										50,
-										50
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"auto_indent": false,
-									"default_dir": "C:\\Manoj\\M",
-									"detect_indentation": false,
-									"gutter": false,
-									"history_arrows": true,
-									"indent_subsequent_lines": false,
-									"line_numbers": false,
-									"repl": true,
-									"repl_external_id": "python",
-									"repl_id": "040db01a7ebd459bb2c443c3c466f15e",
-									"repl_restart_args":
-									{
-										"cmd":
-										[
-											"python",
-											"-u",
-											"$file_basename"
-										],
-										"cwd": "$file_path",
-										"encoding": "utf8",
-										"extend_env":
-										{
-											"PYTHONIOENCODING": "utf-8"
-										},
-										"external_id": "python",
-										"syntax": "Packages/Python/Python.tmLanguage",
-										"type": "subprocess"
-									},
-									"repl_sublime2": false,
-									"smart_indent": false,
-									"spell_check": false,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 18,
-							"type": "text"
-						},
-						{
-							"buffer": 11,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 50,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										50,
-										50
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"auto_indent": false,
-									"default_dir": "C:\\Manoj\\M",
-									"detect_indentation": false,
-									"gutter": false,
-									"history_arrows": true,
-									"indent_subsequent_lines": false,
-									"line_numbers": false,
-									"repl": true,
-									"repl_external_id": "python",
-									"repl_id": "5863b994543d4ddb99402217104a961e",
-									"repl_restart_args":
-									{
-										"cmd":
-										[
-											"python",
-											"-u",
-											"$file_basename"
-										],
-										"cwd": "$file_path",
-										"encoding": "utf8",
-										"extend_env":
-										{
-											"PYTHONIOENCODING": "utf-8"
-										},
-										"external_id": "python",
-										"syntax": "Packages/Python/Python.tmLanguage",
-										"type": "subprocess"
-									},
-									"repl_sublime2": false,
-									"smart_indent": false,
-									"spell_check": false,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 20,
-							"type": "text"
-						},
-						{
-							"buffer": 12,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 662,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										662,
-										662
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"auto_indent": false,
-									"default_dir": "C:\\Manoj\\M",
-									"detect_indentation": false,
-									"gutter": false,
-									"history_arrows": true,
-									"indent_subsequent_lines": false,
-									"line_numbers": false,
-									"repl": true,
-									"repl_external_id": "python",
-									"repl_id": "a3bb0b0eca824b9abe53d213fbe58a9f",
-									"repl_restart_args":
-									{
-										"encoding": "utf8",
-										"syntax": "Packages/Python/Python.tmLanguage",
-										"type": "sublime_python"
-									},
-									"repl_sublime2": false,
-									"smart_indent": false,
-									"spell_check": false,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 384.0,
+								"translation.y": 3709.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 10,
 							"type": "text"
 						},
 						{
-							"buffer": 13,
+							"buffer": 3,
+							"file": "/C/Manoj/Rooster/roostertech6/gt.bat",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 50,
+								"buffer_size": 931,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										50,
-										50
+										224,
+										224
 									]
 								],
 								"settings":
 								{
-									"auto_complete": true,
-									"auto_indent": false,
-									"default_dir": "C:\\Manoj\\M",
-									"detect_indentation": false,
-									"gutter": false,
-									"history_arrows": true,
-									"indent_subsequent_lines": false,
-									"line_numbers": false,
-									"repl": true,
-									"repl_external_id": "python",
-									"repl_id": "1645c8bb3c5d4f479cbb21b3c1fea8bb",
-									"repl_restart_args":
-									{
-										"cmd":
-										[
-											"python",
-											"-u",
-											"$file_basename"
-										],
-										"cwd": "$file_path",
-										"encoding": "utf8",
-										"extend_env":
-										{
-											"PYTHONIOENCODING": "utf-8"
-										},
-										"external_id": "python",
-										"syntax": "Packages/Python/Python.tmLanguage",
-										"type": "subprocess"
-									},
-									"repl_sublime2": false,
-									"smart_indent": false,
-									"spell_check": false,
-									"syntax": "Packages/Python/Python.tmLanguage",
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 19,
-							"type": "text"
-						},
-						{
-							"buffer": 14,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 191,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										191,
-										191
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"auto_indent": false,
-									"default_dir": "C:\\Manoj\\M",
-									"detect_indentation": false,
-									"gutter": false,
-									"history_arrows": true,
-									"indent_subsequent_lines": false,
-									"line_numbers": false,
-									"repl": true,
-									"repl_external_id": "python",
-									"repl_id": "221db89440c34e2480de26ca9bd6236e",
-									"repl_restart_args":
-									{
-										"autocomplete_server": true,
-										"cmd":
-										{
-											"linux":
-											[
-												"python",
-												"-u",
-												"${packages}/SublimeREPL/config/Python/ipy_repl.py"
-											],
-											"osx":
-											[
-												"python",
-												"-u",
-												"${packages}/SublimeREPL/config/Python/ipy_repl.py"
-											],
-											"windows":
-											[
-												"python",
-												"-u",
-												"${packages}/SublimeREPL/config/Python/ipy_repl.py"
-											]
-										},
-										"cwd": "$file_path",
-										"encoding": "utf8",
-										"extend_env":
-										{
-											"PYTHONIOENCODING": "utf-8",
-											"SUBLIMEREPL_EDITOR": "\"python\""
-										},
-										"external_id": "python",
-										"syntax": "Packages/Python/Python.tmLanguage",
-										"type": "subprocess"
-									},
-									"repl_sublime2": false,
-									"smart_indent": false,
-									"spell_check": false,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 23,
-							"type": "text"
-						},
-						{
-							"buffer": 15,
-							"file": "/C/Users/Manoj/AppData/Local/Programs/Python/Python38/lib/site-packages/sympy/core/basic.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 67914,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										28900,
-										28900
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 17724.8,
-								"zoom_level": 1.0
-							},
-							"stack_index": 24,
-							"type": "text"
-						},
-						{
-							"buffer": 16,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"default_dir": "C:\\Manoj\\M",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 25,
-							"type": "text"
-						},
-						{
-							"buffer": 17,
-							"file": "/C/Manoj/CST3-master/Data/SM/Samples/hello_st3.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 55,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 22,
-							"type": "text"
-						},
-						{
-							"buffer": 18,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 87,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										87,
-										87
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"auto_indent": false,
-									"default_dir": "C:\\Manoj\\CST3-master\\Data\\SM\\Samples",
-									"detect_indentation": false,
-									"gutter": false,
-									"history_arrows": true,
-									"indent_subsequent_lines": false,
-									"line_numbers": false,
-									"repl": true,
-									"repl_external_id": "python",
-									"repl_id": "49fd27a73b304ddab2a89778c9e977ef",
-									"repl_restart_args":
-									{
-										"cmd":
-										[
-											"python",
-											"-i",
-											"-u",
-											"-m",
-											"pdb",
-											"$file_basename"
-										],
-										"cwd": "$file_path",
-										"encoding": "utf8",
-										"extend_env":
-										{
-											"PYTHONIOENCODING": "utf-8"
-										},
-										"external_id": "python",
-										"syntax": "Packages/Python/Python.tmLanguage",
-										"type": "subprocess"
-									},
-									"repl_sublime2": false,
-									"smart_indent": false,
-									"spell_check": false,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 21,
-							"type": "text"
-						},
-						{
-							"buffer": 19,
-							"file": "/C/Manoj/CST3-master/Data/Packages/Default/Main.sublime-menu",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 55233,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										54786,
-										54786
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 19938.4,
-								"zoom_level": 1.0
-							},
-							"stack_index": 27,
-							"type": "text"
-						},
-						{
-							"buffer": 20,
-							"file": "/C/Manoj/M/p.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 43,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										43,
-										43
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 11,
-							"type": "text"
-						},
-						{
-							"buffer": 21,
-							"file": "/C/Manoj/M/b.cmd",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 27,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										27,
-										27
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 26,
-							"type": "text"
-						},
-						{
-							"buffer": 22,
-							"file": "/C/Manoj/CST3-master/Data/SM/Samples/hello_st3.cmd",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 27,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										9,
-										9
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 17,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 4,
-					"sheets":
-					[
-						{
-							"buffer": 23,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"default_dir": "C:\\Manoj\\CST3-master\\Data\\SM",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 240.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 7,
 							"type": "text"
 						},
 						{
-							"buffer": 24,
+							"buffer": 4,
+							"file": "/C/Manoj/Rooster/roostertech6/app.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 199,
+								"buffer_size": 13925,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										199,
-										199
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"auto_complete": true,
-									"auto_indent": false,
-									"default_dir": "C:\\Manoj\\CST3-master\\Data\\SM",
-									"detect_indentation": false,
-									"gutter": false,
-									"history_arrows": true,
-									"indent_subsequent_lines": false,
-									"line_numbers": false,
-									"repl": true,
-									"repl_external_id": "python",
-									"repl_id": "d75ada567c79418c95ae8f1e7c40ac84",
-									"repl_restart_args":
-									{
-										"autocomplete_server": true,
-										"cmd":
-										{
-											"linux":
-											[
-												"python",
-												"-u",
-												"${packages}/SublimeREPL/config/Python/ipy_repl.py"
-											],
-											"osx":
-											[
-												"python",
-												"-u",
-												"${packages}/SublimeREPL/config/Python/ipy_repl.py"
-											],
-											"windows":
-											[
-												"python",
-												"-u",
-												"${packages}/SublimeREPL/config/Python/ipy_repl.py"
-											]
-										},
-										"cwd": "$file_path",
-										"encoding": "utf8",
-										"extend_env":
-										{
-											"PYTHONIOENCODING": "utf-8",
-											"SUBLIMEREPL_EDITOR": "\"python\""
-										},
-										"external_id": "python",
-										"syntax": "Packages/Python/Python.tmLanguage",
-										"type": "subprocess"
-									},
-									"repl_sublime2": false,
-									"smart_indent": false,
-									"spell_check": false,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -7389,101 +6478,69 @@
 							"type": "text"
 						},
 						{
-							"buffer": 25,
+							"buffer": 5,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 25,
+								"buffer_size": 4,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										25,
-										25
+										4,
+										4
 									]
 								],
 								"settings":
 								{
-									"auto_complete": true,
-									"auto_indent": false,
-									"default_dir": "C:\\Manoj\\CST3-master\\Data\\SM",
-									"detect_indentation": false,
-									"gutter": false,
-									"history_arrows": true,
-									"indent_subsequent_lines": false,
-									"line_numbers": false,
-									"repl": true,
-									"repl_external_id": "python",
-									"repl_id": "0e60b41c5254413bad1aa9b543198fd7",
-									"repl_restart_args":
-									{
-										"cmd":
-										[
-											"python",
-											"-u",
-											"$file_basename"
-										],
-										"cwd": "$file_path",
-										"encoding": "utf8",
-										"extend_env":
-										{
-											"PYTHONIOENCODING": "utf-8"
-										},
-										"external_id": "python",
-										"syntax": "Packages/Python/Python.tmLanguage",
-										"type": "subprocess"
-									},
-									"repl_sublime2": false,
-									"smart_indent": false,
-									"spell_check": false,
-									"syntax": "Packages/Python/Python.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"auto_name": "dfer",
+									"default_dir": "C:\\Manoj\\Rooster\\roostertech6",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Users/Manoj/AppData/Local/Temp/JavaDeployReg.log",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 37344,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7945,
+										7972
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1920.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 4,
 							"type": "text"
 						},
 						{
-							"buffer": 26,
-							"file": "/C/Users/Manoj/Downloads/Telegreat/Dad/Ganesh/p.py",
+							"buffer": 7,
+							"file": "/C/Program Files (x86)/Java",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1216,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										429,
-										429
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 27,
-							"file": "/C/Users/Manoj/Downloads/Telegreat/p (6).py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 169,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
@@ -7496,7 +6553,35 @@
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax"
+									"syntax": "Packages/Java/Java.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/Users/Manoj/AppData/Local/Temp/womens-day_030816055529.heic",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -7504,13 +6589,128 @@
 							},
 							"stack_index": 2,
 							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/C/Users/Manoj/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/tds.ahk",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10924,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2685,
+										2685
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/AutoHotkey/AutoHotkey.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1440.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/C/Manoj/CST3-master/Data/SM/cst3.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 535,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										116,
+										116
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/C/Manoj/Rooster/roostertech6/form_filler.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6328,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5534,
+										5534
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2292.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/C/Manoj/Rooster/roostertech6/old/b.cmd",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										18,
+										18
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
 						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 34.0
 			},
 			"input":
 			{
@@ -7525,18 +6725,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -7560,7 +6753,7 @@
 			},
 			"output.exec":
 			{
-				"height": 195.0
+				"height": 409.0
 			},
 			"output.find_results":
 			{
@@ -7580,10 +6773,10 @@
 			},
 			"pinned_build_system": "",
 			"position": "0,2,3,-32000,-32000,-1,-1,627,51,51,830",
-			"project": "M.sublime-project",
+			"project": "RoosterTech6.sublime-project",
 			"replace":
 			{
-				"height": 54.0
+				"height": 74.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -7593,40 +6786,180 @@
 				"selected_items":
 				[
 					[
+						"app",
+						"app.py"
+					],
+					[
 						"p",
 						"p.py"
 					],
 					[
-						"p2",
-						"p2.py"
-					],
-					[
-						"T.P",
-						"t.py"
+						"msg",
+						"msg.py"
 					],
 					[
 						"gt",
-						"gt.cmd"
+						"gt.bat"
 					],
 					[
-						"au",
-						"auto2.py"
+						"ind",
+						"templates\\index.html"
 					],
 					[
-						"sh",
-						"z\\LibreOfficePortable\\App\\libreoffice\\share\\gallery\\diagrams\\Section-Hexagons01.svg"
+						"b.c",
+						"old\\b.cmd"
 					],
 					[
-						"t",
-						"C:\\Users\\Manoj\\Downloads\\Telegreat\\t3.html"
+						"",
+						"app.py"
+					],
+					[
+						"conf",
+						"config.py"
+					],
+					[
+						"vl",
+						"vlc.py"
+					],
+					[
+						"ap",
+						"app.py"
 					],
 					[
 						"t2",
-						"C:\\Users\\Manoj\\Downloads\\Telegreat\\t2.html"
+						"t2.py"
+					],
+					[
+						"t",
+						"t.py"
 					],
 					[
 						"b",
+						"old\\b.cmd"
+					],
+					[
+						"git",
+						".gitignore"
+					],
+					[
+						"fo",
+						"form_filler.py"
+					],
+					[
+						"a",
+						"app.py"
+					],
+					[
+						"co",
+						"config.py"
+					],
+					[
+						"f",
+						"form_filler.py"
+					],
+					[
+						"t.",
+						"templates\\t.html"
+					],
+					[
+						"re",
+						"requirements.txt"
+					],
+					[
+						"run",
+						"runtime.txt"
+					],
+					[
+						"t.h",
+						"templates\\t.html"
+					],
+					[
+						"l",
+						"l.bat"
+					],
+					[
+						"dom",
+						"dom.cmd"
+					],
+					[
+						"con",
+						"config.py"
+					],
+					[
+						"bas",
+						"templates\\admin\\base.html"
+					],
+					[
+						"base",
+						"templates\\admin\\base.html"
+					],
+					[
+						"vi",
+						"view.py"
+					],
+					[
+						"tg",
+						"tg.py"
+					],
+					[
+						"ma",
+						"mail.py"
+					],
+					[
+						"b.",
 						"b.cmd"
+					],
+					[
+						"aw",
+						"awb.py"
+					],
+					[
+						"ht",
+						"h.html"
+					],
+					[
+						"gt\t",
+						"gt.cmd"
+					],
+					[
+						"lo",
+						"logs.py"
+					],
+					[
+						"awb",
+						"awb.py"
+					],
+					[
+						"db",
+						"db.py"
+					],
+					[
+						"sh",
+						"sh.py"
+					],
+					[
+						"h",
+						"h.html"
+					],
+					[
+						"s",
+						"sh.py"
+					],
+					[
+						"ru",
+						"runtime.txt"
+					],
+					[
+						"domm",
+						"dom.cmd"
+					],
+					[
+						"w",
+						"awb.py"
+					],
+					[
+						"fe",
+						"fedex.py"
 					],
 					[
 						"hpc",
@@ -7665,8 +6998,8 @@
 						"ese.py"
 					],
 					[
-						"re",
-						"requirements.txt"
+						"au",
+						"auto2.py"
 					],
 					[
 						"z",
@@ -7689,18 +7022,6 @@
 						"kec_rn.py"
 					],
 					[
-						"con",
-						"config.py"
-					],
-					[
-						"h",
-						"t.html"
-					],
-					[
-						"",
-						"tele.py"
-					],
-					[
 						"c",
 						"config.py"
 					],
@@ -7711,10 +7032,6 @@
 					[
 						"cf",
 						"config2.py"
-					],
-					[
-						"co",
-						"config0.py"
 					],
 					[
 						"tele",
@@ -7729,10 +7046,6 @@
 						"templates\\wa2tg.html"
 					],
 					[
-						"conf",
-						"config.py"
-					],
-					[
 						"cg",
 						"cg.py"
 					],
@@ -7745,16 +7058,8 @@
 						"gt.cmd"
 					],
 					[
-						"app",
-						"app.py"
-					],
-					[
 						"py",
 						"telegram.py"
-					],
-					[
-						"ap",
-						"app.py"
 					],
 					[
 						"cmd",
@@ -7801,10 +7106,6 @@
 						"auto2.py"
 					],
 					[
-						"l",
-						"l.bat"
-					],
-					[
 						"zt",
 						"zt.py"
 					],
@@ -7845,10 +7146,6 @@
 						"telegram.py"
 					],
 					[
-						"a",
-						"auto2.py"
-					],
-					[
 						"zrn",
 						"zrn.txt"
 					],
@@ -7861,16 +7158,8 @@
 						"fac2.py"
 					],
 					[
-						"f",
-						"f2.py"
-					],
-					[
 						"fa",
 						"fac.py"
-					],
-					[
-						"lo",
-						"log"
 					],
 					[
 						"log",
@@ -7917,10 +7206,6 @@
 						".gitignore"
 					],
 					[
-						"ht",
-						"t.html"
-					],
-					[
 						"ocr",
 						"D:\\1.Manoj\\4.Study\\4.Codes\\ocr.py"
 					],
@@ -7941,24 +7226,12 @@
 						"switch.py"
 					],
 					[
-						"tg",
-						"telegram.py"
-					],
-					[
 						"sa",
 						"C:\\Users\\Smart\\Desktop\\Sample_data.py"
 					],
 					[
 						"hel",
 						"helpf.py"
-					],
-					[
-						"b.",
-						"b.cmd"
-					],
-					[
-						"t.",
-						"t.py"
 					],
 					[
 						"ato",
@@ -7997,6 +7270,10 @@
 						"Find Results"
 					],
 					[
+						"p2",
+						"p2.py"
+					],
+					[
 						"auo",
 						"auto.py"
 					],
@@ -8019,90 +7296,6 @@
 					[
 						"coe",
 						"coe.py"
-					],
-					[
-						"KEC",
-						"kec_rn.py"
-					],
-					[
-						"pip",
-						"pips.bat"
-					],
-					[
-						"confi",
-						"config.py"
-					],
-					[
-						"c2",
-						"config2.py"
-					],
-					[
-						"m",
-						"cseb_mdet.py"
-					],
-					[
-						"dom",
-						"dom.cmd"
-					],
-					[
-						"n2",
-						"n2w.py"
-					],
-					[
-						"w",
-						"way2.py"
-					],
-					[
-						"bk",
-						"bk.py"
-					],
-					[
-						"fee",
-						"fees.py"
-					],
-					[
-						"logs",
-						"logs.py"
-					],
-					[
-						"z2",
-						"z2.py"
-					],
-					[
-						"z.",
-						"z2.py"
-					],
-					[
-						"dob",
-						"dobl.py"
-					],
-					[
-						"r",
-						"requirements.txt"
-					],
-					[
-						"ge",
-						"gen.py"
-					],
-					[
-						"run",
-						"runtime.txt"
-					],
-					[
-						"n2w",
-						"n2w.py"
-					],
-					[
-						"gen",
-						"gen.py"
-					],
-					[
-						"dcm",
-						"dom.cmd"
-					],
-					[
-						"cn",
-						"config.py"
 					]
 				],
 				"width": 0.0
@@ -8115,11 +7308,35 @@
 				[
 					[
 						"",
+						"C:\\SM\\CST3\\RoosterTech7.sublime-project"
+					],
+					[
+						"sa",
 						"C:\\Manoj\\Sublz\\Sara.sublime-project"
 					],
 					[
-						"drp",
+						"dr",
 						"C:\\Manoj\\Sublz\\Drona.sublime-project"
+					],
+					[
+						"d",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-workspace"
+					],
+					[
+						"r",
+						"C:\\SM\\CST3\\RoosterTech7.sublime-project"
+					],
+					[
+						"7",
+						"C:\\SM\\CST3\\RoosterTech7.sublime-project"
+					],
+					[
+						"dd",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-workspace"
+					],
+					[
+						"bot",
+						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-workspace"
 					],
 					[
 						"hot",
@@ -8138,10 +7355,6 @@
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
 					[
-						"dr",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-project"
-					],
-					[
 						"t",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
 					],
@@ -8156,10 +7369,6 @@
 					[
 						"bo",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Bot.sublime-project"
-					],
-					[
-						"d",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Sublz\\Drona.sublime-project"
 					],
 					[
 						"na",
@@ -8194,10 +7403,6 @@
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Bot.sublime-project"
 					],
 					[
-						"bot",
-						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\Bot.sublime-project"
-					],
-					[
 						"f",
 						"D:\\1.Manoj\\2.Soft-war\\2.Batch-files\\vv.sublime-project"
 					],
@@ -8210,17 +7415,17 @@
 			},
 			"select_symbol":
 			{
-				"height": 302.0,
+				"height": 392.0,
 				"last_filter": "",
 				"selected_items":
 				[
 					[
-						"hp_stock2",
-						"hp_stock2"
+						"",
+						"!+Right"
 					],
 					[
-						"",
-						"api_wa"
+						"hp_stock2",
+						"hp_stock2"
 					],
 					[
 						"sen",
@@ -8319,18 +7524,18 @@
 			{
 			},
 			"window_id": 208,
-			"workspace_name": "/C/Manoj/Sublz/M.sublime-workspace"
+			"workspace_name": "/C/SM/CST3/RoosterTech6.sublime-workspace"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/C/SM/CST3/RoosterTech6.sublime-workspace",
 			"/C/Manoj/Sublz/M.sublime-workspace",
 			"/C/Manoj/Sublz/Drona.sublime-workspace",
 			"/C/Manoj/Sublz/Sara.sublime-workspace",
 			"/C/SM/CST3/RoosterTech7.sublime-workspace",
-			"/C/SM/CST3/RoosterTech6.sublime-workspace",
 			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Bot.sublime-workspace",
 			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/HongKong.sublime-workspace",
 			"/D/1.Manoj/2.Soft-war/2.Batch-files/Sublz/Manoj.sublime-workspace",

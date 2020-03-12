@@ -959,12 +959,12 @@
         [
             {"caption": "FAQ","command": "open_file", "args": {"file": "$packages\\..\\SM\\FAQ.md"}},
             { "command": "open_url", "args": {"url": "https://t.me/SmartManoj"}, "caption": "Contact Dev","mnemonic": "T" },
-            {
-         "command": "open_file", "args": {"file": "c:\\Windows\\System32\\Drivers\\etc\\hosts","flag":1}, "caption": "hosts",
-    },
         ]
 
        
+    },
+            {
+         "command": "open_file", "args": {"file": "c:\\Windows\\System32\\Drivers\\etc\\hosts","flag":1}, "caption": "hosts",
     },
     {"command": "open_file", "args": {"file": "b.cmd"}, "caption": "B" },
     { "command": "open_dir", "args": {"dir": "$packages\\Python\\Snippets"}, "caption": "S",},
