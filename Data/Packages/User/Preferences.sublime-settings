@@ -1,0 +1,19 @@
+{
+	"auto_complete_selector": "",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"create_window_at_startup": false,
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Anaconda",
+		"ANSIescape",
+		"Build Next",
+		"Pretty JSON",
+		"sublime-text-2-buildview",
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"show_encoding": true,
+	"update_check": false,
+	"word_wrap": true
+}

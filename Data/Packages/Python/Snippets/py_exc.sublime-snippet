@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+def fexc(e,j=0):
+	exc_type, exc_obj, exc_tb = sys.exc_info()
+	tb = traceback.extract_tb(exc_tb)[-1]
+	print('{}\n{} {}'.format(e,tb[2],tb[1]))
+	if j:traceback.print_exc()
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>exc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

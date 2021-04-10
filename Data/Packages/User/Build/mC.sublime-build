@@ -1,0 +1,17 @@
+{
+    "cmd": ["gcc",   "$file", "-o", "$file_base_name.exe", "&&", "$file_base_name"],
+    "file_regex": "^(.*?):([0-9]+):([0-9]+): (?:error|warning): (.+)",
+    "working_dir": "${project_path:${folder}}",
+    "selector": "source.c",
+    "shell": true,
+    "variants":[
+    	{
+    		"name":"cmd",
+    		 "cmd": ["gcc",   "$file", "-o", "$file_base_name.exe", "&&", "start", "cmd","/c","$file_base_name & pause"],
+		    "file_regex": "^(.*?):([0-9]+):([0-9]+): (?:error|warning): (.+)",
+		    "working_dir": "${project_path:${folder}}",
+		    "selector": "source.c",
+		    "shell": true,
+    	}
+    ]
+}

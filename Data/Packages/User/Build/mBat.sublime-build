@@ -1,0 +1,13 @@
+{
+	"cmd": "$file" ,
+	"selector": "source.dosbatch",
+	"variants":[
+        {
+            "name":"cmd",
+            "shell_cmd": "start cmd /c \"\"$file\" &pause\"",
+            "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+            "selector": "source.dosbatch",
+            "shell":false,
+        },
+    ]
+}

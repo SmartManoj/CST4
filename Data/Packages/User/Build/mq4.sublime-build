@@ -1,0 +1,7 @@
+{
+    "cmd": "\"C:\\Users\\Smart\\AppData\\Roaming\\IG MetaTrader 4 Terminal\\metaeditor.exe\" /compile:\"$file\"",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "working_dir": "${project_path:${folder}}",
+    "selector": "source.c++",
+    "shell": false,
+}

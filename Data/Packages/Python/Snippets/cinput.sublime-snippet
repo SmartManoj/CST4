@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+inputv='''
+${1}
+'''.strip().splitlines()
+inputc=-1
+def input(a=None):
+	global inputc
+	if a:print(a,end='')
+	inputc+=1
+	return inputv[inputc]
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cinput</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

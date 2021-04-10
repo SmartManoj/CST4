@@ -1,0 +1,9 @@
+{
+    "cmd": ["kotlinc.bat", "$file", "-include-runtime", "-d", "$file_path/$file_base_name.jar", "&&","java", "-jar", "$file_path/$file_base_name.jar"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "working_dir": "$file_path",
+    "selector": "source.Kotlin",
+    "windows": {
+        "encoding": "utf-8"
+    },
+}
