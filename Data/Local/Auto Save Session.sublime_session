@@ -4195,7 +4195,7 @@
 					"file": "/C/Users/Smart/Downloads/CST3-master/Data/SM/cst3.cmd",
 					"settings":
 					{
-						"buffer_size": 535,
+						"buffer_size": 531,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -6579,15 +6579,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 535,
+								"buffer_size": 531,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										59,
-										59
+										267,
+										267
 									]
 								],
 								"settings":
@@ -6595,7 +6595,7 @@
 									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 114.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
