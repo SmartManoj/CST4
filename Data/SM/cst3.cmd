@@ -2,7 +2,7 @@
 rem exit
 rem heroku accounts:set p
 call a.cmd
-git init
+rem git init
 
 if "1" EQU "1." (
 	git pull origin maFacebook ster
@@ -14,7 +14,7 @@ git add .
 rem git rm -r --cached Data/Backup
 rem git rm -r --cached 	Data/Cache
 git commit -m 'Cool'
-git push --set-upstream https://github.com/SmartManoj/CST3 master
+rem git push --set-upstream https://github.com/SmartManoj/CST3 master
 git remote add origin https://github.com/SmartManoj/CST3.git
 git push --force origin master 
 rem git push  origin master
