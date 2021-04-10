@@ -15,7 +15,7 @@ rem git rm -r --cached Data/Backup
 rem git rm -r --cached 	Data/Cache
 git commit -m 'Cool'
 git push --set-upstream https://github.com/SmartManoj/CST3 master
-rem git remote add origin https://github.com/SmartManoj/CST3.git
+git remote add origin https://github.com/SmartManoj/CST3.git
 git push --force origin master 
 rem git push  origin master
 rem git push -u  https://github.com/SmartManoj/CST3  --force

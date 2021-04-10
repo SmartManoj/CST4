@@ -4195,7 +4195,7 @@
 					"file": "/C/Users/Smart/Downloads/CST3-master/Data/SM/cst3.cmd",
 					"settings":
 					{
-						"buffer_size": 531,
+						"buffer_size": 527,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -6579,15 +6579,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 531,
+								"buffer_size": 527,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										267,
-										267
+										329,
+										329
 									]
 								],
 								"settings":
