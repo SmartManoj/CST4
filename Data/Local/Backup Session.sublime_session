@@ -1,0 +1,1216 @@
+{
+	"folder_history":
+	[
+		"/C/Users/M/Desktop/f",
+		"/C/Users/M/Desktop/ft",
+		"/C/Users/M/Desktop/amp/docket_bot",
+		"/C/Users/M/Desktop/rep",
+		"/C/Users/M/Desktop/amp",
+		"/D/CST3-master/Data/Packages/Anaconda",
+		"/C/Users/M/Desktop/flask_jsondash",
+		"/C/Users/M/Desktop/sara-the-queen-bot",
+		"/D/CST4/Data/Packages",
+		"/C/Users/M/Desktop/ps",
+		"/D/CST3-master/Data/Packages",
+		"/C/Users/M/Desktop/s"
+	],
+	"last_version": 4113,
+	"last_window_id": 20,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 600.0,
+		"new_window_maximized": true,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"res",
+						"response"
+					],
+					[
+						"cont",
+						"contact"
+					],
+					[
+						"repl",
+						"reply_text"
+					],
+					[
+						"spli",
+						"splitlines"
+					],
+					[
+						"par",
+						"parse_range"
+					],
+					[
+						"att",
+						"attrs"
+					],
+					[
+						"prin",
+						"print_attributes"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/Build/mPy.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mPy.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/Build/mPy.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mPy.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/Build/mBat.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mBat.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/Build/mBat.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Rename File"
+					],
+					[
+						"r",
+						"Rename File"
+					],
+					[
+						"ren",
+						"Rename File"
+					],
+					[
+						"du",
+						"File: Duplicate"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rn",
+						"Rename File"
+					],
+					[
+						"ext",
+						"Extract Sublime Package: Extract all packages"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"cus",
+						"UI: Customize Theme"
+					],
+					[
+						"sche",
+						"UI: Select Color Scheme"
+					],
+					[
+						"scheme",
+						"UI: Select Color Scheme"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 246.0,
+				"history":
+				[
+					"view.run_command('python_shell_to_code')",
+					"view.run_command('example')",
+					"view.run_command('python_shell_to_code')",
+					"view.run_command('example')",
+					"view.run_command('python_shell_to_code')",
+					"sublime.message_dialog('34')",
+					"view.run_command('python_shell_to_code')",
+					"view.run_command(python_shell_to_code)",
+					"python_shell_to_code"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/M/Downloads/64Gram Desktop/gen.py",
+				"/C/Users/M/Desktop/ft/config.json",
+				"/C/Users/M/Desktop/otp.py",
+				"/C/Python39/Lib/site-packages/freqtrade/exchange/binance.py",
+				"/C/Python39/Lib/site-packages/freqtrade/exchange/exchange.py",
+				"/C/Python39/Lib/site-packages/freqtrade/wallets.py",
+				"/C/Python39/Lib/site-packages/freqtrade/freqtradebot.py",
+				"/C/Users/M/Desktop/ft/user_data/strategies/scalp.py",
+				"/C/Users/M/Downloads/64Gram Desktop/zatca-envoice-sdk-dec405102021-V3.1/Apps/Readme.md",
+				"/C/Users/M/Desktop/c.java",
+				"/C/Users/M/Desktop/amp/test.py",
+				"/C/Users/M/Desktop/amp/p.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/hpcl.py",
+				"/C/Users/M/Downloads/64Gram Desktop/ArgumentsConfigurationLoader.java",
+				"/C/Users/M/Downloads/64Gram Desktop/zatca-envoice-sdk-dec405102021-V3.1/Apps/install.sh",
+				"/C/Users/M/Downloads/64Gram Desktop/zatca-envoice-sdk-dec405102021-V3.1/Apps/fatoorah.bat",
+				"/C/Users/M/Downloads/64Gram Desktop/zatca-envoice-sdk-dec405102021-V3.1/Apps/install.bat",
+				"/D/CST4/Data/Packages/Default/Main.sublime-menu",
+				"/C/Users/M/Desktop/f/user_data/strategies/scalp.py",
+				"/C/Users/M/Desktop/f/user_data/strategies/sample_strategy.py",
+				"/C/Python39/lib/site-packages/fpdf/html.py",
+				"/D/M/D2/rsp/9.sep",
+				"/C/Users/M/Desktop/rep/login.py",
+				"/C/Users/M/Desktop/rep/t.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/t.py",
+				"/D/CST4/Data/Packages/Custom_Plugins/PythonShellToCode.py",
+				"/D/CST4/Data/Packages/Custom_Plugins/Example.py",
+				"/D/CST4/Data/Packages/Terminal/Terminal.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/membersz.csv",
+				"/D/CST4/Data/Packages/Custom_Plugins/Update.py",
+				"/D/CST4/Data/Packages/User/Custom_Plugins/PythonShellToCode.py",
+				"/D/CST4/Data/Packages/User/Custom_Plugins/Example.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/y4.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/y3.py",
+				"/D/CST4/Data/Packages/Default/exec.py",
+				"/C/Users/M/Desktop/amp/app2.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/y2.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/t-contact.py",
+				"/D/CST4/Data/Packages/User/Commands/Custom.sublime-commands",
+				"/D/CST4/Data/Packages/Anaconda/Default.sublime-commands",
+				"/D/CST4/Data/SM/start.bat",
+				"/D/CST4/Data/SM/Quick.md",
+				"/C/Users/M/Desktop/sara-the-queen-bot/t2.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/contacts.csv",
+				"/D/CST4/Data/Packages/Anaconda/commands/autoformat.py",
+				"/D/CST3-master/Data/Packages/User/Commands/Custom.sublime-commands",
+				"/C/Users/M/Desktop/sara-the-queen-bot/contacts_m.csv",
+				"/C/Users/M/Desktop/sara-the-queen-bot/members_KEC CSE Alumni 👩‍💻👨‍💻.csv",
+				"/D/CST4/Data/SM/FAQ.md",
+				"/C/Users/M/Desktop/sara-the-queen-bot/members_2016-2021 CSE Alumni.csv",
+				"/C/Users/M/Desktop/sara-the-queen-bot/kec_bot3.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/gt.cmd",
+				"/C/Users/M/Desktop/sara-the-queen-bot/t-sara.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/contacts2.csv",
+				"/D/CST4/Data/Packages/User/Anaconda.sublime-settings",
+				"/D/CST4/Data/Packages/Anaconda/Anaconda.sublime-settings",
+				"/C/Users/M/Desktop/sara-the-queen-bot/members_Manoj's Staff.csv",
+				"/C/Users/M/Desktop/sara-the-queen-bot/members_t2.csv",
+				"/C/Users/M/Desktop/sara-the-queen-bot/tthon.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/b.cmd",
+				"/C/Users/M/Desktop/sara-the-queen-bot/app.py",
+				"/D/CST4/Data/Packages/User/Snippets/env.sublime-snippet",
+				"/D/CST4/Data/Packages/View In Browser/ViewInBrowserCommand.py",
+				"/C/Users/M/Desktop/ps/t.py",
+				"/C/Users/M/Desktop/ps/fmb.py",
+				"/D/CST4/Data/SM/.gitignore",
+				"/D/CST4/Data/Packages/User/View In Browser.sublime-settings",
+				"/C/Users/M/Desktop/ps/h.html",
+				"/C/Users/M/Desktop/ps/data3.py",
+				"/D/CST4/Data/SM/gt.cmd",
+				"/D/CST4/Data/Packages/View In Browser/View In Browser.sublime-settings",
+				"/D/CST4/Data/Packages/View In Browser/Default (Windows).sublime-keymap",
+				"/D/CST4/Data/Packages/View In Browser/Default (OSX).sublime-keymap",
+				"/D/CST4/Data/Packages/View In Browser/Default (Linux).sublime-keymap",
+				"/D/CST4/Data/Packages/User/Terminal (Windows).sublime-settings",
+				"/D/CST4/Data/Packages/Terminal/Terminal.sublime-settings",
+				"/D/CST4/Data/Packages/User/Terminal.sublime-settings",
+				"/C/Users/M/Desktop/ps/data.py",
+				"/C/Users/M/Desktop/ps/data2.py",
+				"/C/Users/M/Desktop/ps/t_cat",
+				"/C/Users/M/Desktop/ps/t_map",
+				"/C/Users/M/Desktop/ps/d_map",
+				"/C/Users/M/Desktop/ps/dg.py",
+				"/C/Users/M/Desktop/ps/v_map",
+				"/C/Users/M/Desktop/ps/t.html",
+				"/C/Users/M/Desktop/ps/d_cat",
+				"/C/Users/M/Desktop/ps/temp",
+				"/C/Users/M/Desktop/ps/html",
+				"/C/Users/M/Desktop/ps/html.html",
+				"/C/Users/M/Downloads/FreeCoursesLab.com-The-Complete-FOREX-Scalping-Trading-Course/Direct download link FreeCoursesLab.com-The-Complete-FOREX-Scalping-Trading-Course.text",
+				"/C/Users/M/Desktop/sara-the-queen-bot/auto3.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/auto2.py",
+				"/C/Python39/lib/site-packages/beeprint/helpers/string.py",
+				"/D/CST3-master/Data/Packages/Python/Snippets/for2.sublime-snippet",
+				"/C/Users/M/Desktop/otp.py.txt"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 122.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"getQr",
+					"get",
+					"_safe_sell_amount",
+					"safe_safe_sell_amount",
+					"safe",
+					"\\$",
+					"$",
+					"order_types",
+					"limit_sell",
+					"limit",
+					"sell"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 251.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"tes",
+						"C:\\Users\\M\\Desktop\\amp\\test.py"
+					],
+					[
+						"sc",
+						"user_data\\strategies\\scalp.py"
+					],
+					[
+						"",
+						"config.json"
+					],
+					[
+						"y4",
+						"y4.py"
+					],
+					[
+						"memb",
+						"membersz.csv"
+					],
+					[
+						"y3",
+						"y3.py"
+					],
+					[
+						"t.",
+						"t.py"
+					],
+					[
+						"mem",
+						"members_KEC CSE Alumni 👩‍💻👨‍💻.csv"
+					],
+					[
+						"y2",
+						"y2.py"
+					],
+					[
+						"t",
+						"t.py"
+					],
+					[
+						"cont",
+						"contacts_m.csv"
+					],
+					[
+						"t.py",
+						"t.py"
+					],
+					[
+						"t2",
+						"t2.py"
+					],
+					[
+						"con",
+						"contacts.csv"
+					],
+					[
+						"me",
+						"members_t2.csv"
+					],
+					[
+						"conta",
+						"contacts.csv"
+					],
+					[
+						"m",
+						"members_t2.csv"
+					],
+					[
+						"y",
+						"y4.py"
+					],
+					[
+						"b",
+						"b.cmd"
+					],
+					[
+						"gt",
+						"gt.cmd"
+					],
+					[
+						"kec_bot3",
+						"kec_bot3.py"
+					],
+					[
+						"h.",
+						"h.html"
+					],
+					[
+						"fm",
+						"fmb.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 800.666666667
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"res",
+						"response"
+					],
+					[
+						"cont",
+						"contact"
+					],
+					[
+						"repl",
+						"reply_text"
+					],
+					[
+						"spli",
+						"splitlines"
+					],
+					[
+						"par",
+						"parse_range"
+					],
+					[
+						"att",
+						"attrs"
+					],
+					[
+						"prin",
+						"print_attributes"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/M/Desktop/otp.py",
+					"settings":
+					{
+						"buffer_size": 541,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "8"
+							},
+							"AgAAAL8BAAAAAAAAwAEAAAAAAAAAAAAAwAEAAAAAAADAAQAAAAAAAAUAAAA3ICsgMQ",
+							"AQAAAAAAAAABAAAAvwEAAAAAAADEAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/C/Users/M/Downloads/NostalgiaForInfinityV7.py",
+					"settings":
+					{
+						"buffer_size": 219227,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				},
+				{
+					"contents": "",
+					"file": "/D/CST4/sublime.py",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows",
+						"unsaved": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/Build/mPy.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mPy.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/Build/mPy.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mPy.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/Build/mBat.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Build/mBat.sublime-build",
+							"cmd"
+						]
+					],
+					[
+						"Packages/User/Build/mBat.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Rename File"
+					],
+					[
+						"r",
+						"Rename File"
+					],
+					[
+						"ren",
+						"Rename File"
+					],
+					[
+						"du",
+						"File: Duplicate"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Open Resource"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"p",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rn",
+						"Rename File"
+					],
+					[
+						"ext",
+						"Extract Sublime Package: Extract all packages"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"cus",
+						"UI: Customize Theme"
+					],
+					[
+						"sche",
+						"UI: Select Color Scheme"
+					],
+					[
+						"scheme",
+						"UI: Select Color Scheme"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 246.0,
+				"history":
+				[
+					"view.run_command('python_shell_to_code')",
+					"view.run_command('example')",
+					"view.run_command('python_shell_to_code')",
+					"view.run_command('example')",
+					"view.run_command('python_shell_to_code')",
+					"sublime.message_dialog('34')",
+					"view.run_command('python_shell_to_code')",
+					"view.run_command(python_shell_to_code)",
+					"python_shell_to_code"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/M/Desktop/ft"
+			],
+			"file_history":
+			[
+				"/C/Users/M/Downloads/64Gram Desktop/gen.py",
+				"/C/Users/M/Desktop/ft/config.json",
+				"/C/Users/M/Desktop/otp.py",
+				"/C/Python39/Lib/site-packages/freqtrade/exchange/binance.py",
+				"/C/Python39/Lib/site-packages/freqtrade/exchange/exchange.py",
+				"/C/Python39/Lib/site-packages/freqtrade/wallets.py",
+				"/C/Python39/Lib/site-packages/freqtrade/freqtradebot.py",
+				"/C/Users/M/Desktop/ft/user_data/strategies/scalp.py",
+				"/C/Users/M/Downloads/64Gram Desktop/zatca-envoice-sdk-dec405102021-V3.1/Apps/Readme.md",
+				"/C/Users/M/Desktop/c.java",
+				"/C/Users/M/Desktop/amp/test.py",
+				"/C/Users/M/Desktop/amp/p.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/hpcl.py",
+				"/C/Users/M/Downloads/64Gram Desktop/ArgumentsConfigurationLoader.java",
+				"/C/Users/M/Downloads/64Gram Desktop/zatca-envoice-sdk-dec405102021-V3.1/Apps/install.sh",
+				"/C/Users/M/Downloads/64Gram Desktop/zatca-envoice-sdk-dec405102021-V3.1/Apps/fatoorah.bat",
+				"/C/Users/M/Downloads/64Gram Desktop/zatca-envoice-sdk-dec405102021-V3.1/Apps/install.bat",
+				"/D/CST4/Data/Packages/Default/Main.sublime-menu",
+				"/C/Users/M/Desktop/f/user_data/strategies/scalp.py",
+				"/C/Users/M/Desktop/f/user_data/strategies/sample_strategy.py",
+				"/C/Python39/lib/site-packages/fpdf/html.py",
+				"/D/M/D2/rsp/9.sep",
+				"/C/Users/M/Desktop/rep/login.py",
+				"/C/Users/M/Desktop/rep/t.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/t.py",
+				"/D/CST4/Data/Packages/Custom_Plugins/PythonShellToCode.py",
+				"/D/CST4/Data/Packages/Custom_Plugins/Example.py",
+				"/D/CST4/Data/Packages/Terminal/Terminal.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/membersz.csv",
+				"/D/CST4/Data/Packages/Custom_Plugins/Update.py",
+				"/D/CST4/Data/Packages/User/Custom_Plugins/PythonShellToCode.py",
+				"/D/CST4/Data/Packages/User/Custom_Plugins/Example.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/y4.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/y3.py",
+				"/D/CST4/Data/Packages/Default/exec.py",
+				"/C/Users/M/Desktop/amp/app2.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/y2.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/t-contact.py",
+				"/D/CST4/Data/Packages/User/Commands/Custom.sublime-commands",
+				"/D/CST4/Data/Packages/Anaconda/Default.sublime-commands",
+				"/D/CST4/Data/SM/start.bat",
+				"/D/CST4/Data/SM/Quick.md",
+				"/C/Users/M/Desktop/sara-the-queen-bot/t2.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/contacts.csv",
+				"/D/CST4/Data/Packages/Anaconda/commands/autoformat.py",
+				"/D/CST3-master/Data/Packages/User/Commands/Custom.sublime-commands",
+				"/C/Users/M/Desktop/sara-the-queen-bot/contacts_m.csv",
+				"/C/Users/M/Desktop/sara-the-queen-bot/members_KEC CSE Alumni 👩‍💻👨‍💻.csv",
+				"/D/CST4/Data/SM/FAQ.md",
+				"/C/Users/M/Desktop/sara-the-queen-bot/members_2016-2021 CSE Alumni.csv",
+				"/C/Users/M/Desktop/sara-the-queen-bot/kec_bot3.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/gt.cmd",
+				"/C/Users/M/Desktop/sara-the-queen-bot/t-sara.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/contacts2.csv",
+				"/D/CST4/Data/Packages/User/Anaconda.sublime-settings",
+				"/D/CST4/Data/Packages/Anaconda/Anaconda.sublime-settings",
+				"/C/Users/M/Desktop/sara-the-queen-bot/members_Manoj's Staff.csv",
+				"/C/Users/M/Desktop/sara-the-queen-bot/members_t2.csv",
+				"/C/Users/M/Desktop/sara-the-queen-bot/tthon.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/b.cmd",
+				"/C/Users/M/Desktop/sara-the-queen-bot/app.py",
+				"/D/CST4/Data/Packages/User/Snippets/env.sublime-snippet",
+				"/D/CST4/Data/Packages/View In Browser/ViewInBrowserCommand.py",
+				"/C/Users/M/Desktop/ps/t.py",
+				"/C/Users/M/Desktop/ps/fmb.py",
+				"/D/CST4/Data/SM/.gitignore",
+				"/D/CST4/Data/Packages/User/View In Browser.sublime-settings",
+				"/C/Users/M/Desktop/ps/h.html",
+				"/C/Users/M/Desktop/ps/data3.py",
+				"/D/CST4/Data/SM/gt.cmd",
+				"/D/CST4/Data/Packages/View In Browser/View In Browser.sublime-settings",
+				"/D/CST4/Data/Packages/View In Browser/Default (Windows).sublime-keymap",
+				"/D/CST4/Data/Packages/View In Browser/Default (OSX).sublime-keymap",
+				"/D/CST4/Data/Packages/View In Browser/Default (Linux).sublime-keymap",
+				"/D/CST4/Data/Packages/User/Terminal (Windows).sublime-settings",
+				"/D/CST4/Data/Packages/Terminal/Terminal.sublime-settings",
+				"/D/CST4/Data/Packages/User/Terminal.sublime-settings",
+				"/C/Users/M/Desktop/ps/data.py",
+				"/C/Users/M/Desktop/ps/data2.py",
+				"/C/Users/M/Desktop/ps/t_cat",
+				"/C/Users/M/Desktop/ps/t_map",
+				"/C/Users/M/Desktop/ps/d_map",
+				"/C/Users/M/Desktop/ps/dg.py",
+				"/C/Users/M/Desktop/ps/v_map",
+				"/C/Users/M/Desktop/ps/t.html",
+				"/C/Users/M/Desktop/ps/d_cat",
+				"/C/Users/M/Desktop/ps/temp",
+				"/C/Users/M/Desktop/ps/html",
+				"/C/Users/M/Desktop/ps/html.html",
+				"/C/Users/M/Downloads/FreeCoursesLab.com-The-Complete-FOREX-Scalping-Trading-Course/Direct download link FreeCoursesLab.com-The-Complete-FOREX-Scalping-Trading-Course.text",
+				"/C/Users/M/Desktop/sara-the-queen-bot/auto3.py",
+				"/C/Users/M/Desktop/sara-the-queen-bot/auto2.py",
+				"/C/Python39/lib/site-packages/beeprint/helpers/string.py",
+				"/D/CST3-master/Data/Packages/Python/Snippets/for2.sublime-snippet",
+				"/C/Users/M/Desktop/otp.py.txt"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 122.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"getQr",
+					"get",
+					"_safe_sell_amount",
+					"safe_safe_sell_amount",
+					"safe",
+					"\\$",
+					"$",
+					"order_types",
+					"limit_sell",
+					"limit",
+					"sell"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\M\\Desktop\\ft"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/M/Desktop/otp.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 541,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										448,
+										448
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/M/Downloads/NostalgiaForInfinityV7.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 219227,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1426,
+										1441
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 450.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/CST4/sublime.py",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 46.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 251.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,657,0,0,815,b7dc5f79a5b74c48a83931edfe11c517",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"tes",
+						"C:\\Users\\M\\Desktop\\amp\\test.py"
+					],
+					[
+						"sc",
+						"user_data\\strategies\\scalp.py"
+					],
+					[
+						"",
+						"config.json"
+					],
+					[
+						"y4",
+						"y4.py"
+					],
+					[
+						"memb",
+						"membersz.csv"
+					],
+					[
+						"y3",
+						"y3.py"
+					],
+					[
+						"t.",
+						"t.py"
+					],
+					[
+						"mem",
+						"members_KEC CSE Alumni 👩‍💻👨‍💻.csv"
+					],
+					[
+						"y2",
+						"y2.py"
+					],
+					[
+						"t",
+						"t.py"
+					],
+					[
+						"cont",
+						"contacts_m.csv"
+					],
+					[
+						"t.py",
+						"t.py"
+					],
+					[
+						"t2",
+						"t2.py"
+					],
+					[
+						"con",
+						"contacts.csv"
+					],
+					[
+						"me",
+						"members_t2.csv"
+					],
+					[
+						"conta",
+						"contacts.csv"
+					],
+					[
+						"m",
+						"members_t2.csv"
+					],
+					[
+						"y",
+						"y4.py"
+					],
+					[
+						"b",
+						"b.cmd"
+					],
+					[
+						"gt",
+						"gt.cmd"
+					],
+					[
+						"kec_bot3",
+						"kec_bot3.py"
+					],
+					[
+						"h.",
+						"h.html"
+					],
+					[
+						"fm",
+						"fmb.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 18,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/C/Users/M/Documents/s.sublime-workspace",
+			"/C/Users/M/Documents/pattu.sublime-workspace"
+		]
+	}
+}

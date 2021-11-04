@@ -1,0 +1,22 @@
+{
+    "anaconda_linting_behaviour": "save-only",
+    "auto_formatting": true,
+"pep8_ignore":
+    [
+        "E309",
+        "E501",
+        "W503"
+    ],
+	"pyflakes_explicit_ignore":
+    [
+
+        // "Redefined",
+        "UnusedImport",
+        // "UndefinedName",
+        // "UndefinedLocal",
+        // "UnusedVariable,",
+        // "UndefinedExport",
+        // "DuplicateArgument",
+        // "RedefinedWhileUnused"
+    ],
+}

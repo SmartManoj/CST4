@@ -1,0 +1,7 @@
+{
+    "cmd": ["sh",   "$file" ,"<","D:\\1.Manoj\\4.Study\\4.Codes\\i "],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "working_dir": "${project_path:${folder}}",
+    "selector": "source.shell",
+    "shell": true,
+}

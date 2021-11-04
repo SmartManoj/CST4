@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoHotkey",
+		"Emmet",
+		"Expand Selection to Quotes",
+		"Extract Sublime Package",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"Sublime Input",
+		"Terminal",
+		"Text Pastry",
+		"View In Browser",
+	],
+	"in_process_packages":
+	[
+	],
+}

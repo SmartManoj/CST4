@@ -1,0 +1,14 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+	"variables":
+	{
+	},
+	"rules":
+	[
+		{
+			"class": "title_bar",
+			"style": "grey",
+			"bg": "#0000"
+		},
+	]
+}

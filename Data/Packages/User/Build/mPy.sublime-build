@@ -1,0 +1,18 @@
+{
+    "cmd": ["py", "-u", "$file"] ,
+    "selector": "source.python",
+    "file_regex": "^.*File \"(...*?)\", line ([0-9]*)",
+    "shell":false,
+    "encoding": "utf-8",
+    "env": {"PYTHONIOENCODING": "utf8"},
+
+    "variants":[
+        {
+            "name":"cmd",
+            "shell_cmd": "start cmd /c \"py -u \"$file\" &pause\"",
+            "file_regex": "^.*File \"(...*?)\", line ([0-9]*)",
+            "selector": "source.python",
+            "shell":false,
+        },
+    ]
+}
