@@ -17,6 +17,7 @@ git add .
 rem git rm -r --cached 	Data/Cache
 git commit -m 'Cool'
 git push --force origin main 
+git show-ref
 rem git push  origin master
 rem git push -u  https://github.com/SmartManoj/CST3  --force
 echo %date%,%time%

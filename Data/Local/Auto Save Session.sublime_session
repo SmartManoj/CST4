@@ -1066,7 +1066,7 @@
 					"file": "/D/CST4/Data/SM/gt.cmd",
 					"settings":
 					{
-						"buffer_size": 550,
+						"buffer_size": 563,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
@@ -1111,6 +1111,24 @@
 							},
 							"AgAAAEUAAAAAAAAASQAAAAAAAAAAAAAAiQAAAAAAAACNAAAAAAAAAAAAAAA",
 							"AQAAAAAAAAACAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/kQAAAAAAAACRAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAKsBAAAAAAAArAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAqwEAAAAAAACrAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"paste",
+							null,
+							"AQAAAKwBAAAAAAAAuAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArAEAAAAAAACsAQAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -1543,19 +1561,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 550,
+								"buffer_size": 563,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										84,
-										84
-									],
-									[
-										153,
-										153
+										440,
+										440
 									]
 								],
 								"settings":
@@ -1565,7 +1579,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 300.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
