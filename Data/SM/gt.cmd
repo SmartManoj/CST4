@@ -2,7 +2,7 @@
 rem exit
 rem heroku accounts:set p
 call a.cmd
-git init
+rem git init
 git push --set-upstream https://github.com/SmartManoj/CST4 main
 git remote add origin https://github.com/SmartManoj/CST4.git
 

@@ -1066,7 +1066,7 @@
 					"file": "/D/CST4/Data/SM/gt.cmd",
 					"settings":
 					{
-						"buffer_size": 538,
+						"buffer_size": 542,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
@@ -1091,6 +1091,16 @@
 							},
 							"AgAAAEEAAAAAAAAAQQAAAAAAAAAEAAAAcmVtIIEAAAAAAAAAgQAAAAAAAAAEAAAAcmVtIA",
 							"AQAAAAAAAAACAAAAUQAAAAAAAABRAAAAAAAAAAAAAAAAAPC/lQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAADgAAAAAAAAAPAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -1519,22 +1529,19 @@
 						{
 							"buffer": 2,
 							"file": "/D/CST4/Data/SM/gt.cmd",
+							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 538,
+								"buffer_size": 542,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										77,
-										77
-									],
-									[
-										141,
-										141
+										68,
+										68
 									]
 								],
 								"settings":
@@ -1547,14 +1554,13 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 0,
 							"stack_multiselect": false,
 							"type": "text"
 						},
 						{
 							"buffer": 3,
 							"file": "/D/CST4/Data/SM/a.cmd",
-							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
@@ -1577,7 +1583,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"stack_multiselect": false,
 							"type": "text"
 						},
