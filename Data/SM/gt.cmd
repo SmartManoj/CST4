@@ -3,8 +3,8 @@ rem exit
 rem heroku accounts:set p
 call a.cmd
 rem git init
-git push --set-upstream https://github.com/SmartManoj/CST4 main
-git remote add origin https://github.com/SmartManoj/CST4.git
+rem git push --set-upstream https://github.com/SmartManoj/CST4 main
+rem git remote add origin https://github.com/SmartManoj/CST4.git
 
 if "1" EQU "1." (
 	git pull origin main
