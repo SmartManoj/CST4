@@ -1066,7 +1066,7 @@
 					"file": "/D/CST4/Data/SM/gt.cmd",
 					"settings":
 					{
-						"buffer_size": 563,
+						"buffer_size": 555,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
@@ -1129,6 +1129,24 @@
 							null,
 							"AQAAAKwBAAAAAAAAuAEAAAAAAAAAAAAA",
 							"AQAAAAAAAAABAAAArAEAAAAAAACsAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"cut",
+							null,
+							"AQAAAKwBAAAAAAAArAEAAAAAAAANAAAAZ2l0IHNob3ctcmVmCg",
+							"AQAAAAAAAAABAAAAuAEAAAAAAAC4AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": "Head:"
+							},
+							"BQAAAKYBAAAAAAAApwEAAAAAAAAAAAAApwEAAAAAAACoAQAAAAAAAAAAAACoAQAAAAAAAKkBAAAAAAAAAAAAAKkBAAAAAAAAqgEAAAAAAAAAAAAAqgEAAAAAAACrAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApgEAAAAAAACmAQAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -1561,15 +1579,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 563,
+								"buffer_size": 555,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										440,
-										440
+										427,
+										427
 									]
 								],
 								"settings":
